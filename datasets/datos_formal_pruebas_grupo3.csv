@@ -1,0 +1,390 @@
+﻿PROYECTO,REQUISITO,ETIQUETA,ETIQUETAFINAL
+16,Poder crear un usuario y acceder a través de él a la aplicación,F,SE
+16,Poder crear un perfil personal e individual a través de mis datos personales.,F,F
+16,Acceder a la aplicación y a sus funcionalidades a través de un login y una contraseña establecida por el propio usuario.,F,SE
+16,"Todos los datos introducidos podrán ser leídos, modificados o eliminados en cualquier momento.",F,A
+16,"Poder leer, eliminar, editar o incluir cualquier mérito en la aplicación.",F,F
+16,Poder adjuntar documentos PDF a cualquier mérito.,F,F
+16,Poder crear cualquier mérito y asociarlo a mi perfil de usuario.,F,F
+16,Poder añadir documentos PDF a la aplicación y asociarlos a los méritos ya creados.,F,F
+16,"Todos los datos personales almacenados podrán ser leídos, actualizados o eliminados.",F,F
+16,Poder conocer si cualquiera de mis operaciones ha tenido éxito o si por lo contrario ha surgido algún error.,F,F
+16,Que toda la información que proporcione a la aplicación y las operaciones que realice no puedan ser consultadas por otros usuarios.,F,SE
+16,"Todas las operaciones realizadas por el usuario deben incluir algún tipo de alerta o señal que indique al usuario, una vez que la operación ha acabado, si lo ha hecho satisfactoriamente o, en caso de haber ocurrido algún error, lo informe.",F,F
+16,"Todos los datos personales almacenados, así como las operaciones realizadas deberán estar securizadas y/o codificadas.",F,SE
+16,"Poder crear, leer, modificar y eliminar los tipos de méritos y sus campos.",F,F
+16,"Poder crear, leer, modificar y eliminar las plantillas de currículums y sus secciones.",F,F
+16,"Poder crear funciones JavaScript que transformen a los méritos ya existentes o creen nuevos tipos de méritos. Además, quiero poder consultar, editar y eliminar estas funciones.",F,F
+16,"Poder crear, eliminar, leer y modificar los tipos de méritos y sus campos.",F,F
+16,"Poder crear, eliminar, leer y modificar las plantillas y sus secciones.",F,F
+16,Poder comprobar que las funciones JavaSript son correctas y cuál será el resultado de su aplicación.,F,F
+16,"Poder crear, eliminar, leer y modificar las funciones JavaScript.",F,F
+16,"Poder exportar los méritos incluidos en mi perfil, según diferentes plantillas, a documentos de texto descargables.",F,F
+16,"El usuario podrá seleccionar el formato en el que desea exportar su currículum, dentro de todas las plantillas proporcionadas por la aplicación.",F,F
+16,El usuario dispondrá de manuales de ayuda consultables para ayudarle en la creación de su currículum.,F,F
+16a,Registro de usuario: El usuario no registrado podrá crear un perfil de usuario que le permitirá ingresar en la aplicación y acceder a sus funcionalidades.,F,SE
+16a,"Login: El usuario no registrado, a través de un nombre de usuario y una contraseña, podrá acceder a las funcionalidades de la aplicación.",F,SE
+16a,"Creación/Consulta/Edición/Borrado de méritos: El usuario podrá incluir un mérito de cualquier tipo disponible, así como actualizarlo, borrarlo o simplemente consultarlo. Para esto, primero deberá seleccionar el tipo de mérito con el que desea interaccionar.",F,F
+16a,"Consulta/Edición del perfil de usuario: El usuario podrá acceder a su información personal en cualquier momento.",F,A
+16a,"Consulta/Edición del perfil de usuario: El usuario podrá acceder y modificar su información personal.",F,F
+16a,"Consultar Manual: El usuario podrá consultar el manual de ayuda a la creación de cada formato de currículum, previamente seleccionando el formato a consultar.",F,F
+16a,"Exportar currículum: El usuario podrá exportar el currículum del formato que desee, dentro de los ofertados por la aplicación, únicamente seleccionándolo. El currículum se rellenará con los méritos añadidos previamente por el usuario.",F,F
+16a,"Creación/Consulta/Edición/Borrado de tipo de mérito: El administrador podrá crear nuevos tipos de méritos que pasarán a estar disponibles para los usuarios. Además, podrá editarlos, consultarlos o borrarlos previamente seleccionando el tipo de mérito sobre el que operar.",F,F
+16a,"Creación/Consulta/Edición/Borrado de campo de mérito: El administrador podrá añadir nuevos campos a un tipo de mérito ya creado. Estos nuevos campos pasarán a estar disponibles a los usuarios para cumplimentar al crear un mérito de ese tipo. Además, podrá editarlos, consultarlos o borrarlos, previamente seleccionando el tipo de mérito sobre el que operar.",F,F
+16a,"Creación/Consulta/Edición/Borrado de plantillas: El administrador podrá crear nuevas plantillas de currículums, que pasarán a estar disponibles para los usuarios como nuevo formato de exportación. Además podrá editarlas, consultarlas o borrarlas, previamente seleccionando la plantilla sobre la que operar.",F,F
+16a,"Creación/Consulta/Edición/Borrado de secciones: El administrador podrá añadir nuevas secciones a una plantilla ya creada. Estas nuevas secciones formarán parte del exportado de currículums de ese formato. Estas secciones podrán ser editadas, consultadas o borradas, previamente seleccionando la plantilla deseada.",F,F
+16a,"Creación/Consulta/Edición/Borrado de funciones: El administrador podrá crear funciones personalizadas JavaScript para adaptar tipos de méritos existentes, a otros formatos, o crear tipos nuevos. Para esto, existirá un editor que permitirá verificar la validez del código creado, así como un ejemplo del resultado de aplicar dicha función. Además, están funciones serán editables, borrables y consultables.",F,F
+16a,"La información de los usuarios debe ser confidencial y no debe permitirse el acceso a estos por parte de terceros. Además, todas las operaciones que realice un usuario sobre el sistema deben verificar la autenticidad y autorización que dicho usuario posee.",SE,SE
+16a,"Uno de los pilares del sistema es la capacidad de ofertar un abanico de formatos que pueden incrementarse con el tiempo. Por eso, se espera del sistema que sea capaz de adaptarse a las nuevas inclusiones de formatos, sin necesidad de modificar el código.",SC,SC
+16a,"La aplicación debe presentar una interfaz simple y fácil para el usuario. Además, se proporcionarán manuales de ayuda on-line para facilitar la creación de currículums y ayuda en las funcionalidades más complejas.",US,US
+17,"Autenticase. El usuario introduce sus credenciales para acceder en la aplicación. El sistema valida las credenciales y en caso de que sean válidas el usuario estará autenticado y tendrá acceso a todas las funcionalidades disponibles. En caso contrario, se mostrará un mensaje de error.",F,SE
+17,"Consultar ruta (a). Una vez autenticado el usuario, se visualizará, en la pantalla principal de la aplicación, la última posición de los barcos. Esta posición está almacenada en base de datos ya que previamente se hace una petición contra la estructura compacta y se guarda el resultado obtenido en la base de datos. También se muestra una tabla resultado con los barcos que se están visualizando en el mapa y para cada uno podrá acceder a su ficha correspondiente, ver la última posición del barco concreto y hacer algún comentario de este. Se pueden ver también dos tablas, una con los reports que hizo el propio usuario sobre los barcos y una segunda con los reports de los barcos que pertenecen a su grupo.",F,F
+17,"Consultar ruta (b). Petición que hace el usuario para obtener la trayectoria de un barco, indicando el nombre de este y el intervalo de tiempo que desea consultar. Una vez hecha la petición se visualizará en el mapa la trayectoria del barco en caso de que exista o un mensaje informativo indicando que el barco no ha hecho ninguna trayectoria en el intervalo de tiempo indicado.",F,F
+17,Añadir report. Permite al usuario crear informes de los barcos que son visibles para él.,F,F
+17,"Ver report. Una vez añadido el informe, todos los usuarios que estén asignados a grupos a los que pertenezca el barco, podrán ver estos informes. En la pantalla principal se visualizará una tabla con los reports de los barcos que se están mostrando en el mapa.",F,F
+17,"Consultar región. Desde el menú lateral, el usuario accede a esta funcionalidad que le permite hacer una petición para consultar los barcos que están en una región concreta, en un instante de tiempo indicado por el usuario. La región la selecciona el propio usuario en el mapa, que se muestra en pantalla, pulsando control (ctrl) y el área deseada. Se visualizará en el mapa la región marcada con los barcos que cumplen las condiciones y además se mostrará una tabla con los barcos resultado de la consulta, de los cuales puede ver su ficha y su última posición.",F,F
+17,"Consultar trayectoria. En la misma pantalla, en donde se ejecuta la historia de usuario (consultar región), el usuario puede indicar un intervalo de tiempo y seleccionar el área sobre la cuál desea hacer la búsqueda y se visualizarán en el mapa la trayectoria de todos los barcos que hayan pasado por esa región en este intervalo de tiempo, junto con una tabla con los barcos resultados de la búsqueda. Tendrá acceso a la ficha de cada barco y podrá consultar la trayectoria de un barco concreto.",F,F
+17,"Ver trayectoria. Una vez realizada la búsqueda de los barcos de una región en un intervalo de tiempo, el usuario podrá ejecutar esta funcionalidad para cada uno de los barcos, para ver la ruta concreta.",F,F
+17,"Consultar punto. Desde el menú lateral, el usuario puede hacer una búsqueda de un número determinado de barcos que están próximos a un punto de coordenadas, seleccionado en el mapa, en un instante de tiempo indicado por el usuario. Se visualizará en el mapa la última posición de los barcos y una tabla con el resultado obtenido, donde se podrá consultar la ficha y la última posición de cada barco.",F,F
+17,Ver mi perfil. El usuario autenticado puede ver su información personal almacenada en el sistema. Tendrá acceso a la historia de usuario (editar mi perfil).,F,F
+17,Editar mi perfil. El usuario puede modificar/actualizar su información personal que está almacenada en base de datos.,F,F
+17,Cambiar contraseña. Proceso mediante el cual el usuario puede modificar su contraseña actual.,F,SE
+17,Búsqueda avanzada. Permite al usuario realizar una consulta para buscar los barcos en función de los atributos deseados. El resultado se mostrará en una tabla y podrá visualizarlo en el mapa.,F,F
+17,Mostrar en mapas. Visualizar en el mapa la última posición de los barcos resultado de la ejecución de la historia de usuario (búsqueda avanzada).,F,F
+17,Ver última posición. Funcionalidad que permite al usuario visualizar en el mapa la última posición registrada que existe de un barco concreto.,F,F
+17,"Ver usuarios. El administrador tiene acceso, desde el menú lateral, a una tabla con los usuarios registrados en el sistema que no están dados de baja. Para cada uno de ellos se muestra su login, que es único, y tiene disponibles iconos para ejecutar las historias de usuario que se mencionan: un icono con forma de ojo para ejecutar a (ver usuario), un icono con forma de lápiz para acceder a HU-18 (editar usuario) y un icono con forma de papelera para acceder a HU-20 (eliminar usuario). Como los usuarios se pueden dar de baja, se muestra, en la misma página, una tabla con los usuarios que están dados de baja en el sistema y para cada uno tendrá un icono para acceder a (dar de alta usuario) y un icono con forma de ojo para acceder a HU-17 (ver usuario). Para facilitar la búsqueda de un usuario, en la propia tabla, existe un buscador que filtra los usuarios por login. Puede acceder de forma rápida a través de un botón disponible en esta pantalla a la historia de usuario HU-19 (añadir usuario). ",F,F
+17,"Ver usuario. Esta historia de usuario le permite al administrador consultar la información personal de un usuario concreto registrado en el sistema y también muestra en la misma página una tabla con todos los grupos a los que pertenece, facilitando el acceso a la historia de usuario HU-34 (quitar usuario) a través de un icono. En la misma pantalla dispone de un botón que le proporciona acceso a la historia de usuario (asignar grupo), para ingresar al usuario en un nuevo grupo.",F,F
+17,"Editar usuario. A partir de la historia de usuario (ver usuario) o de la historia de usuario (ver usuarios), el administrador puede modificar/actualizar la información personal de un usuario concreto.",F,F
+17,"Añadir usuario. Es el proceso mediante el cual el administrador registra a un nuevo usuario en el sistema. Por defecto, todos los usuarios registrados se crean sin permisos especiales. Tiene acceso desde la historia de usuario (ver usuarios).",F,F
+17,"Eliminar usuario. Es el proceso que lleva a cabo el administrador para dar de baja a un usuario en el sistema, una vez dado de baja un usuario, se dará de baja de todos los grupos a los que esté asignado y no tendrá acceso a la aplicación hasta que no sea dado de alta de nuevo. Tiene acceso a esta funcionalidad desde la historia de usuario (ver usuarios).",F,F
+17,"Asignar grupo. A partir de la historia de usuario (ver usuario), el administrador lleva a cabo este proceso para añadir al usuario concreto en un nuevo grupo.",F,F
+17,"Ver barcos. El administrador tiene acceso, desde el menú lateral, a una tabla con todos los barcos registrados en el sistema. Para cada uno de ellos se muestra el nombre junto con el MMSI (identificador único del barco) y puede ejecutar, a través de un icono con forma de lápiz, la historia de usuario (editar barco), un icono con forma de ojo para ver la ficha de un barco (ver barco) y un icono con forma de papelera para eliminar un barco (eliminar barco). Además, para facilitar la búsqueda de un barco concreto, como la cantidad de estos puede ser grande, la tabla cuenta con un buscador que filtra por nombre o identificador del barco. También dispone de un botón para ejecutar la historia de usuario (añadir barco) en la misma página.",F,F
+17,"Añadir barco. El administrador puede ejecutar esta funcionalidad desde la historia de usuario (ver barcos), en donde se cubre un formulario para registrar un nuevo barco en el sistema. Para registrarlo solo es obligatorio el MMSI, que es un número de 8 caracteres que identifica al barco, los datos restantes son opcionales. Una vez registrado el barco, se visualiza en pantalla el listado de todos los barcos, a los cuales solo tiene acceso el administrador, para el resto de usuarios registrados solo serán visibles los que pertenezcan a sus mismos grupos.",F,F
+17,"Eliminar barco. Es el proceso mediante el cual el administrador da de baja un barco del sistema. En consecuencia, el barco será dado de baja de todos los grupos a los que esté asignado. Se accede a través de la historia de usuario HU-23 (ver barcos).",F,F
+17,"Ver barco. A partir de la historia de usuario (ver barcos), el administrador puede consultar toda la información almacenada de un barco y desde la misma página, puede editar el barco (editar barco) y ver los grupos a los que pertenece, así como también ejecutar la funcionalidad que le permite asignarlo a un grupo (asignar grupo). La información del barco solo será visible para aquellos usuarios que pertenezcan a los grupos a los que esté asignado el barco.",F,F
+17,"Editar barco. Esta historia de usuario le permite al administrador modificar/actualizar la información del barco. Puede ejecutar esta funcionalidad a través de las historias de usuario (ver barcos) y (ver barco).",F,F
+17,"Ver grupos. Desde el menú lateral, el administrador puede acceder a un listado con los grupos que están registrados en el sistema. Para cada grupo se visualiza su nombre y se pueden ejecutar desde esta pantalla las funcionalidades de eliminar grupo (eliminar grupo) a través de un icono con forma de papelera y ver la ficha del grupo, (ver grupo), a través de un icono con forma de ojo. Además, tiene disponible un botón para ejecutar la historia de usuario (crear grupo), para añadir un nuevo grupo.",F,F
+17,"Eliminar grupo. Proceso que le permite al administrador dar de baja un grupo en el sistema. Como consecuencia, todos los usuarios y barcos asignados a dicho grupo serán dados de baja en el mismo.",F,F
+17,"Ver grupo. A partir de la historia de usuario (ver grupos), el administrador puede consultar la ficha de un grupo, en donde se muestra una tabla con los usuarios que pertenecen a este grupo y un icono para cada uno de ellos que le permite al administrador ejecutar la historia de usuario HU-33 (quitar usuario) y otra tabla donde se muestran los barcos asignados al grupo con un icono para cada uno que le permitirá al administrador quitar un barco del grupo (HU-35 (quitar barco)). Desde esta ficha, puede añadir más usuarios a través de un botón que ejecutará la historia de usuario (asignar usuario), así como también añadir más barcos al grupo mediante un botón que ejecutará la historia de usuario (asignar barco).",F,F
+17,"Crear grupo. Permite registrar un nuevo grupo en el sistema, cada grupo tendrá un nombre que será único. Una vez creado el nuevo grupo se pueden ejecutar las historias de usuario (asignar usuario) y  (asignar barco), aunque no es obligatorio, estas operaciones pueden realizarse en cualquier otro momento.",F,F
+17,"Asignar usuario. Proceso mediante el cual el administrador añade un usuario a un grupo. Una vez que el usuario ha sido asignado a un grupo, este tendrá acceso a la información de los barcos que pertenezcan al mismo.",F,F
+17,Quitar usuario. Proceso que le permite al administrador eliminar a un usuario de un grupo concreto. El mismo usuario puede volver a formar parte de este grupo.,F,F
+17,Asignar barco. Proceso que permite al administrador añadir un barco en un grupo concreto. Este barco será visible para todos los miembros del grupo.,F,F
+17,Quitar barco. Proceso a través del cual el administrador elimina un barco de un grupo concreto. El mismo barco puede volver a formar parte de este grupo.,F,F
+17,Cerrar sesión. Proceso mediante el cual un usuario autenticado termina su sesión en el sistema.,F,SE
+17,La aplicación debe permitir al usuario hacer consultas de manera intuitiva.,US,US
+17,La aplicación debe proporcionarle al usuario una interfaz que sea fácil de utilizar.,LF,LF
+17,"El acceso a la información almacenada en la estructura compacta debe ser eficiente, ya que en esta se guardan grandes cantidades de datos usando el mínimo espacio necesario.",PE,PE
+17,Tiempos de respuesta cortos al realizar peticiones contra la estructura de compresión utilizada.,PE,PE
+18,El sistema debe permitir la autenticación de usuarios para que un usuario anónimo se registre y poder iniciar sesión como usuario registrado.,F,SE
+18,"El administrador tendrá la posibilidad de gestionar la creación y edición de aeródromos y aeronaves, para ello se necesitarán formularios específicos para cada una de las entidades y listas para visualizarlas.",F,F
+18,El administrador deberá también moderar comentarios en las rutas públicas.,F,F
+18,"Un usuario registrado podrá crear y editar entradas de su diario de vuelo, además de poder visualizarlas todas juntas en una tabla y en detalle individualmente.",F,F
+18,En el detalle de la entrada de vuelo aparecerán todos los campos introducidos en el formulario de creación.,F,F
+18,"Un usuario registrado podrá crear y editar rutas, las cuales tendrán una vista de detalle y podrán verse en las diferentes listas (rutas públicas, rutas creadas y rutas favoritas).",F,F
+18,"El detalle de las rutas debe contener un mapa con el camino seguido, una descripción, la opción de marcarla como favorita y la opción de descargar el archivo GPX asociado. Además contará con una serie de imágenes, de las cuales se podrá ver su vista en detalle. Por último, se permitirá a los usuarios registrados crear comentarios sobre una ruta pública.",F,F
+18,"Un usuario registrado contará con su propio perfil de usuario, que contendrá su información personal, además de pestañas con las rutas publicadas, estadísticas de sus vuelos y listas de seguidores y seguidos. Se le debe permitir modificar su información personal.",F,F
+18,Se considera importante que la aplicación cuente con un sistema de autenticación para que los usuarios no accedan a datos que no les corresponde.,SE,SE
+18,Se pretende que los pilotos puedan crear rutas y modificar su diario de vuelo con operaciones sencillas.,US,F
+18a,"Un usuario anónimo accede al formulario de registro y se crea una cuenta. En este formulario se recoge su información personal (Nombre, apellidos, fecha de nacimiento, correo electrónico, ciudad y país) y la contraseña que tendrá que utilizar para iniciar sesión, siendo todos los campos obligatorios.",F,F
+18a,"Un usuario anónimo accede al formulario de autenticación para conectarse como usuario registrado, en él deberá introducir su nombre de usuario y su contraseña.",F,SE
+18a,Un usuario registrado hace clic en el botón de cerrar sesión y pasa a ser usuario anónimo de nuevo.,F,SE
+18a,Un administrador crea una nueva aeronave desde el formulario de creación de aeronaves introduciendo la marca y el modelo.,F,F
+18a,Un administrador accede a una lista con todas las aeronaves creadas.,F,F
+18a,Un administrador elimina una aeronave de las que se encuentran en la lista.,F,F
+18a,"Un administrador accede al formulario de edición de una aeronave, el cual contiene los mismos campos que el de creación.",F,F
+18a,"Un usuario anónimo que haya olvidado su contraseña puede acceder a un formulario en el que se le pedirá su correo electrónico. Si el correo introducido se encuentra en la base de datos, se le enviará al mismo un enlace personalizado en el que podrá restablecer su contraseña de forma segura.",F,F
+18a,"Un administrador crea un nuevo aeródromo desde el formulario de creación de aeródromos introduciendo su nombre, ciudad, país, código IATA, código OACI, elevación y coordenadas. Estas últimas se podrán introducir de forma manual o haciendo clic sobre un mapa.",F,F
+18a,Un administrador accede a la lista de aeródromos creados.,F,F
+18a,Un administrador elimina un aeródromo de los que se encuentran en la lista.,F,F
+18a,"Un administrador accede al formulario de edición de un aeródromo, el cual contiene los mismos campos que el formulario de creación.",F,F
+18a,"Un usuario registrado o anónimo comprueba la información personal de un perfil de usuario, la cual muestra el nombre completo del piloto, la ciudad indicada en el registro, el país, la fecha de nacimiento, la fecha de registro en la página y una imagen de perfil.",F,F
+18a,Un usuario registrado modifica la información mostrada en su perfil de usuario desde el formulario de edición accesible a través de una pestaña en el propio perfil.,F,F
+18a,"Un usuario registrado modifica la imagen de su perfil de usuario, escogiéndola de su ordenador.",F,F
+18a,Usuario registrado crea una entrada del diario de vuelo a través del formulario de creación.,F,F
+18a,"Un usuario registrado visualiza la tabla de entradas del diario de vuelo. Esta tabla contendrá la información básica de cada entrada y opciones para verla en detalle, editarla y eliminarla.",F,F
+18a,"Un usuario registrado visualiza el detalle de una entrada del diario de vuelo. Esta pantalla contendrá todos los campos utilizados en la creación del vuelo, además de un mapa mostrando la ruta seguida. En caso de que no se haya seguido ninguna ruta, el mapa mostrará una linea recta entre los aeropuertos si el aeropuerto de salida y el de llegada son distintos, y en caso de que sea el mismo, en el mapa se dibujará un círculo alrededor de éste.",F,F
+18a,Un usuario registrado edita una entrada del diario de vuelo con un formulario similar al de creación.,F,F
+18a,Un usuario registrado elimina una entrada del diario de vuelo desde la tabla de entradas.,F,F
+18a,Un usuario registrado descarga un archivo que contiene el registro de vuelo completo con todos los campos. Dicho archivo tendrá formato CSV y se descargará directamente al pulsar un botón que se encontrará en la misma pantalla que la tabla de entradas.,F,F
+18a,Un usuario registrado o anónimo podrá visualizar estadísticas de los vuelos de cualquier usuario desde una pestaña en el perfil de éste.,F,F
+18a,Un usuario registrado puede seguir a otro usuario pulsando un botón en el perfil del último.,F,F
+18a,Un usuario registrado puede dejar de seguir a otro usuario pulsando un botón en el perfil del último.,F,F
+18a,Un usuario registrado o anónimo puede comprobar la lista de usuarios a los que sigue un piloto desde una pestaña de su perfil. En esta lista se mostrará la imagen de perfil de los pilotos junto a su nombre y su ciudad.,F,F
+18a,Un usuario registrado o anónimo puede comprobar la lista de seguidores de un piloto desde una pestaña de su perfil. En esta lista se mostrará la imagen de perfil de los pilotos junto a su nombre y su ciudad.,F,F
+18a,Un usuario registrado crea una nueva ruta a través del formulario de creación de rutas.,F,F
+18a,"Un usuario registrado sube una imagen correspondiente a una ruta a través de un formulario contenido en una ventana modal accesible desde los formularios de creación y edición de las rutas. Para subir la imagen serán imprescindibles un nombre, una descripción, el archivo de la imagen y las coordenadas correspondientes, las cuales se podrán establecer manualmente o buscando el lugar exacto en un mapa.",F,F
+18a,"Un usuario registrado elimina una imagen correspondiente a una ruta, ya sea durante la creación o la edición de ésta.",F,F
+18a,Un usuario registrado modifica una ruta de su propiedad a través de un formulario similar al formulario de creación de ruta.,F,F
+18a,"Un usuario registrado, anónimo o administrador visualiza una lista de rutas públicas ordenadas por fecha, siendo la última ruta publicada la primera de la lista. En cada ruta se mostrará una imagen de las asociadas a la ruta, el nombre de la ruta, la descripción, el nombre del creador y la fecha de creación de la ruta. En el caso del administrador, en las rutas de la lista se indicará el número de comentarios que contiene para facilitar las labores de moderación.",F,F
+18a,"Un usuario registrado visualiza su lista de rutas creadas ordenadas por fecha, siendo la última ruta publicada la primera de la lista, a través de una pestaña en la página de rutas. En cada ruta se mostrará una imagen de las asociadas a la ruta, el nombre de la ruta, la descripción, el nombre del creador y la fecha de creación de la ruta.",F,F
+18a,"Un usuario registrado visualiza su lista de rutas favoritas ordenadas por fecha, siendo la última ruta publicada la primera de la lista, a través de una pestaña en la página de rutas. En cada ruta se mostrará una imagen de las asociadas a la ruta, el nombre de la ruta, la descripción, el nombre del creador y la fecha de creación de la ruta.",F,F
+18a,"Un usuario registrado o anónimo visualiza la lista de rutas publicadas por un piloto a través de una pestaña de su perfil. Estarán ordenadas por fecha, siendo la última ruta publicada la primera de la lista y mostrarán cuatro imágenes de las asociadas a la ruta, el nombre y la fecha de creación de la ruta. En caso de ser un usuario registrado y estar visualizando su propia lista de rutas, se mostrarán todas las rutas creadas.",F,F
+18a,"Un usuario registrado, anónimo o administrador accede a la vista de detalle de una ruta. En esta vista se debe mostrar el nombre de la ruta con su creador y la fecha de creación, un mapa mostrando el camino concreto que sigue la ruta indicado por el archivo GPX importado, una vista previa de las imágenes asociadas a la ruta, así como iconos en el mapa indicando su ubicación, la descripción de la ruta y una sección de comentarios.",F,F
+18a,"Un usuario registrado elimina una ruta de su propiedad y, como consecuencia, todas las imágenes asociadas a la misma.",F,F
+18a,"Un usuario registrado, a través de la vista de detalle de un vuelo accede a la vista de detalle de la ruta que está asociado a él.",F,F
+18a,Un usuario registrado añade una ruta pública o propia a su lista de rutas favoritas.,F,F
+18a,Un usuario registrado elimina una ruta pública de su lista de rutas favoritas.,F,F
+18a,Un usuario registrado o anónimo descarga el archivo GPX asociado a una ruta.,F,F
+18a,Un usuario registrado accede a los vuelos realizados sobre una ruta concreta.,F,F
+18a,"Un usuario registrado o anónimo visualiza en detalle las imágenes asociadas a una ruta. Este detalle se mostrará en una ventana modal que contiene el nombre de la imagen, su descripción y la imagen en cuestión.",F,F
+18a,"Un usuario registrado comenta una ruta pública. Este comentario se mostrará en una lista en la sección de comentarios de una imagen y contendrá la imagen de perfil del usuario, su nombre y la fecha de creación del comentario, además del comentario en sí.",F,F
+18a,"Un usuario registrado o administrador elimina un comentario. En el caso de ser un comentario de una ruta propia, se podrán borrar los comentarios de otros usuarios, si es una ruta ajena solo se podrán eliminar los comentarios hechos por el usuario autenticado. Un administrador podrá borrar cualquier comentario.",F,F
+18a,"Un usuario registrado o anónimo visualiza la página principal de la aplicación. Esta página contendrá una lista con las tres últimas rutas publicadas, de las cuales se mostrará el nombre, tres imágenes, el creador y la fecha de creación, y un mapa con los caminos que siguen esas tres rutas. Además, para los usuarios registrados se mostrarán los tres últimos vuelos realizados, conteniendo cada uno los aeropuertos de salida y llegada, la fecha del vuelo, el avión utilizado y el tiempo total.",F,F
+18a,"Un administrados visualiza la página principal de administración de la aplicación, la cual contiene tres enlaces, uno a la lista de aeronaves, otro a la lista de aeródromos y un último enlace a la lista de rutas públicas.",F,F
+19,Autenticación de usuarios: Un usuario podrá registrarse en la aplicación y usar las credenciales proporcionadas para iniciar sesión posteriormente.,F,O
+19,"Sistema basado en slots y movimientos: Son los dos componentes básicos; un slot representa fuentes de ingreso, monederos, categorías de gasto y usuarios no registrados, y un movimiento es cualquier operación de slot a slot —ingresos, pagos y transferencias.",F,F
+19,Seguimiento de cuentas individuales: La aplicación permitirá al usuario almacenar sus ingresos y gastos individuales.,F,F
+19,"Seguimiento de gastos grupales: Se ofrecerá la posibilidad de formar grupos de usuarios en los que se podrán almacenar los gastos compartidos por sus miembros. Se permitirá saldar las cuentas de forma individual y conjuntamente, y podrán participar usuarios sin cuenta en la aplicación.",F,F
+19,"Se mostrará información relevante de la situación de cuentas, tanto individuales como grupales, incluyendo listados de movimientos, estadísticas, balances de slots y deudas de cada grupo.",F,F
+19,"Movimientos periódicos: Se dotará al usuario de la posibilidad de efectuar cualquier movimiento de forma repetida en el tiempo (diariamente, mensualmente, etc.).",F,F
+19,"Aviso mediante notificaciones de que un evento importante ha tenido lugar: una operación en un grupo, o un movimiento periódico efectuado.",F,F
+19,"Se deben poder almacenar las operaciones de un modo rápido e intuitivo, a través de gestos de arrastre entre slots",US,US
+19,"Se intentará que la interfaz proporcionada por la aplicación sea lo más amigable e intuitiva posible, lo que además favorecerá la facilidad de uso de la aplicación.",LF,LF
+19,Se podrá operar desde cualquier dispositivo a través de una interfaz pensada para móviles pero que se adapte correctamente a los dispositivos de escritorio. Los datos serán almacenados en la nube para disponer de ellos en cualquier lugar.,PO,PO
+19,"Funcionalidad offline, permitiendo al usuario almacenar cualquier operación en ausencia de conexión. Esto incluye, por una parte, la carga de las páginas con la información más reciente que se tenga, y por otra parte, el almacenamiento temporal de las operaciones para poder ser efectuadas al volver la conexión.",A,A
+19,La aplicación debe contener algún sistema de autenticación de usuarios que asegure que ningún otro usuario puede acceder a sus datos.,SE,SE
+19a,"Como usuario no autenticado quiero crear una nueva cuenta en la aplicación. Debe estar asociada a un nombre de usuario y correo electrónico únicos, y con una contraseña de al menos ocho caracteres.",F,O
+19a,"Como usuario no autenticado quiero poder iniciar sesión con mi nombre de usuario y contraseña y, si son correctos, acceder a la vista principal de la aplicación. En caso contrario, quiero ver un mensaje de error. Se dará también la opción de recordar las credenciales, de forma que la próxima vez que acceda no tenga que introducirlas.",F,F
+19a,"Como usuario autenticado quiero poder cerrar sesión, teniendo que introducir mis credenciales nuevamente si quiero volver a acceder a la aplicación.",F,SE
+19a,Como usuario autenticado quiero crear una fuente de ingreso con un nombre y una descripción.,F,F
+19a,"Como usuario autenticado quiero crear un monedero con un nombre, una descripción, un gasto máximo planeado mensual, y un balance opcional que por defecto estará a 0.",F,F
+19a,"Como usuario autenticado quiero crear una categoría de gasto con un nombre, una descripción y un máximo de gasto planeado mensual.",F,F
+19a,"Como usuario autenticado quiero realizar un ingreso, de una fuente de ingreso a un monedero, indicando una cantidad, un concepto, una descripción opcional y una fecha opcional que por defecto será la actual.",F,F
+19a,"Como usuario autenticado quiero realizar una transferencia entre monederos indicando una cantidad, un concepto, una descripción opcional y una fecha opcional, que por defecto será la actual.",F,F
+19a,"Como usuario autenticado quiero realizar un pago de un monedero a una categoría de gasto indicando una cantidad, un concepto, una descripción opcional y una fecha opcional, que por defecto será la actual.",F,F
+19a,"Como usuario autenticado quiero crear un grupo, indicando un nombre y un monedero por defecto para transferencias ajenas.",F,F
+19a,"Como usuario autenticado quiero invitar a otros usuarios a unirse a un grupo al que pertenezco a través de un enlace de invitación, que tendrá una fecha de expiración.",F,F
+19a,"Como usuario autenticado quiero crear un usuario no registrado dentro de un grupo al que pertenezco, dándole un nombre y una descripción.",F,F
+19a,"Como usuario autenticado quiero realizar un pago dentro de un grupo al que pertenezco, de uno de mis monederos a una de mis categorías, indicando una cantidad, un concepto, una descripción opcional, una fecha opcional que por defecto será la actual y una periodicidad, también opcional. Además, quiero poder seleccionar a qué usuarios le afecta el pago (por defecto a todos), y qué cantidad le afecta a cada uno.",F,F
+19a,"Como usuario autenticado quiero realizar un pago dentro de un grupo al que pertenezco, en nombre de un usuario no registrado, indicando una cantidad, un concepto, una descripción opcional, una fecha opcional que por defecto será la actual y una periodicidad, también opcional. Además, quiero poder seleccionar a qué usuarios le afecta el pago (por defecto a todos), y qué cantidad le afecta a cada uno.",F,F
+19a,"Como usuario autenticado quiero visualizar las deudas pendientes, esto es, quién le debe dinero a quién, y cuánto.",F,F
+19a,"Como usuario autenticado quiero indicar que todas las deudas pendientes han sido saldadas, quedando todos los miembros a cero.",F,F
+19a,"Como usuario autenticado quiero enviar una transacción a uno de los miembros del grupo, ya sea un usuario registrado en la aplicación o uno que no está registrado, desde uno de mis monederos, indicando una cantidad, un concepto, un destinatario, una descripción opcional, una fecha opcional que por defecto será la actual y una periodicidad, también opcional.",F,F
+19a,"Como usuario autenticado quiero ver una lista con los últimos movimientos, separando los individuales de los grupales. En mis movimientos individuales aparecerán todas las operaciones de mis cuentas y los movimientos grupales que me han afectado; se mostrará, para cada uno, el tipo de operación, la cantidad, el concepto y la fecha. En los movimientos de cada grupo aparecerán aquellos realizados en ese grupo, mostrando el tipo de operación, la cantidad, el usuario que lo realizó y la fecha. ",F,F
+19a,"Como usuario autenticado quiero ver el detalle de un movimiento que aparezca en una lista de movimientos. De mis movimientos individuales quiero ver, además de los datos ya listados, su descripción y el slot de origen y de destino de la operación. En los movimientos de un grupo, quiero ver el origen y el destino del movimiento, que pueden ser slots o usuarios, la descripción, los usuarios que participaron y la cantidad que afectó a cada usuario.",F,F
+19a,"Como usuario autenticado quiero editar los detalles de un grupo al que pertenezco, pudiendo modificar el nombre del grupo y los miembros que pertenecen a dicho grupo, siempre y cuando no tengan deudas pendientes, en cuyo caso se mostrará un error.",F,F
+19a,"Como usuario autenticado quiero modificar la categoría por defecto para un grupo, a la que irán los pagos realizados por otros miembros del grupo y en los que haya participado, de entre una lista con todas mis categorías.",F,F
+19a,"Como usuario autenticado quiero modificar el monedero por defecto para un grupo, al que irán las transferencias que me envíen miembros del grupo, de entre una lista con todos mis monederos.",F,F
+19a,Como usuario autenticado quiero ver el balance de cada uno de mis slots de forma rápida al lado de cada uno.,F,F
+19a,Como usuario autenticado quiero obtener información del estado de cuentas de cada uno de mis grupos de forma rápida al acceder a la vista de grupo.,F,F
+19a,"Como usuario autenticado quiero poder operar cuando no tenga conexión. Esto incluye acceder a la aplicación sin conexión, algo sólo disponible si se solicitó guardar la sesión y ésta no se cerró previamente; cargar las diferentes secciones de la aplicación, con información lo más reciente posible; y almacenar cambios y que éstos se efectúen cuando se reanude la conexión.",F,A
+19a,"Como usuario autenticado quiero visualizar información de cada uno de mis slots, tanto individuales como grupales. Para cada uno se mostrará su nombre, su descripción y una lista con los últimos movimientos procedentes de ese slot.",F,F
+19a,"Como usuario autenticado quiero eliminar un slot del que sea dueño, posteriormente a que se me solicite confirmación de que deseo hacerlo.",F,F
+19a,"Como usuario autenticado quiero eliminar un movimiento individual o de uno de mis grupos. Primero se me solicitará confirmación, y si confirmo la operación, se eliminará el movimiento. El único caso en el que no se podrá eliminar un movimiento será cuando se trata de un movimiento grupal visto desde la vista de mis movimientos individuales.",F,F
+19a,Como usuario autenticado quiero modificar los datos de un movimiento.,F,F
+19a,Como usuario autenticado quiero poder consultar estadísticas que muestren información de mis últimos gastos. También quiero seleccionar el periodo de información que se muestra.,F,F
+19a,"Como usuario autenticado quiero indicar, a la hora de realizar un movimiento, si este va a ser periódico o no. En caso de ser periódico, podré indicar cuatro periodicidades: diaria, semanal (pudiendo elegir el día de la semana que se efectuará), mensual (eligiendo el día del mes) y anual (eligiendo día y mes).",F,F
+19a,Como usuario autenticado quiero eliminar un movimiento periódico programado.,F,F
+19a,"Como usuario autenticado quiero que se me envíen notificaciones nativas cuando se efectúa algún movimiento que me afecte en uno de mis grupos, o cuando un movimiento periódico se efectúe.",F,F
+20,"Funcionalidades para la gestión de usuarios, permitiendo la autenticación de usuarios y la visualización de los datos asociados a su cuenta, así como la recuperación de la contraseña asociada.",F,F
+20,"Funcionalidades para la gestión de entidades, permitiendo la visualización, creación, modificación y borrado de estas mediante el uso de formularios.",F,F
+20,"Funcionalidades para la gestión de listas, proporcionando mecanismos de búsqueda, filtrado y ordenación de las mismas.",F,F
+20,"Funcionalidades para la gestión de visitas, permitiendo su visualización en distintos formatos, su filtrado y su edición.",F,F
+20,"Funcionalidades de geolocalización y mapas, proporcionando mecanismos para la gestión de ubicaciones y rutas.",F,F
+20,Internacionalización de los mensajes de la aplicación.,F,F
+20,"La aplicación nativa debe ser fácil de usar, para lo que se debe desarrollar una interfaz intuitiva y sencilla que facilite la interacción y el trabajo con ella.",US,US
+20,"El sistema debe ser fácil de instalar, por lo que se debe proporcionar documentación con las instrucciones adecuadas.",PO,PO
+20,La aplicación debe asegurar que los datos sean accesibles únicamente por los usuarios autorizados.,SE,SE
+20,Multiplataforma. La aplicación debe ser compatible con múltiples dispositivos.,PO,PO
+20,Como usuario quiero visualizar el menú de la aplicación para poder acceder a las distintas funcionalidades. Dicho menú será un menú lateral desplegable desde el lateral izquierdo.,F,F
+20,Como usuario quiero seleccionar el idioma de la aplicación para visualizar su contenido en dicho lenguaje. La selección podrá realizarse desde una entrada del menú de la aplicación.,F,F
+20,Como usuario quiero visualizar en forma de lista las instancias de cada tipo de entidad de la aplicación. Cada entrada de la lista mostrará el campo de la entidad seleccionado como cadena a mostrar en la configuración del proyecto. La aplicación deberá cargar las entidades de forma dinámica a medida que se alcance el final de la lista.,F,F
+20,Como usuario quiero acceder a los formularios descriptivos para visualizar los datos asociados a las entidades de la aplicación. Dichos formularios serán un conjunto de campos de distintos tipos asociados a las propiedades de las entidades.,F,F
+20,Como usuario quiero acceder a los formularios creables para crear nuevas instancias de las entidades de la aplicación. Dichos formularios deberán contar con diferentes tipos de campos asociados a los distintos tipos de datos de la entidad.,F,F
+20,Como usuario quiero acceder a los formularios editables para modificar los datos asociados a las instancias de las entidades de la aplicación. Dichos formularios deberán contar con diferentes tipos de campos dependiendo del tipo de dato a modificar.,F,F
+20,Como usuario quiero tener un mecanismo de borrado para eliminar las instancias de las entidades de la aplicación. Dicho mecanismo será un botón en los formularios. La acción de borrado podrá mostrar una alerta de confirmación.,F,F
+20,Como usuario quiero acceder a los formularios asociados a las entidades listadas de la aplicación a través de enlaces.,F,F
+20,"Como usuario quiero filtrar el contenido de las listas para ver solo aquellos elementos que cumplan un determinado criterio. Dicho filtrado consistirá en una barra de búsqueda que permitirá introducir uno o varios términos, y cuyo resultado mostrará aquellas entidades de la lista que contengan en alguno de sus campos el término o términos introducidos.",F,F
+20,Como usuario quiero filtrar el contenido de las listas para ver solo aquellos elementos que cumplan un determinado criterio. Dicho filtrado consistirá en un conjunto de campos que permitirán establecer el criterio que debe cumplir cada propiedad de la entidad de forma individual mediante el uso de distintos tipos de mecanismos de introducción de datos.,F,F
+20,"Como usuario quiero poder ordenar las listas de la aplicación, para ver las entradas clasificadas por un determinado criterio. Dicha ordenación podrá realizarse en base a cualquiera de los campos de las entidades listadas, pero únicamente en base a un campo, no se permitirán las ordenaciones combinadas.",F,F
+20,Como usuario quiero acceder a la posición de un elemento geolocalizado en el mapa mediante un botón asociado a la entrada de la lista de dicha entidad.,F,F
+20,"Como usuario quiero visualizar los elementos de una lista en un mapa. Dicha visualización mostrará la posición de las propiedades geográficas de las entidades listadas, diferenciando las propiedades de cada entidad por colores. Además, al pulsar en un marcador se mostrará una ventana modal con la cadena a mostrar de la entidad correspondiente, junto a un botón que permitirá acceder al detalle de la entidad.",F,F
+20,Como usuario anónimo quiero autenticarme en la aplicación mediante la introducción de mi usuario y mi contraseña.,F,O
+20,Como usuario registrado quiero solicitar la recuperación de mi contraseña para recuperar el acceso a mi cuenta. Dicha solicitud se hará mediante la introducción del correo electrónico del usuario.,F,F
+20,"Como usuario quiero visualizar en forma de lista las visitas de la aplicación. Cada entrada de la lista mostrará la descripción de la visita, su fecha, su hora de inicio, su hora de fin y su estado. La aplicación deberá cargar las visitas de forma dinámica a medida que se alcance el final de la lista. En el caso de que exista un usuario autenticado, sólo se mostrarán las visitas a las que tenga acceso.",F,F
+20,"Como usuario quiero acceder al detalle de una visita para visualizar sus datos asociados. Para cada visita se mostrarán los siguientes datos: descripción, dirección, fecha, hora de inicio, hora de fin, estado, cliente, empleado y localización. Además, deberá mostrarse un checkbox para modificar el estado de la visita, esto es, marcarla como realizada o como pendiente.",F,F
+20,"Como usuario quiero acceder al formulario de edición de una visita para modificar sus datos asociados. Dicho formulario mostrará distintos tipos de campos para modificar los siguientes campos: descripción, dirección, fecha, hora de inicio, hora de fin, estado, cliente, empleado y localización.",F,F
+20,"Como usuario quiero visualizar en un calendario las visitas de la aplicación para ver la organización temporal de las visitas. Dicho calendario permitirá ver las visitas planificadas para el día seleccionado y diferentes tipos de vistas (mensual, semanal, etc.). Además, se permitirá filtrar las visitas por descripción y estado, de forma que solo se muestren aquellas que cumplen los criterios especificados. En el caso de que exista un usuario autenticado, sólo se mostrarán las visitas a las que tenga acceso.",F,F
+20,Como usuario quiero visualizar la ruta a una determinada localización en el mapa. Esta funcionalidad se añadirá en las ventanas modales que muestran los datos de un elemento del mapa (visita o entidad) en forma de un botón que abrirá la aplicación Google Maps y mostrará la ruta al elemento seleccionado.,F,F
+20,"Como usuario quiero acceder al detalle de un cliente para visualizar sus datos asociados. Para cada cliente se mostrarán los siguientes datos: nombre completo, correo electrónico, teléfono, dirección y localización.",F,F
+20,"Como usuario quiero acceder al detalle de un empleado para visualizar sus datos asociados. Para cada empleado se mostrarán los siguientes datos: nombre completo, correo electrónico, teléfono y localización.",F,F
+21,Mostrar una introducción e información para la interpretación de los datos de los índices.,F,F
+21,Mostrar todas las revistas activadas.,F,F
+21,Mostrar datos identificativos y descriptivos de estas revistas.,F,F
+21,Mostrar en versión PDF cada número de cada revista.,F,F
+21,Mostrar el índice de autores de cada revista.,F,F
+21,Mostrar el índice de ilustraciones de cada revista.,F,F
+21,Mostrar el índice onomástico de cada revista.,F,F
+21,Mostrar el estudio de cada revista.,F,F
+21,Securizar el gestor mediante inicio de sesión con usuario y contraseña.,F,SE
+21,Mostrar todas las revistas y sus datos.,F,F
+21,Añadir revista nueva.,F,F
+21,Eliminar una revista existente.,F,F
+21,Modificar datos identificativos y descriptivos de una revista.,F,F
+21,Mostrar todos los números de una revista y sus datos.,F,F
+21,Añadir numero de una revista. Para ello debemos gestionar la subida de documentos en formato PDF y de sus correspondientes imágenes.,F,F
+21,Eliminar numero de una revista.,F,F
+21,Modificar numero de una revista.,F,F
+21,Añadir estudio de una revista mediante archivo en formato Word.,F,F
+21,Modificar estudio de una revista mediante archivo en formato Word.,F,F
+21,Añadir grupos de índices de autores agrupados en un documento en formato Excel.,F,F
+21,Añadir un registro de índice de autores.,F,F
+21,Eliminar un registro de índice de autores.,F,F
+21,Añadir grupos de índices de ilustraciones agrupados en un documento en formato Excel.,F,F
+21,Añadir un registro de índice de ilustraciones.,F,F
+21,Eliminar un registro de índice de ilustraciones.,F,F
+21,Añadir grupos de índices onomásticos agrupados en un documento en formato Excel.,F,F
+21,Añadir un registro de índice onomástico.,F,F
+21,Eliminar un registro de índice onomástico.,F,F
+21,Activar y desactivar visualización de revista en la web para usuarios.,F,F
+21,Añadir país de origen de revista.,F,F
+21,Eliminar país de origen de revista.,F,F
+21,Modificar credenciales.,F,F
+21,"La aplicación debe estar en Español, ya que el ámbito de las revistas es de habla hispana.",LF,LF
+21,La aplicación web accesible por el usuario debe tener un diseño minimalista y de fácil uso.,US,US
+22,Como administrador quiero recuperar textos de Reddit a partir de una consulta,F,F
+22,Como administrador quiero obtener la colección de textos publicados por un usuario,F,F
+22,Como administrador quiero obtener la historia de los usuarios que hayan publicado una consulta,F,F
+22,Como administrador quiero persistir los datos obtenidos sobre los usuarios de Reddit,F,F
+22,Como administrador quiero indexar los usuarios recuperadores de Reddit,F,F
+22,Como administrador quiero obtener un ranking de los usuarios recuperados de Reddit,F,F
+22,Como asesor quiero ver toda la historia publicada por un usuario,F,F
+22,Como administrador quiero ver los rankings obtenidos a partir de diversas consultas,F,F
+22,Como administrador quiero ver los usuarios recuperados a partir de una consulta,F,F
+22,Como administrador quiero crear un experimento,F,F
+22,Como administrador quiero obtener un ranking de la historia de un usuario,F,F
+22,Como administrador quiero elegir el modelo de retrieval de un experimento,F,F
+22,Como administrador quiero elegir las consultas de un experimento,F,F
+22,Como administrador quiero escoger la estrategia de pooling de un experimento,F,F
+22,Como asesor quiero ver una lista de los experimentos disponibles,F,F
+22,Como asesor quiero ver el detalle de un experimento,F,F
+22,Como administrador quiero ejecutar un experimento,F,F
+22,Como asesor quiero hacer pooling sobre una colección de usuarios,F,F
+22,Como asesor quiero emitir un juicio sobre un usuario de Reddit,F,F
+22,Como administrador quiero comparar el rendimiento de las combinaciones de modelos de recuperación y de pooling,F,F
+22,Como administrador quiero exportar las colecciones junto con los juicios emitidos,F,F
+22,El sistema debe ofrecer la funcionalidad como se necesita. Debe minimizarse tanto la probabilidad de fallo como el número de fallos.,PE,PE
+22,"La aplicación deberá ser lo más fácil, cómoda e intuitiva de usar posible.",US,US
+22,La aplicación debe hacer una buena gestión de los recursos disponibles.,PE,PE
+22,No debe requerir mucho esfuerzo que la aplicación crezca en funcionalidades.,MN,MN
+22,El sistema debe ofrecer la funcionalidad cuando se necesita.,A,A
+22,Debe minimizarse la complejidad del sistema y favorecer el rendimiento.,PE,PE
+23,Lectura de tickets: Recogida y lectura de los tickets generados desde frontend,F,F
+23,Filtro de automatización: Determinar si un ticket es apto para automatizar o no.,F,F
+23,Derivación a sistemas resolutores: Escalamiento de los tickets automatizables a los correspondientes sistemas resolutores.,F,F
+23,Lectura de notificaciones: Recogida y lectura de las respuestas generadas por los sistemas resolutores,F,F
+23,Cierre de tickets: Escalamiento hacia el centro de gestión asignado y cierre del ticket.,F,F
+23,Derivación a fuerza humana: Traslado de los tickets no automatizables a un procesamiento manual.,F,F
+23,Monitorización de la cola de automatizaciones de la herramienta de ticketing externa: Lectura y revisión de la cola para comprobar que no contenga tickets atascados sin procesar.,F,F
+23,El sistema debe ofrecer servicio en todo momento.,A,A
+23,El sistema debe ser capaz de recuperarse de los fallos sin pérdida de datos.,FT,FT
+23,El sistema debe garantizar la seguridad en los envíos y lecturas de mensajes.,SE,SE
+23,"El sistema debe estar preparado para una alta carga de trabajo y posibles expansiones futuras.",SC,SC
+23,"El sistema debe asegurar la correctitud y completitud de los datos almacenados en base de datos.,Integridad de datos",O,O
+24,"Gestión de edificios y persistencia: El usuario de nuestra aplicación debe poder crear distintos edificios, con sus respectivas plantas e imágenes de planta. Esta información se debe persistir, preferentemente, de forma local en el propio dispositivo. No se hará uso de base de datos en la nube, ya que el fin de esta herramienta es la futura integración en algún IPS, cuya infraestructura ya tendrá contemplada la creación y gestión de edificios, por lo que sería replicar trabajo.",F,F
+24,"Poder cambiar de planta de forma sencilla y lo más transparente para el usuario posible. La aplicación debería permitir al usuario cambiar de planta en medio de una calibración, sin tener que manualmente detener el proceso de calibración, cambiar de planta, y reanudar de nuevo. Se estudiará también la posibilidad de permitir calibraciones continuas, aplicando el cambio de planta automáticamente de forma transparente para el usuario.",F,F
+24,"Corregir al sistema en caso de error de precisión. Durante el proceso de calibración, el usuario debe poder en todo momento corregir al sistema e indicar su posición real.",F,F
+24,"Ejecución en tiempo real. Entre otros requisitos implica minimizar escrituras a disco. Una calibración trabaja con una gran cantidad de datos que crecen de manera lineal a medida que aumenta el tiempo de la propia calibración. También se de debe mantener limitado el tiempo de procesamiento de los datos. Éste no debe crecer con el número de datos de calibración.",F,F
+24,"Guardar ficheros localmente en el teléfono móvil en una zona de fácil acceso para el usuario. Los ficheros finales con los datos de calibración deberán almacenarse en una ruta que permita al usuario acceder de forma sencilla.",F,F
+24,"Visualización en tiempo real. Durante una calibración, el usuario deberá poder ver en tiempo real todos los datos con los que trabaja la aplicación. Es decir, deberá poder ver sobre el mapa, su trayectoria, las correcciones que haya añadido el usuario, y los escaneos de wifi y bluetooth con sus respectivas posiciones.",F,F
+24,"Interfaz intuitiva. Dado que el proceso de calibración de un edificio es un proceso tedioso y propenso a errores, la interfaz de la aplicación debe ser lo más clara y concisa, ayudando al usuario en la medida de lo posible, para minimizar problemas.",LF,LF
+24,"Dispositivo compacto. El dispositivo escogido debe ser lo más compacto posible, tanto por facilidad de uso para el operario, como por comodidad a la hora de transportarlo y calibrar el edificio.",O,O
+24,"Independencia de proveedor. Los datos de salida de esta aplicación, deberán tener un formato que no esté atado a un proveedor de posicionamiento concreto, pudiendo adaptarse en un futuro en función de las necesidades.",PO,PO
+25,"Gestión de vídeos: Los vídeos podrán cargarse/almacenarse desde el servidor/el PC del cliente y desde plataformas de vídeo.",F,F
+25,"Gestión de vídeos: Los vídeos obtenidos de plataforma de vídeo deben usar toda la información posible que ofrezca la misma.",F,F
+25,"Gestión de vídeos: Los vídeos obtenidos del servidor pueden ser de múltiples formatos",F,F
+25,"Gestión de noticias: Los datos que se guardarán serán título, fecha de inicio, fecha de fin y cuerpo de la noticia.",F,F
+25,"Gestión de usuarios: No existen usuarios como tal, sino administradores",F,F
+25,"Gestión de usuarios: Solo existe un rol (administrador)",F,F
+25,"Gestión de usuarios: Todos los administradores tienen acceso a todas las funcionalidades",F,F
+25,"Gestión de usuarios: Todos los administradores tienen los mismos permisos y privilegios entre ellos",F,F
+25,"Interfaz: La reproducción de vídeos debe ser automática",F,F
+25,"Todas las pantallas cuentan con una barra de navegación para acceder a las demás pantallas",US,US
+25,"Todas las operaciones deben poder realizarse usando únicamente el teclado",US,F
+25,"El reproductor de vídeo permite modificar su volumen",US,F
+25,"Hay que iniciar sesión para acceder a las pantallas de administración",SE,SE
+25,"Las contraseñas se almacenan encriptadas",SE,SE
+25,"Los campos de contraseñas deben ocultar su contenido",SE,SE
+25,"La aplicación debe protegerse ante los principales ataques contra aplicaciones web",SE,SE
+25,"Debe lograr la adaptabilidad al dispositivo usado para visualizarlo (responsive)",LF,LF
+25,"Los reproducción de vídeos se muestra en formato carrusel o similar",LF,LF
+25,"Las noticias se visualizan en formato scroll horizontal",LF,LF
+25,"Todo el software usado para la realización del portal web debe ser libre",MN,MN
+26,"Autenticación. El servidor tiene que proporcionar un método para identificar los usuarios. En concreto, es necesario proporcionar la autenticación al crawler y al administrador.",F,SE
+26,"Procesar y guardar los datos. El servidor debe procesar y guardar los datos de las carreras enviados por el crawler a la API. En este procesamiento está incluida la obtención de la geolocalización de los lugares en los que se celebran las carreras.",F,F
+26,"Proporcionar los datos guardados. La API del servidor debe ofrecer un método para la obtención de los datos de las carreras guardadas. Podrá obtener estos datos cualquier actor del sistema.",F,F
+26,"Listar las carreras. La aplicación móvil debe mostrar al usuario un listado con las carreras obtenidas del servidor.",F,F
+26,"Mostrar las carreras en el mapa. Se debe incluir un mapa en la aplicación móvil donde se mostraran los ubicaciones de las carreras obtenidas y la ubicación del usuario.",F,F
+26,"Ver los detalles de una carrera. La aplicación móvil debe contener una sección donde mostrar la información detallada de cada carrera de manera individual.",F,F
+26,"Filtrar carreras. Se debe de proporcionar algún método para filtrar, según ciertos criterios, las carreras en la aplicación móvil. Esto le facilita al usuario la búsqueda de las carreras que contengan características de su interés.",F,F
+26,"Obtener el nombre de la ubicación del usuario. A partir del las coordenadas geográficas de la localización del usuario, poder obtener el nombre del lugar en el que se encuentra.",F,F
+26,"Obtener la distancia de la ubicación del usuario a las carreras. Utilizando como origen la ubicación del usuario y destino la de las carreras, se debe obtener la distancia y tiempo del viaje por carretera para el usuario de la aplicación.",F,F
+26,"Obtener el precio del combustible. Se debe obtener el precio actual del tipo de combustible indicado por el usuario para realizar cálculos en la aplicación.",F,F
+26,"Calcular los costes del viaje a cada carrera. La aplicación debe mostrar al usuario los costes del viaje al lugar de celebración de la carrera. Para ello es necesarios calcular dichos costes con otros datos almacenados en la aplicación.",F,F
+26,"Ver y modificar ajustes. Se debe proporcionar un apartado de ajustes en la aplicación, donde el usuario pueda ver y modificar opciones que cambien el funcionamiento de la aplicación.",F,F
+26,"Manejo de errores. Todas las partes del sistema tienen que informar y manejar los posibles errores que puedan surgir en la ejecución como, por ejemplo, un error en la obtención de los datos desde la aplicación, una malformación en los datos enviados por el crawler a la API, etc.",F,F
+26,"Fácil de usar. La aplicación móvil debe ser sencilla y intuitiva para que el usuario pueda usar todas las funcionalidades sin ninguna complicación.",US,US
+26,"Adaptarse al tamaño de pantalla. La interfaz de usuario debe ser capaz de adaptarse a los distintos tamaños que pueda tener un móvil o tablet con sistema operativo Android.",LF,LF
+26,"Rápido. Todas las partes del sistema deben ser rápidas para evitar esperas del usuario y que no suponga un tiempo excesivo el uso de sistemas ajenos.",PE,PE
+26,"Manejo de gran cantidad de datos. El sistema debe contar con algún tipo de almacenamiento que permita guardar y acceder a una gran cantidad de datos de la manera más rápida y eficiente.",O,O
+26,"Soporte para peticiones simultaneas. El servidor debe ser capaz de soportar múltiples peticiones simultaneas a la API, para poder responder a la demanda de datos.",O,O
+27,"Buscar autor: Buscar autores según nombre y apellidos",F,F
+27,"Ver perfil del autor: Ver datos del perfil del autor (incluye artículos, datos globales y gráficas)",F,F
+27,"Registro y login: Mediante credenciales, acceder al sistema como usuario registrado, o registrarse en el mismo",F,SE
+27,"Filtro datos del autor: Filtración de los datos del perfil del autor",F,F
+27,"Obtención de documento resumen: Obtener un documento resumen del perfil del autor",F,F
+27,"Marcar/desmarcar autores favoritos: Añadir o eliminar un autor (puede estar filtrado) de la lista de autores favoritos para un usuario logueado",F,F
+27,"Posibilidad de fusión de perfiles ambiguos: Fusionar perfiles que puedan estar separados en Scopus, pero que pertenezcan al mismo autor",F,F
+27,"Permisos de acceso y modificación de fuente de datos sólo posible para administrador",SE,SE
+27,"Los datos de entrada son validados, eliminando riesgos de ataques como XSS, CSRF, SQL Injection, etc",SE,SE
+27,"El tiempo de aprendizaje es escaso, la aplicación debe ser intuitiva y sencilla de utilizar",US,US
+27,"El sistema debe ofrecer unos mensajes de error que contengan una información clara y simplificada para el usuario",US,US
+27,"El sistema debe ser Responsive, es decir, que adapte su interfaz a diferentes dispositivos, ya sean móviles, tabletas o computadoras",US,US
+27,"La aplicación no puede ser lenta, es decir, cualquier operación debe durar el menor tiempo posible en ofrecer un resultado, o mínimo, un feedback",PE,PE
+28,"Visualizar listado de palabras: El usuario podrá ver un listado de todas las palabras que puede aprender. La palabras disponibles serán una selección amplia de las más frecuentes del inglés (entre 3.000 y 5.000 preferiblemente). A este conjunto de palabras que el usuario puede y quiere aprender le llamaremos deck.",F,F
+28,"Buscar palabras: El usuario podrá buscar palabras mediante un buscador para poder filtrar entre todas las palabras disponibles.",F,F
+28,"Visualizar detalle de palabras: El usuario podrá acceder a la ficha de una palabra para ver todas sus características. Se tendrán que mostrar traducciones, sinónimos, definiciones y ejemplos de uso.",F,F
+28,"Añadir imágenes: El usuario dentro de la ficha de una palabra, podrá buscar y escoger una imagen para asociarla con la palabra y facilitar el aprendizaje.",F,F
+28,"Añadir GIFs: El usuario dentro de la ficha de una palabra, podrá buscar y escoger una GIF para asociarlo con la palabra y facilitar el aprendizaje. Un GIF es un formato gráfico que permite imágenes animadas.",F,F
+28,"Escuchar pronunciación: El usuario podrá escuchar como se pronuncia una palabra pulsando un botón de reproducir dentro de su ficha.",F,F
+28,"Cuestionario de palabras: El usuario podrá examinarse de las palabras disponibles a partir de un cuestionario. Se irán mostrando por cada palabra un test con varias respuestas de las que sólo una será la correcta. La pregunta de los cuestionarios será preferiblemente una imagen o GIF, o también podría ser la palabra en español. Si se selecciona una respuesta incorrecta se le indicará al usuario la opción correcta y además, un botón para ir a la ficha por si se quiere revisar la palabra.",F,F
+28,"Estudiar lección: El usuario podrá empezar un cuestionario con un número limitado de preguntas. Se podrá ver una barra de progreso para saber el estado de la lección, cuantas preguntas se han contestado y cuantas faltan. También habrá un botón para salir de la lección si se desea.",F,F
+28,"Visualizar resultados de la lección: El usuario podrá ver un resumen del resultado de la lección con las palabras que ha respondido correctamente e incorrectamente.",F,F
+28,"Estudio programado: El usuario podrá hacer una lección cada día. Las lecciones serán construidas de forma inteligente mediante repetición espaciada. Cada lección estará formada tanto por palabras nuevas, como por palabras de repaso si estuviesen programadas en ese día. Si el usuario responde bien el ejercicio de una palabra, la palabra subirá de nivel y no volverá a repetirse hasta pasado un tiempo. En cambio si se responde incorrectamente el ejercicio, este se volverá a repetir y la palabra bajará de nivel para tener un periodo más corto de repaso.",F,F
+28,"Seleccionar nuevas palabras: El usuario podrá seleccionar las palabras que quiere aprender en la lección. Estas palabras serán seleccionadas aleatoriamente de entre las palabras disponibles para aprender. Se establecerá un límite fijo de palabras nuevas por lección. Si al usuario no le interesa aprender alguna palabra se descartarán y no volverán a aparecer. Además se dará la opción de asociar la palabra con una imagen.",F,F
+28,"Visualizar pantalla principal: El usuario podrá acceder a una pantalla principal. Esta pantalla se mostrará de inicio en la aplicación y en ella el usuario podrá seleccionar el empezar una nueva lección. Se le informará al usuario cuantas palabras tiene programadas para la lección de ese día.",F,F
+28,"Visualizar estadísticas: El usuario podrá ver estadísticas de su aprendizaje. Se dividirá en dos secciones: Un resumen general del estado de las palabras. Se agruparán por “no vistas”, “en progreso”, “aprendidas” y “descartadas”. Un gráfico circular para la representación de los distintos estados de las palabras que están en progreso.",F,F
+28,"Buscar en diccionario: El usuario podrá buscar cualquier palabra en inglés. Si la búsqueda tiene resultados se abrirá su ficha con toda su información.",F,F
+28,"Aprender palabras buscadas: Si la palabra buscada en el diccionario no está en el mazo de estudio del usuario, se le dará la opción de añadir la palabra para aprenderla.",F,F
+28,"Visualizar búsquedas recientes: El usuario podrá ver las palabras que ha buscado recientemente y seleccionarlas para acceder a su ficha.",F,F
+28,"Configurar recordatorio lección: El usuario desde la pantalla de ajustes podrá activar o desactivar una notificación diaria de aviso para realizar la lección. Además se podrá configurar la hora del día en la que desea ser notificado.",F,F
+28,"Configurar nuevas palabras: El usuario desde la pantalla de ajustes podrá seleccionar el número de palabras que quiere aprender diariamente.",F,F
+28,"Configurar pronunciación: El usuario desde la pantalla de ajustes podrá elegir la pronunciación que le interesa escuchar entre varias opciones: Pronunciación inglesa, Pronunciación americana, Pronunciación australiana",F,F
+28,"La interfaz debe ser fácil de usar y el usuario tiene que entender fácilmente que hace cada componente.",US,US
+28,"El sistema tiene que funcionar sin fallos y estar siempre disponible.",A,A
+28,"Las tareas de acceso a base de datos o de red tienen que ser rápidas, no pueden existir excesivos tiempos de espera.",PE,PE
+28,"Si aumenta la carga de trabajo por el aumento de usuarios, el sistema tiene que seguir funcionando correctamente.",SC,SC
+28,"El sistema tiene ser capaz de evitar en la medida de lo posible amenazas maliciosas externas.",SE,SE
+29,"Debe proporcionar un sistema de comunicación directa de anuncios o comunicados oficiales de la administración local.",F,F
+29,"Dotará a la administración de un sistema que a través de los propios usuarios pueda ser empleado como medio de obtención de información sobre los desperfectos ocasionados en la zona.",F,F
+29,"Facilitará un listado de las noticias más recientes de la población.",F,F
+29,"Proporcionará un tablón de eventos dentro de la región.",F,F
+29,"Contará con un sistema que permita las siguientes características: Añadir nuevas incidencias al mapa, Consultar el estado de las denuncias realizadas, Ver las registradas por otros usuarios.",F,F
+29,"Compartir noticias o eventos.",F,F
+29,"Sistema de registro y autenticación de usuarios de la aplicación.",F,SE
+29,"Registro y autenticación en la aplicación mediante servicios de terceros.",F,F
+29,"Sistema de recuperación de contraseña mediante el correo electrónico.",F,F
+29,"La aplicación debe tener una interfaz limpia e intuitiva, que haga atractivo y sencillo su uso. Además debe guiar al usuario y advertir sus errores.",US,US
+29,"De modo que pueda ser adaptada a cualquier entorno. Podrán integrarse las imágenes corporativas de la población donde se ubique y permitir la modificación de los colores y tipografías.",O,O
+29,"Deben validarse los datos de usuario y la información recabada debe estar protegida.",SE,SE
+29,"La respuesta de la aplicación debe ser lo más rápida posible, incluso en condiciones desfavorables como sería la falta de internet.",A,A
+29,"La herramienta debe permitir el aumento del número de usuarios de modo que permita un tráfico grande de usuarios.",SC,SC
+30,"Construcción de un almacén de datos: El asistente debe contar con una capa de datos donde buscar la información. Esta base de datos tendrá una organización estructurada. De estos datos vendrá la información enviada en las respuestas por parte del asistente, por lo que su búsqueda debe ser rápida y efectiva.",F,F
+30,"Elaboración de un proceso question answering efectivo: El asistente debe contar con una lógica que permita redirigir la búsqueda dependiendo de cual sea el tipo de pregunta, bien información, una página web o localizaciones, entre otros.",F,F
+30,"Respuestas concisas y efectivas: El asistente debe proporcionar respuestas breves, el objetivo es contestar las preguntas sin añadir información irrelevante de por medio.",F,F
+30,"Gestión de los errores: El asistente debe estar implementado de manera que sepa reaccionar cuando no ha entendido la pregunta o no haya conseguido encontrar la información.",F,F
+30,"Respuestas coherentes e idénticas ante entradas de audio o texto: Los usuarios tienen la posibilidad de escuchar la respuesta mediante voz, esta ha de ser entendida e idéntica a la respuesta por escrito.",F,F
+30,"Velocidad en las respuestas: El principal servicio que debe proporcionar el asistente a los estudiantes es ahorrarles tiempo, que sea más comodo preguntarle que tener que buscar por los enlaces de la web. Es de vital importancia que la elaboración de la respuesta sea en tiempo real.",PE,PE
+30,"Facilidad de uso: Las preguntas se deben poder hacer de un modo veloz e intuitivo, tanto por teclado como por voz.",US,US
+30,"Interfaz atractiva: La interfaz debe integrarse de manera atractiva con la página web.",LF,LF
