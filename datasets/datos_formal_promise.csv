@@ -1,625 +1,625 @@
-ÔªøPROYECTO,REQUISITO,TIPO
-1,El sistema actualizar√° la pantalla cada 60 segundos,PE
+PROYECTO,REQUISITO,TIPO
+1,El sistema actualizar· la pantalla cada 60 segundos,PE
 1,La solicitud debe coincidir con el color del esquema establecido por el Departamento de Seguridad Nacional,LF
-1,"Si se proyectan, los datos deben ser legibles. En una pantalla de proyecci√≥n de 10x10, el 90% de los espectadores deben poder leer los datos de eventos/actividades desde una distancia de visualizaci√≥n de 30",US
-1,"El producto estar√° disponible durante el horario laboral normal. Siempre que el usuario tenga acceso a la PC del cliente, el sistema estar√° disponible el 99% del tiempo durante los primeros seis meses de funcionamiento.",A
-1,"Si se proyectan, los datos deben ser comprensibles. En una pantalla de proyecci√≥n de 10x10, el 90% de los espectadores deben poder determinar que los Eventos o Actividades est√°n ocurriendo en el tiempo actual desde una distancia de visualizaci√≥n de 100 ",US
-1,El producto debe garantizar que solo los usuarios autorizados puedan acceder a √©l. El producto podr√° distinguir entre usuarios autorizados y no autorizados en todos los intentos de acceso ,SE
-1,El producto debe ser intuitivo y autoexplicativo.: El 90% de los nuevos usuarios podr√°n iniciar la visualizaci√≥n de eventos o actividades dentro de los 90 minutos posteriores al uso del producto.,US
-1,El producto responder√° r√°pidamente para mantener los datos actualizados en la pantalla.,PE
-1,El sistema deber√° tener un formulario MDI que permita la visualizaci√≥n del gr√°fico y la tabla de datos.,F
-1,El sistema mostrar√° los eventos en una tabla vertical por tiempo.,F
-1,El sistema mostrar√° los eventos en un gr√°fico por tiempo.,F
-1,El sistema mostrar√° Eventos o Actividades,F
-1,"La pantalla debe tener dos regiones: 2/3 a la izquierda de la pantalla son gr√°ficos, 1/3 a la derecha de la pantalla es una tabla de datos",F
-1,Los datos que se muestran tanto en los nodos dentro del gr√°fico como en las filas de la tabla son datos de Resumen de MSEL,F
-1,El lado de la tabla de la pantalla se dividir√° en 2 regiones: secuencial y temporal,F
-1,La cuarta parte superior de la tabla contendr√° eventos que ocurrir√°n secuencialmente,F
-1,La parte inferior 3/4 de la tabla contendr√° los eventos que ocurren de acuerdo con su relevancia para el tiempo actual,F
-1,El sistema codificar√° con colores los eventos de acuerdo con su variaci√≥n con respecto a la hora actual,F
+1,"Si se proyectan, los datos deben ser legibles. En una pantalla de proyecciÛn de 10x10, el 90% de los espectadores deben poder leer los datos de eventos/actividades desde una distancia de visualizaciÛn de 30",US
+1,"El producto estar· disponible durante el horario laboral normal. Siempre que el usuario tenga acceso a la PC del cliente, el sistema estar· disponible el 99% del tiempo durante los primeros seis meses de funcionamiento.",A
+1,"Si se proyectan, los datos deben ser comprensibles. En una pantalla de proyecciÛn de 10x10, el 90% de los espectadores deben poder determinar que los Eventos o Actividades est·n ocurriendo en el tiempo actual desde una distancia de visualizaciÛn de 100 ",US
+1,El producto debe garantizar que solo los usuarios autorizados puedan acceder a Èl. El producto podr· distinguir entre usuarios autorizados y no autorizados en todos los intentos de acceso ,SE
+1,El producto debe ser intuitivo y autoexplicativo.: El 90% de los nuevos usuarios podr·n iniciar la visualizaciÛn de eventos o actividades dentro de los 90 minutos posteriores al uso del producto.,US
+1,El producto responder· r·pidamente para mantener los datos actualizados en la pantalla.,PE
+1,El sistema deber· tener un formulario MDI que permita la visualizaciÛn del gr·fico y la tabla de datos.,F
+1,El sistema mostrar· los eventos en una tabla vertical por tiempo.,F
+1,El sistema mostrar· los eventos en un gr·fico por tiempo.,F
+1,El sistema mostrar· Eventos o Actividades,F
+1,"La pantalla debe tener dos regiones: 2/3 a la izquierda de la pantalla son gr·ficos, 1/3 a la derecha de la pantalla es una tabla de datos",F
+1,Los datos que se muestran tanto en los nodos dentro del gr·fico como en las filas de la tabla son datos de Resumen de MSEL,F
+1,El lado de la tabla de la pantalla se dividir· en 2 regiones: secuencial y temporal,F
+1,La cuarta parte superior de la tabla contendr· eventos que ocurrir·n secuencialmente,F
+1,La parte inferior 3/4 de la tabla contendr· los eventos que ocurren de acuerdo con su relevancia para el tiempo actual,F
+1,El sistema codificar· con colores los eventos de acuerdo con su variaciÛn con respecto a la hora actual,F
 1,El sistema debe mostrar datos de las aplicaciones Sync Matrix 1.0 y Exercise Management Tool 1.0,F
-1,El sistema vincular√° los eventos con las aplicaciones Sync Matrix 1.0 o la herramienta de gesti√≥n de ejercicios 1.0 para modificaciones.,F
-1,El sistema permitir√° la modificaci√≥n de la pantalla.,F
-1,El sistema ofrecer√° una visualizaci√≥n de todos los eventos del ejercicio.,F
-1,El sistema filtrar√° los datos por: lugares y eventos clave,F
-1,El sistema permitir√° al usuario definir los segmentos de tiempo,F
-1,El sistema mostrar√° la hora local y la hora de ejercicio en relojes separados,F
-1,El sistema ofrecer√° la posibilidad de pausar y reanudar la actualizaci√≥n de datos,F
-1,El sistema proporcionar√° gr√°ficos para la actividad o evento real frente al tiempo supuesto,F
-1,El sistema proporcionar√° un informe hist√≥rico de los cambios realizados en los datos de la actividad o el evento,F
-2,La apariencia del sistema se ajustar√° a los est√°ndares de interfaz de usuario del dispositivo inteligente,LF
-2,La interfaz de usuario debe tener botones de men√∫ est√°ndar para la navegaci√≥n,LF
-2,El sistema deber√° tener una apariencia profesional,LF
-2,El producto deber√° tener una combinaci√≥n de colores y fuentes uniformes,LF
-2,El sistema debe ser utilizado por agentes inmobiliarios sin formaci√≥n,US
-2,El sistema ser√° intuitivo y autoexplicativo,US
-2,El producto debe ser f√°cil de aprender para un agente inmobiliario,US
-2,El producto utilizar√° s√≠mbolos y palabras que sean naturalmente comprensibles para la comunidad de agentes inmobiliarios,US
-2,El producto producir√° resultados de b√∫squeda en un tiempo aceptable,PE
-2,Los resultados de la b√∫squeda se devolver√°n a m√°s tardar 30 segundos despu√©s de que el usuario haya introducido los criterios de b√∫squeda,PE
-2,El producto deber√° generar un informe CMA en un tiempo aceptable.,PE
-2,El informe CMA se devolver√° a m√°s tardar 60 segundos despu√©s de que el usuario haya introducido los criterios del informe CMA,PE
-2,El producto sincronizar√° contactos y citas en un tiempo aceptable,PE
-2,El producto se sincronizar√° con el sistema de oficina cada hora,PE
-2,El producto estar√° disponible para su uso las 24 horas del d√≠a los 365 d√≠as del a√±o,A
-2,"De 1000 accesos al sistema, el sistema est√° disponible 999 veces",A
-2,El producto funcionar√° en modo fuera de l√≠nea siempre que la conexi√≥n a Internet no est√© disponible,FT
-2,"El producto permitir√° al usuario ver los resultados de b√∫squeda descargados previamente, informes y citas CMA",FT
-2,El producto conservar√° las preferencias del usuario en caso de aver√≠a,FT
-2,El 100% de las preferencias de usuario guardadas se restaurar√°n cuando el sistema vuelva a estar en l√≠nea,FT
+1,El sistema vincular· los eventos con las aplicaciones Sync Matrix 1.0 o la herramienta de gestiÛn de ejercicios 1.0 para modificaciones.,F
+1,El sistema permitir· la modificaciÛn de la pantalla.,F
+1,El sistema ofrecer· una visualizaciÛn de todos los eventos del ejercicio.,F
+1,El sistema filtrar· los datos por: lugares y eventos clave,F
+1,El sistema permitir· al usuario definir los segmentos de tiempo,F
+1,El sistema mostrar· la hora local y la hora de ejercicio en relojes separados,F
+1,El sistema ofrecer· la posibilidad de pausar y reanudar la actualizaciÛn de datos,F
+1,El sistema proporcionar· gr·ficos para la actividad o evento real frente al tiempo supuesto,F
+1,El sistema proporcionar· un informe histÛrico de los cambios realizados en los datos de la actividad o el evento,F
+2,La apariencia del sistema se ajustar· a los est·ndares de interfaz de usuario del dispositivo inteligente,LF
+2,La interfaz de usuario debe tener botones de men˙ est·ndar para la navegaciÛn,LF
+2,El sistema deber· tener una apariencia profesional,LF
+2,El producto deber· tener una combinaciÛn de colores y fuentes uniformes,LF
+2,El sistema debe ser utilizado por agentes inmobiliarios sin formaciÛn,US
+2,El sistema ser· intuitivo y autoexplicativo,US
+2,El producto debe ser f·cil de aprender para un agente inmobiliario,US
+2,El producto utilizar· sÌmbolos y palabras que sean naturalmente comprensibles para la comunidad de agentes inmobiliarios,US
+2,El producto producir· resultados de b˙squeda en un tiempo aceptable,PE
+2,Los resultados de la b˙squeda se devolver·n a m·s tardar 30 segundos despuÈs de que el usuario haya introducido los criterios de b˙squeda,PE
+2,El producto deber· generar un informe CMA en un tiempo aceptable.,PE
+2,El informe CMA se devolver· a m·s tardar 60 segundos despuÈs de que el usuario haya introducido los criterios del informe CMA,PE
+2,El producto sincronizar· contactos y citas en un tiempo aceptable,PE
+2,El producto se sincronizar· con el sistema de oficina cada hora,PE
+2,El producto estar· disponible para su uso las 24 horas del dÌa los 365 dÌas del aÒo,A
+2,"De 1000 accesos al sistema, el sistema est· disponible 999 veces",A
+2,El producto funcionar· en modo fuera de lÌnea siempre que la conexiÛn a Internet no estÈ disponible,FT
+2,"El producto permitir· al usuario ver los resultados de b˙squeda descargados previamente, informes y citas CMA",FT
+2,El producto conservar· las preferencias del usuario en caso de averÌa,FT
+2,El 100% de las preferencias de usuario guardadas se restaurar·n cuando el sistema vuelva a estar en lÌnea,FT
 2,El producto debe ser compatible con varios usuarios remotos,SC
-2,El producto debe admitir 1000 usuarios simult√°neos,SC
-2,El producto deber√° ser capaz de manejar los 1000 usuarios existentes. Se espera que este n√∫mero crezca 5 veces durante el pr√≥ximo a√±o.,SC
+2,El producto debe admitir 1000 usuarios simult·neos,SC
+2,El producto deber· ser capaz de manejar los 1000 usuarios existentes. Se espera que este n˙mero crezca 5 veces durante el prÛximo aÒo.,SC
 2,El producto debe ser instalado por un agente inmobiliario no capacitado sin recurrir a instrucciones impresas por separado,US
-2,El 90% de los agentes inmobiliarios no capacitados podr√°n instalar el producto en su dispositivo sin instrucciones impresas,US
+2,El 90% de los agentes inmobiliarios no capacitados podr·n instalar el producto en su dispositivo sin instrucciones impresas,US
 2,"Se espera que el producto se ejecute en los sistemas operativos Windows CE y Palm.",PO
-2,"Solo los agentes inmobiliarios registrados podr√°n acceder al sistema.",SE
-2,Todo usuario del sistema deber√° estar autenticado y autorizado,SE
-2,El producto evitar√° que se introduzcan datos incorrectos en sus datos,SE
-2,El sistema permitir√° a un agente inmobiliario consultar informaci√≥n MLS,F
-2,El usuario podr√° obtener indicaciones para llegar a una propiedad seleccionada,F
-2,El usuario podr√° descargar citas e informaci√≥n de contacto de los clientes,F
-2,El sistema debe mostrar im√°genes de propiedad claras en los resultados de la b√∫squeda,F
-2,El sistema actualizar√° o crear√° nuevos listados de propiedades en el MLS,F
-2,El agente inmobiliario podr√° generar un informe CMA basado en criterios de propiedad,F
-2,El sistema podr√° llamar al vendedor o al comprador para programar una cita,F
-2,El agente inmobiliario ser√° notificado de las citas de nuevos clientes despu√©s de la sincronizaci√≥n autom√°tica con el sistema de oficina,F
-2,El agente inmobiliario podr√° recuperar un mapa que muestre la ubicaci√≥n de las propiedades para un √°rea espec√≠fica,F
-2,El sistema notificar√° al agente inmobiliario cuando un vendedor o comprador responda a una solicitud de cita,F
-2,El producto permitir√° al usuario guardar los resultados de la b√∫squeda de propiedades,F
-3,El sistema ser√° f√°cil de usar por parte de los administradores del programa/miembros del personal de enfermer√≠a,US
-3,Todos los usuarios podr√°n utilizar el sistema despu√©s de un d√≠a de formaci√≥n,US
-3,El sistema ayudar√° al usuario a evitar cometer errores al programar clases y cl√≠nicas para los estudiantes de enfermer√≠a,US
-3,El n√∫mero de errores notados por los estudiantes se reducir√° en un 50% en el primer a√±o,US
-3,El sistema ser√° intuitivo para los administradores del programa/miembros del personal de enfermer√≠a,US
-3,2 de cada 3 administradores del programa/miembros del personal de enfermer√≠a podr√°n utilizar con √©xito el sistema para gestionar la programaci√≥n de clases y cl√≠nicas,US
-3,El sistema utilizar√° s√≠mbolos y palabras que sean naturalmente comprensibles para la comunidad de usuarios,US
-3,La verborrea utilizada dentro del sistema deber√° ser coherente con el espa√±ol est√°ndar y la terminolog√≠a de la comunidad de enfermer√≠a nacional,US
-3,Los miembros del personal deber√°n poder completar una serie de tareas de manera oportuna,PE
-3,El tiempo de respuesta de las tareas generales de gesti√≥n de los estudiantes no debe exceder los 5 segundos y el tiempo de respuesta de la generaci√≥n del horario no debe exceder los 30 segundos.,PE
-3,El sistema estar√° disponible para su uso entre las 8 a.m. y las 6 p.m.,A
-3,El sistema alcanzar√° el 95% de tiempo de actividad,A
-3,El sistema deber√° poder manejar todas las solicitudes/uso de los usuarios durante el horario comercial,SC
-3,El sistema atender√° a 10 usuarios simult√°neos de 9 a.m. a 5 p.m.,SC
-3,El sistema deber√° ser capaz de procesar al 100% de los estudiantes de enfermer√≠a y sus clases durante los pr√≥ximos 10 a√±os,SC
-3,Se espera que el sistema gestione el plan de estudios del programa de enfermer√≠a y la programaci√≥n de clases/cl√≠nicas durante un m√≠nimo de 5 a√±os,SC
-3,"El sistema podr√° funcionar dentro de un entorno de oficina comercial t√≠pico del Departamento de Enfermer√≠a de la Universidad DePaul",O
-3,El sistema se utilizar√° dentro de las especificaciones definidas por las computadoras utilizadas por los Administradores del Programa/Miembros del Personal de Enfermer√≠a,O
-3,El sistema funcionar√° dentro del sistema operativo Windows XP Professional.,O
+2,"Solo los agentes inmobiliarios registrados podr·n acceder al sistema.",SE
+2,Todo usuario del sistema deber· estar autenticado y autorizado,SE
+2,El producto evitar· que se introduzcan datos incorrectos en sus datos,SE
+2,El sistema permitir· a un agente inmobiliario consultar informaciÛn MLS,F
+2,El usuario podr· obtener indicaciones para llegar a una propiedad seleccionada,F
+2,El usuario podr· descargar citas e informaciÛn de contacto de los clientes,F
+2,El sistema debe mostrar im·genes de propiedad claras en los resultados de la b˙squeda,F
+2,El sistema actualizar· o crear· nuevos listados de propiedades en el MLS,F
+2,El agente inmobiliario podr· generar un informe CMA basado en criterios de propiedad,F
+2,El sistema podr· llamar al vendedor o al comprador para programar una cita,F
+2,El agente inmobiliario ser· notificado de las citas de nuevos clientes despuÈs de la sincronizaciÛn autom·tica con el sistema de oficina,F
+2,El agente inmobiliario podr· recuperar un mapa que muestre la ubicaciÛn de las propiedades para un ·rea especÌfica,F
+2,El sistema notificar· al agente inmobiliario cuando un vendedor o comprador responda a una solicitud de cita,F
+2,El producto permitir· al usuario guardar los resultados de la b˙squeda de propiedades,F
+3,El sistema ser· f·cil de usar por parte de los administradores del programa/miembros del personal de enfermerÌa,US
+3,Todos los usuarios podr·n utilizar el sistema despuÈs de un dÌa de formaciÛn,US
+3,El sistema ayudar· al usuario a evitar cometer errores al programar clases y clÌnicas para los estudiantes de enfermerÌa,US
+3,El n˙mero de errores notados por los estudiantes se reducir· en un 50% en el primer aÒo,US
+3,El sistema ser· intuitivo para los administradores del programa/miembros del personal de enfermerÌa,US
+3,2 de cada 3 administradores del programa/miembros del personal de enfermerÌa podr·n utilizar con Èxito el sistema para gestionar la programaciÛn de clases y clÌnicas,US
+3,El sistema utilizar· sÌmbolos y palabras que sean naturalmente comprensibles para la comunidad de usuarios,US
+3,La verborrea utilizada dentro del sistema deber· ser coherente con el espaÒol est·ndar y la terminologÌa de la comunidad de enfermerÌa nacional,US
+3,Los miembros del personal deber·n poder completar una serie de tareas de manera oportuna,PE
+3,El tiempo de respuesta de las tareas generales de gestiÛn de los estudiantes no debe exceder los 5 segundos y el tiempo de respuesta de la generaciÛn del horario no debe exceder los 30 segundos.,PE
+3,El sistema estar· disponible para su uso entre las 8 a.m. y las 6 p.m.,A
+3,El sistema alcanzar· el 95% de tiempo de actividad,A
+3,El sistema deber· poder manejar todas las solicitudes/uso de los usuarios durante el horario comercial,SC
+3,El sistema atender· a 10 usuarios simult·neos de 9 a.m. a 5 p.m.,SC
+3,El sistema deber· ser capaz de procesar al 100% de los estudiantes de enfermerÌa y sus clases durante los prÛximos 10 aÒos,SC
+3,Se espera que el sistema gestione el plan de estudios del programa de enfermerÌa y la programaciÛn de clases/clÌnicas durante un mÌnimo de 5 aÒos,SC
+3,"El sistema podr· funcionar dentro de un entorno de oficina comercial tÌpico del Departamento de EnfermerÌa de la Universidad DePaul",O
+3,El sistema se utilizar· dentro de las especificaciones definidas por las computadoras utilizadas por los Administradores del Programa/Miembros del Personal de EnfermerÌa,O
+3,El sistema funcionar· dentro del sistema operativo Windows XP Professional.,O
 3,El sistema debe interactuar con el servidor central de CampusConnect,O
 3,El sistema debe interactuar con el servidor central de la facultad.,O
 3,El sistema debe interactuar con el servidor maestro del estudiante,O
 3,Debemos poder interactuar con cualquier navegador HTML,O
-3,Solo los usuarios autorizados tendr√°n acceso a la informaci√≥n del centro cl√≠nico,SE
-3,Los administradores del programa/miembros del personal de enfermer√≠a son las √∫nicas personas que tendr√°n acceso a los detalles del sitio cl√≠nico,SE
-3,Solo los usuarios autorizados tendr√°n acceso a la informaci√≥n personal de los estudiantes,SE
-3,La Dra. Susan Poslusny y la Dra. Julie Donalek son las √∫nicas personas que tendr√°n acceso a la informaci√≥n personal de los estudiantes,SE
-3,Solo los usuarios autorizados tendr√°n acceso a la parte del sistema que interact√∫a con CampusConnect.,SE
-3,Criterio de adecuaci√≥n: la Dra. Susan Poslusny y Karen Sysol son las √∫nicas personas que tendr√°n acceso a la programaci√≥n de la secci√≥n final de la clase para el sistema que interact√∫a con CampusConnect.,SE
-3,El sistema deber√° tener una verificaci√≥n b√°sica de la integridad de los datos para reducir la posibilidad de que se introduzcan datos incorrectos o no v√°lidos,SE
-3,El sistema proteger√° la informaci√≥n privada de acuerdo con la pol√≠tica de informaci√≥n de la organizaci√≥n.,SE
-3,El sistema se construir√° de manera que sea lo m√°s seguro posible frente a interferencias maliciosas.,SE
-3,El sistema utilizar√° el software de protecci√≥n antivirus est√°ndar de la organizaci√≥n para ayudar a monitorear las amenazas a s√≠ mismo,SE
-3,Se asociar√° una cohorte a un programa de estudio ofrecido por el departamento,F
-3,Los administradores del programa y los miembros del personal de enfermer√≠a podr√°n agregar una lista de estudiantes a una cohorte,F
-3,Los administradores del programa y los miembros del personal de enfermer√≠a podr√°n agregar un solo estudiante a una cohorte,F
-3,Los estudiantes agregados a una cohorte ser√°n elegibles para el Programa de estudios de la cohorte.,F
-3,Los administradores del programa y los miembros del personal de enfermer√≠a podr√°n especificar la secuencia preferida de clases para una cohorte determinada.,F
-3,"Para cada clase dentro de una secuencia para una cohorte, los administradores del programa y los miembros del personal de enfermer√≠a podr√°n especificar en qu√© trimestre se ofrecer√° esa clase.",F
-3,Los administradores del programa y los miembros del personal de enfermer√≠a podr√°n agregar nuevas clases a una secuencia de clases,F
-3,Los administradores del programa y los miembros del personal de enfermer√≠a podr√°n agregar clases o secciones cl√≠nicas a una secuencia de clases,F
-3,Los administradores del programa y los miembros del personal de enfermer√≠a podr√°n agregar una nueva cohorte al sistema identificada por mes y a√±o de inicio.,F
-3,Los administradores del programa y los miembros del personal de enfermer√≠a podr√°n agregar al sistema nuevas clases para el departamento de enfermer√≠a.,F
-3,Una clase ser√° una clase no cl√≠nica o una clase cl√≠nica.,F
-3,Una clase no cl√≠nica debe especificar el nombre del curso. Requisitos de la sala de conferencias y las necesidades del instructor.,F
-3,"Una clase cl√≠nica deber√° especificar el nombre del curso. Requisitos de la sala de conferencias, necesidades del sitio cl√≠nico, necesidades del instructor de conferencias y las necesidades del instructor del laboratorio cl√≠nico.",F
-3,Los administradores del programa/miembros del personal de enfermer√≠a podr√°n crear un nuevo programa de estudio,F
-3,Un programa de estudio constar√° de un nombre de programa y una lista de las clases requeridas (tanto cl√≠nicas como no cl√≠nicas) que deben completarse,F
-3,Los administradores del programa y los miembros del personal de enfermer√≠a deber√°n tener la capacidad de especificar qu√© clases se requieren para un programa de estudio,F
-3,El sistema podr√° mostrar un informe de las clases necesarias para un trimestre determinado para todas las cohortes de todos los programas para fines de planificaci√≥n de los administradores de programas/miembros del personal de enfermer√≠a,F
-3,"El informe de clases necesarias incluir√° (pero no se limitar√° a) clases que se ofrecer√°n, n√∫mero de secciones necesarias, n√∫mero de laboratorios necesarios y tipos de salones necesarios.",F
-3,Las clases para una cohorte determinada no entrar√°n en conflicto con respecto a la hora y el d√≠a en que se ofrecen,F
-3,Los administradores del programa y los miembros del personal de enfermer√≠a podr√°n agregar un nuevo centro cl√≠nico al sistema,F
-3,La informaci√≥n del sitio cl√≠nico incluir√° (pero no se limitar√° a) el nombre de la persona de contacto del sitio y la informaci√≥n de contacto.,F
-3,Los administradores del programa y los miembros del personal de enfermer√≠a podr√°n agregar una nueva secci√≥n de laboratorio cl√≠nico para una clase cl√≠nica existente en el sistema,F
-3,"Una secci√≥n de laboratorio cl√≠nico incluir√° el nombre del sitio cl√≠nico, el d√≠a del instructor de la clase y la hora del laboratorio",F
-3,Los administradores del programa y los miembros del personal de enfermer√≠a podr√°n agregar un estudiante que se haya registrado para una clase cl√≠nica a una secci√≥n de laboratorio cl√≠nico para esa clase,F
-3,El sistema permitir√° que un administrador del programa o un miembro del personal de enfermer√≠a retire a un estudiante de una secci√≥n de laboratorio cl√≠nico,F
-3,El sistema permitir√° que un administrador del programa/miembro del personal de enfermer√≠a traslade a un estudiante de una secci√≥n de laboratorio cl√≠nico a otra secci√≥n de laboratorio cl√≠nico correspondiente a la misma clase cl√≠nica,F
-3,Los administradores del programa/miembros del personal de enfermer√≠a podr√°n cancelar una secci√≥n de laboratorio cl√≠nico solo si no hay estudiantes registrados para esa secci√≥n de laboratorio cl√≠nico,F
-3,Un administrador del programa/miembro del personal de enfermer√≠a podr√° agregar un nuevo estudiante de enfermer√≠a al sistema,F
-3,"Un miembro del personal deber√° tener la capacidad de gestionar el progreso de un estudiante a tiempo parcial, lo que incluye modificar su secuencia de clases y el cronograma de clases",F
-3,"El sistema deber√° poder mostrar un resumen imprimible para cohortes individuales que incluir√° a los estudiantes inscritos en el Programa de estudio, secuencia de clases, progreso de la cohorte a trav√©s del programa y el cronograma de finalizaci√≥n.",F
-3,El sistema deber√° poder mostrar un resumen imprimible para los sitios cl√≠nicos individuales que incluir√° informaci√≥n sobre los laboratorios que se llevan a cabo en ese sitio para el trimestre determinado,F
-3,"El sistema podr√° mostrar un resumen imprimible para laboratorios cl√≠nicos individuales que incluir√° (pero no se limitar√° a) nombre de clase, n√∫mero de clase, secci√≥n de laboratorio, lista de estudiantes inscritos, d√≠a(s), instructor(es), hora y lugar.",F
-3,"El sistema podr√° mostrar un resumen imprimible para estudiantes de enfermer√≠a individuales que incluir√° (pero no se limitar√° a) nombre del estudiante, ID del estudiante, fecha de admisi√≥n de clases, cr√©ditos GPA y la cohorte en la que est√° inscrito el estudiante",F
-3,El sistema deber√° poder mostrar un resumen imprimible del registro del sistema,F
-3,"El sistema debe contener informaci√≥n de contacto (correo electr√≥nico y n√∫mero de tel√©fono) de todas las personas relevantes para el sistema, incluidos (entre otros) miembros del personal, estudiantes, instructores de conferencias, instructores de laboratorio cl√≠nico y administradores de centros cl√≠nicos",F
-3,El sistema utilizar√° las direcciones de correo electr√≥nico almacenadas como medio principal para comunicar informaci√≥n a las partes afectadas,F
-3,"El sistema notificar√° a las partes afectadas con fines de comunicaci√≥n de rutina, que incluyen, entre otros, informar a los estudiantes sobre las pr√≥ximas clases ofrecidas (cronograma) y cu√°l ser√°/podr√≠a ser su horario",F
-3,"El sistema notificar√° a las partes afectadas cuando se produzcan cambios que afecten a las cl√≠nicas, incluidos, entre otros, los cambios en la capacidad de la secci√≥n cl√≠nica y las cancelaciones de la secci√≥n cl√≠nica",F
-3,"El sistema notificar√° a las partes afectadas cuando se produzcan cambios que afecten a las clases, incluidas, entre otras, cancelaciones de clases, cambios en los detalles de la secci√≥n de clases y cambios en las ofertas de clases para un trimestre determinado",F
-3,"El sistema notificar√° a las partes afectadas cuando se produzcan cambios que afecten a las cohortes, incluidos, entre otros, cambios en la secuencia del programa de estudio de una cohorte y cambios en el horario de una semana determinada (laboratorio cancelado esta semana debido a una enfermedad del instructor)",F
-3,"El sistema notificar√° a las partes afectadas cuando ocurran cambios que afecten a estudiantes espec√≠ficos, incluido, entre otros, cambiar el estado de un estudiante de tiempo completo a tiempo parcial y trasladar a un estudiante a una secci√≥n cl√≠nica diferente.",F
-3,"Los administradores del programa/miembros del personal de enfermer√≠a deber√°n tener la capacidad de modificar la informaci√≥n relacionada con las cohortes, incluido el identificador de la cohorte, el programa de estudio, la secuencia preferida de clases y los trimestres en los que una cohorte tomar√° clases espec√≠ficas",F
-3,"Los administradores del programa/miembros del personal de enfermer√≠a deber√°n tener la capacidad de modificar la informaci√≥n relacionada con un programa de estudio dentro del Departamento de enfermer√≠a, incluido el nombre del programa de estudio y las clases requeridas para ese programa de estudio.",F
-3,"Los administradores del programa/miembros del personal de enfermer√≠a deber√°n tener la capacidad de modificar la informaci√≥n relacionada con un sitio cl√≠nico, incluida la informaci√≥n de contacto y la direcci√≥n de la persona de contacto del sitio del nombre del sitio cl√≠nico",F
-3,"Los administradores del programa/miembros del personal de enfermer√≠a deber√°n tener la capacidad de modificar la informaci√≥n relacionada con una secci√≥n del laboratorio cl√≠nico, incluido el nombre del sitio cl√≠nico, el departamento/secci√≥n del laboratorio, el d√≠a del instructor de la clase y la hora del laboratorio y la informaci√≥n de contacto",F
-3,"Los administradores del programa/miembros del personal de enfermer√≠a deber√°n tener la capacidad de modificar la informaci√≥n relacionada con un estudiante de enfermer√≠a, incluida la identificaci√≥n del estudiante, el nombre del estudiante, el n√∫mero de tel√©fono, el estado del correo electr√≥nico (tiempo completo o parcial) y el programa de estudio.",F
-4,La aplicaci√≥n Disputas deber√° cumplir con los est√°ndares corporativos para la creaci√≥n de interfaces de usuario para aplicaciones de uso interno y externo,LF
-4,Todas las pantallas creadas como parte de la aplicaci√≥n Disputas deben cumplir con los est√°ndares corporativos para la creaci√≥n de interfaces,LF
-4,La lista de casos de disputa que se muestra despu√©s de realizar una b√∫squeda debe estar codificada por colores para una f√°cil identificaci√≥n de los casos de disputa seg√∫n el estado del caso de disputa.,US
-4,El 100% de los titulares de tarjetas y los representantes de servicios comerciales utilizar√°n la aplicaci√≥n Disputas con regularidad despu√©s de un curso de capacitaci√≥n de 2 d√≠as,US
-4,El 100% de los representantes de servicios para titulares de tarjetas podr√°n crear con √©xito un caso de disputa en el primer encuentro despu√©s de completar el curso de capacitaci√≥n,US
-4,El 100% de los representantes de servicios comerciales podr√°n realizar con √©xito una acci√≥n de seguimiento en un caso de disputa en el primer encuentro despu√©s de completar el curso de capacitaci√≥n,US
-4,El tiempo m√°ximo de espera para que un usuario navegue de una pantalla a otra dentro de la aplicaci√≥n Disputas no ser√° superior a 5 segundos,PE
-4,La aplicaci√≥n Disputas admitir√° 350 usuarios simult√°neos sin ninguna degradaci√≥n del rendimiento de la aplicaci√≥n,PE
-4,"La aplicaci√≥n Disputas estar√° disponible las 24 horas del d√≠a, los 7 d√≠as de la semana, los 365 d√≠as del a√±o, con la excepci√≥n de las siguientes ventanas de mantenimiento programadas. Lunes - S√°bado 3:00 am a 4:00 am EST Domingo 1:00 amd a 5:00 am EST ",O
-4,La aplicaci√≥n Disputas deber√° interactuar con la Base de datos de declaraciones. La base de datos de estados de cuenta proporciona los detalles de la transacci√≥n al sistema de disputas. Todos los detalles de la transacci√≥n deben obtenerse de la base de datos de estados de cuenta,O
-4,La aplicaci√≥n Disputas debe interactuar con la Base de datos de informaci√≥n del titular de la tarjeta. La base de datos de informaci√≥n del titular de la tarjeta proporciona informaci√≥n detallada con respecto a un titular de la tarjeta. Toda la informaci√≥n detallada del titular de la tarjeta debe obtenerse de la base de datos de informaci√≥n del titular de la tarjeta.,O
-4,Las aplicaciones de Disputas deber√°n interactuar con la Base de Datos de Informaci√≥n del Comerciante. La base de datos de informaci√≥n del comerciante proporciona informaci√≥n detallada con respecto al comerciante. Toda la informaci√≥n detallada del comerciante se obtendr√° de la base de datos de informaci√≥n del comerciante.,O
-4,La aplicaci√≥n Disputas deber√° interactuar con la aplicaci√≥n Cartas. Esto permitir√° que la aplicaci√≥n Disputas solicite cartas como parte del proceso de iniciaci√≥n y seguimiento de la disputa. Todas las solicitudes de cartas deben enviarse a la aplicaci√≥n Print Letter Utility.,O
-4,La aplicaci√≥n de Disputas debe interactuar con el Sistema de Contabilizaci√≥n y Facturaci√≥n del Titular de la Tarjeta. Esto permitir√° que la aplicaci√≥n Disputas solicite ajustes a las cuentas del titular de la tarjeta y del comerciante. Todas las solicitudes de ajuste deben enviarse al Sistema de registro y facturaci√≥n del titular de la tarjeta.,O
-4,La aplicaci√≥n Disputas garantizar√° que solo los usuarios con el nivel de acceso adecuado puedan iniciar solicitudes de disputa,SE
-4,Solo los usuarios con acceso a la Actualizaci√≥n deben poder iniciar solicitudes de disputa,SE
-4,La aplicaci√≥n Disputas garantizar√° que solo los usuarios autorizados puedan iniciar sesi√≥n en la aplicaci√≥n,SE
-4,Todos los usuarios autorizados una vez autenticados deben poder iniciar sesi√≥n en el Sistema de disputas,SE
-4,El Sistema de Disputas generar√° un Informe de Usuario que detalla cualquier nuevo usuario que se haya agregado y cualquier cambio en el nivel de acceso de un usuario existente. El informe se revisar√° con fines de auditor√≠a.,SE
-4,Todas las adiciones de nuevos usuarios y las modificaciones al acceso de los usuarios se registrar√°n en el Informe de usuario,SE
+3,Solo los usuarios autorizados tendr·n acceso a la informaciÛn del centro clÌnico,SE
+3,Los administradores del programa/miembros del personal de enfermerÌa son las ˙nicas personas que tendr·n acceso a los detalles del sitio clÌnico,SE
+3,Solo los usuarios autorizados tendr·n acceso a la informaciÛn personal de los estudiantes,SE
+3,La Dra. Susan Poslusny y la Dra. Julie Donalek son las ˙nicas personas que tendr·n acceso a la informaciÛn personal de los estudiantes,SE
+3,Solo los usuarios autorizados tendr·n acceso a la parte del sistema que interact˙a con CampusConnect.,SE
+3,Criterio de adecuaciÛn: la Dra. Susan Poslusny y Karen Sysol son las ˙nicas personas que tendr·n acceso a la programaciÛn de la secciÛn final de la clase para el sistema que interact˙a con CampusConnect.,SE
+3,El sistema deber· tener una verificaciÛn b·sica de la integridad de los datos para reducir la posibilidad de que se introduzcan datos incorrectos o no v·lidos,SE
+3,El sistema proteger· la informaciÛn privada de acuerdo con la polÌtica de informaciÛn de la organizaciÛn.,SE
+3,El sistema se construir· de manera que sea lo m·s seguro posible frente a interferencias maliciosas.,SE
+3,El sistema utilizar· el software de protecciÛn antivirus est·ndar de la organizaciÛn para ayudar a monitorear las amenazas a sÌ mismo,SE
+3,Se asociar· una cohorte a un programa de estudio ofrecido por el departamento,F
+3,Los administradores del programa y los miembros del personal de enfermerÌa podr·n agregar una lista de estudiantes a una cohorte,F
+3,Los administradores del programa y los miembros del personal de enfermerÌa podr·n agregar un solo estudiante a una cohorte,F
+3,Los estudiantes agregados a una cohorte ser·n elegibles para el Programa de estudios de la cohorte.,F
+3,Los administradores del programa y los miembros del personal de enfermerÌa podr·n especificar la secuencia preferida de clases para una cohorte determinada.,F
+3,"Para cada clase dentro de una secuencia para una cohorte, los administradores del programa y los miembros del personal de enfermerÌa podr·n especificar en quÈ trimestre se ofrecer· esa clase.",F
+3,Los administradores del programa y los miembros del personal de enfermerÌa podr·n agregar nuevas clases a una secuencia de clases,F
+3,Los administradores del programa y los miembros del personal de enfermerÌa podr·n agregar clases o secciones clÌnicas a una secuencia de clases,F
+3,Los administradores del programa y los miembros del personal de enfermerÌa podr·n agregar una nueva cohorte al sistema identificada por mes y aÒo de inicio.,F
+3,Los administradores del programa y los miembros del personal de enfermerÌa podr·n agregar al sistema nuevas clases para el departamento de enfermerÌa.,F
+3,Una clase ser· una clase no clÌnica o una clase clÌnica.,F
+3,"Una clase no clÌnica debe especificar el nombre del curso, requisitos de la sala de conferencias y las necesidades del instructor.",F
+3,"Una clase clÌnica deber· especificar el nombre del curso, requisitos de la sala de conferencias, necesidades del sitio clÌnico, necesidades del instructor de conferencias y las necesidades del instructor del laboratorio clÌnico.",F
+3,Los administradores del programa/miembros del personal de enfermerÌa podr·n crear un nuevo programa de estudio,F
+3,Un programa de estudio constar· de un nombre de programa y una lista de las clases requeridas (tanto clÌnicas como no clÌnicas) que deben completarse,F
+3,Los administradores del programa y los miembros del personal de enfermerÌa deber·n tener la capacidad de especificar quÈ clases se requieren para un programa de estudio,F
+3,El sistema podr· mostrar un informe de las clases necesarias para un trimestre determinado para todas las cohortes de todos los programas para fines de planificaciÛn de los administradores de programas/miembros del personal de enfermerÌa,F
+3,"El informe de clases necesarias incluir· (pero no se limitar· a) clases que se ofrecer·n, n˙mero de secciones necesarias, n˙mero de laboratorios necesarios y tipos de salones necesarios.",F
+3,Las clases para una cohorte determinada no entrar·n en conflicto con respecto a la hora y el dÌa en que se ofrecen,F
+3,Los administradores del programa y los miembros del personal de enfermerÌa podr·n agregar un nuevo centro clÌnico al sistema,F
+3,La informaciÛn del sitio clÌnico incluir· (pero no se limitar· a) el nombre de la persona de contacto del sitio y la informaciÛn de contacto.,F
+3,Los administradores del programa y los miembros del personal de enfermerÌa podr·n agregar una nueva secciÛn de laboratorio clÌnico para una clase clÌnica existente en el sistema,F
+3,"Una secciÛn de laboratorio clÌnico incluir· el nombre del sitio clÌnico, el dÌa del instructor de la clase y la hora del laboratorio",F
+3,Los administradores del programa y los miembros del personal de enfermerÌa podr·n agregar un estudiante que se haya registrado para una clase clÌnica a una secciÛn de laboratorio clÌnico para esa clase,F
+3,El sistema permitir· que un administrador del programa o un miembro del personal de enfermerÌa retire a un estudiante de una secciÛn de laboratorio clÌnico,F
+3,El sistema permitir· que un administrador del programa/miembro del personal de enfermerÌa traslade a un estudiante de una secciÛn de laboratorio clÌnico a otra secciÛn de laboratorio clÌnico correspondiente a la misma clase clÌnica,F
+3,Los administradores del programa/miembros del personal de enfermerÌa podr·n cancelar una secciÛn de laboratorio clÌnico solo si no hay estudiantes registrados para esa secciÛn de laboratorio clÌnico,F
+3,Un administrador del programa/miembro del personal de enfermerÌa podr· agregar un nuevo estudiante de enfermerÌa al sistema,F
+3,"Un miembro del personal deber· tener la capacidad de gestionar el progreso de un estudiante a tiempo parcial, lo que incluye modificar su secuencia de clases y el cronograma de clases",F
+3,"El sistema deber· poder mostrar un resumen imprimible para cohortes individuales que incluir· a los estudiantes inscritos en el Programa de estudio, secuencia de clases, progreso de la cohorte a travÈs del programa y el cronograma de finalizaciÛn.",F
+3,El sistema deber· poder mostrar un resumen imprimible para los sitios clÌnicos individuales que incluir· informaciÛn sobre los laboratorios que se llevan a cabo en ese sitio para el trimestre determinado,F
+3,"El sistema podr· mostrar un resumen imprimible para laboratorios clÌnicos individuales que incluir· (pero no se limitar· a) nombre de clase, n˙mero de clase, secciÛn de laboratorio, lista de estudiantes inscritos, dÌa(s), instructor(es), hora y lugar.",F
+3,"El sistema podr· mostrar un resumen imprimible para estudiantes de enfermerÌa individuales que incluir· (pero no se limitar· a) nombre del estudiante, ID del estudiante, fecha de admisiÛn de clases, crÈditos GPA y la cohorte en la que est· inscrito el estudiante",F
+3,El sistema deber· poder mostrar un resumen imprimible del registro del sistema,F
+3,"El sistema debe contener informaciÛn de contacto (correo electrÛnico y n˙mero de telÈfono) de todas las personas relevantes para el sistema, incluidos (entre otros) miembros del personal, estudiantes, instructores de conferencias, instructores de laboratorio clÌnico y administradores de centros clÌnicos",F
+3,El sistema utilizar· las direcciones de correo electrÛnico almacenadas como medio principal para comunicar informaciÛn a las partes afectadas,F
+3,"El sistema notificar· a las partes afectadas con fines de comunicaciÛn de rutina, que incluyen, entre otros, informar a los estudiantes sobre las prÛximas clases ofrecidas (cronograma) y cu·l ser·/podrÌa ser su horario",F
+3,"El sistema notificar· a las partes afectadas cuando se produzcan cambios que afecten a las clÌnicas, incluidos, entre otros, los cambios en la capacidad de la secciÛn clÌnica y las cancelaciones de la secciÛn clÌnica",F
+3,"El sistema notificar· a las partes afectadas cuando se produzcan cambios que afecten a las clases, incluidas, entre otras, cancelaciones de clases, cambios en los detalles de la secciÛn de clases y cambios en las ofertas de clases para un trimestre determinado",F
+3,"El sistema notificar· a las partes afectadas cuando se produzcan cambios que afecten a las cohortes, incluidos, entre otros, cambios en la secuencia del programa de estudio de una cohorte y cambios en el horario de una semana determinada (laboratorio cancelado esta semana debido a una enfermedad del instructor)",F
+3,"El sistema notificar· a las partes afectadas cuando ocurran cambios que afecten a estudiantes especÌficos, incluido, entre otros, cambiar el estado de un estudiante de tiempo completo a tiempo parcial y trasladar a un estudiante a una secciÛn clÌnica diferente.",F
+3,"Los administradores del programa/miembros del personal de enfermerÌa deber·n tener la capacidad de modificar la informaciÛn relacionada con las cohortes, incluido el identificador de la cohorte, el programa de estudio, la secuencia preferida de clases y los trimestres en los que una cohorte tomar· clases especÌficas",F
+3,"Los administradores del programa/miembros del personal de enfermerÌa deber·n tener la capacidad de modificar la informaciÛn relacionada con un programa de estudio dentro del Departamento de enfermerÌa, incluido el nombre del programa de estudio y las clases requeridas para ese programa de estudio.",F
+3,"Los administradores del programa/miembros del personal de enfermerÌa deber·n tener la capacidad de modificar la informaciÛn relacionada con un sitio clÌnico, incluida la informaciÛn de contacto y la direcciÛn de la persona de contacto del sitio del nombre del sitio clÌnico",F
+3,"Los administradores del programa/miembros del personal de enfermerÌa deber·n tener la capacidad de modificar la informaciÛn relacionada con una secciÛn del laboratorio clÌnico, incluido el nombre del sitio clÌnico, el departamento/secciÛn del laboratorio, el dÌa del instructor de la clase y la hora del laboratorio y la informaciÛn de contacto",F
+3,"Los administradores del programa/miembros del personal de enfermerÌa deber·n tener la capacidad de modificar la informaciÛn relacionada con un estudiante de enfermerÌa, incluida la identificaciÛn del estudiante, el nombre del estudiante, el n˙mero de telÈfono, el estado del correo electrÛnico (tiempo completo o parcial) y el programa de estudio.",F
+4,La aplicaciÛn Disputas deber· cumplir con los est·ndares corporativos para la creaciÛn de interfaces de usuario para aplicaciones de uso interno y externo,LF
+4,Todas las pantallas creadas como parte de la aplicaciÛn Disputas deben cumplir con los est·ndares corporativos para la creaciÛn de interfaces,LF
+4,La lista de casos de disputa que se muestra despuÈs de realizar una b˙squeda debe estar codificada por colores para una f·cil identificaciÛn de los casos de disputa seg˙n el estado del caso de disputa.,US
+4,El 100% de los titulares de tarjetas y los representantes de servicios comerciales utilizar·n la aplicaciÛn Disputas con regularidad despuÈs de un curso de capacitaciÛn de 2 dÌas,US
+4,El 100% de los representantes de servicios para titulares de tarjetas podr·n crear con Èxito un caso de disputa en el primer encuentro despuÈs de completar el curso de capacitaciÛn,US
+4,El 100% de los representantes de servicios comerciales podr·n realizar con Èxito una acciÛn de seguimiento en un caso de disputa en el primer encuentro despuÈs de completar el curso de capacitaciÛn,US
+4,El tiempo m·ximo de espera para que un usuario navegue de una pantalla a otra dentro de la aplicaciÛn Disputas no ser· superior a 5 segundos,PE
+4,La aplicaciÛn Disputas admitir· 350 usuarios simult·neos sin ninguna degradaciÛn del rendimiento de la aplicaciÛn,PE
+4,"La aplicaciÛn Disputas estar· disponible las 24 horas del dÌa, los 7 dÌas de la semana, los 365 dÌas del aÒo, con la excepciÛn de las siguientes ventanas de mantenimiento programadas. Lunes - S·bado 3:00 am a 4:00 am EST Domingo 1:00 amd a 5:00 am EST ",O
+4,La aplicaciÛn Disputas deber· interactuar con la Base de datos de declaraciones. La base de datos de estados de cuenta proporciona los detalles de la transacciÛn al sistema de disputas. Todos los detalles de la transacciÛn deben obtenerse de la base de datos de estados de cuenta,O
+4,La aplicaciÛn Disputas debe interactuar con la Base de datos de informaciÛn del titular de la tarjeta. La base de datos de informaciÛn del titular de la tarjeta proporciona informaciÛn detallada con respecto a un titular de la tarjeta. Toda la informaciÛn detallada del titular de la tarjeta debe obtenerse de la base de datos de informaciÛn del titular de la tarjeta.,O
+4,Las aplicaciones de Disputas deber·n interactuar con la Base de Datos de InformaciÛn del Comerciante. La base de datos de informaciÛn del comerciante proporciona informaciÛn detallada con respecto al comerciante. Toda la informaciÛn detallada del comerciante se obtendr· de la base de datos de informaciÛn del comerciante.,O
+4,La aplicaciÛn Disputas deber· interactuar con la aplicaciÛn Cartas. Esto permitir· que la aplicaciÛn Disputas solicite cartas como parte del proceso de iniciaciÛn y seguimiento de la disputa. Todas las solicitudes de cartas deben enviarse a la aplicaciÛn Print Letter Utility.,O
+4,La aplicaciÛn de Disputas debe interactuar con el Sistema de ContabilizaciÛn y FacturaciÛn del Titular de la Tarjeta. Esto permitir· que la aplicaciÛn Disputas solicite ajustes a las cuentas del titular de la tarjeta y del comerciante. Todas las solicitudes de ajuste deben enviarse al Sistema de registro y facturaciÛn del titular de la tarjeta.,O
+4,La aplicaciÛn Disputas garantizar· que solo los usuarios con el nivel de acceso adecuado puedan iniciar solicitudes de disputa,SE
+4,Solo los usuarios con acceso a la ActualizaciÛn deben poder iniciar solicitudes de disputa,SE
+4,La aplicaciÛn Disputas garantizar· que solo los usuarios autorizados puedan iniciar sesiÛn en la aplicaciÛn,SE
+4,Todos los usuarios autorizados una vez autenticados deben poder iniciar sesiÛn en el Sistema de disputas,SE
+4,El Sistema de Disputas generar· un Informe de Usuario que detalla cualquier nuevo usuario que se haya agregado y cualquier cambio en el nivel de acceso de un usuario existente. El informe se revisar· con fines de auditorÌa.,SE
+4,Todas las adiciones de nuevos usuarios y las modificaciones al acceso de los usuarios se registrar·n en el Informe de usuario,SE
 4,"Si se revoca una cuenta de usuario, solo el administrador del sistema puede volver a crear una instancia",SE
-4,Solo el administrador del sistema podr√° restablecer una cuenta de inicio de sesi√≥n de usuario revocada,SE
-4,La aplicaci√≥n Disputas manipular√° y visualizar√° los datos comerciales. Los usuarios no tendr√°n acceso directo a los archivos de datos o bases de datos.,SE
+4,Solo el administrador del sistema podr· restablecer una cuenta de inicio de sesiÛn de usuario revocada,SE
+4,La aplicaciÛn Disputas manipular· y visualizar· los datos comerciales. Los usuarios no tendr·n acceso directo a los archivos de datos o bases de datos.,SE
 4,Todas las actualizaciones de los archivos de datos o la base de datos deben iniciarse desde el Sistema de disputas,SE
-4,La aplicaci√≥n de Disputas debe cumplir con los requisitos legales especificados en el Reglamento Operativo de Comerciantes,L
-4,Todas las reglas de negocio especificadas en el Sistema de Disputas deber√°n cumplir con el Reglamento Operativo de Comerciantes,L
-4,La solicitud de Disputas debe cumplir con los requisitos legales especificados por la Regulaci√≥n E y la Regulaci√≥n Z que rigen el procesamiento de disputas de tarjetas de cr√©dito.,L
-4,Todas las reglas comerciales especificadas en el Sistema de Disputas deber√°n cumplir con las directrices de la Regulaci√≥n E y la Regulaci√≥n Z,L
-4,La aplicaci√≥n Disputas debe mantener un historial detallado de cada acci√≥n que realiza un usuario en un caso de disputa. Esto asegura una pista de auditor√≠a completa si surgen preguntas m√°s adelante con respecto a un caso de disputa en particular.,L
+4,La aplicaciÛn de Disputas debe cumplir con los requisitos legales especificados en el Reglamento Operativo de Comerciantes,L
+4,Todas las reglas de negocio especificadas en el Sistema de Disputas deber·n cumplir con el Reglamento Operativo de Comerciantes,L
+4,La solicitud de Disputas debe cumplir con los requisitos legales especificados por la RegulaciÛn E y la RegulaciÛn Z que rigen el procesamiento de disputas de tarjetas de crÈdito.,L
+4,Todas las reglas comerciales especificadas en el Sistema de Disputas deber·n cumplir con las directrices de la RegulaciÛn E y la RegulaciÛn Z,L
+4,La aplicaciÛn Disputas debe mantener un historial detallado de cada acciÛn que realiza un usuario en un caso de disputa. Esto asegura una pista de auditorÌa completa si surgen preguntas m·s adelante con respecto a un caso de disputa en particular.,L
 4,Todas las acciones que modifiquen un caso de disputa existente deben registrarse en el historial del caso,L
 4,El Sistema de Disputas debe ser accesible tanto para usuarios internos como externos,F
 4,El Sistema de Disputas debe evitar que los usuarios accedan a casos de disputas que no pertenezcan a su base de titulares de tarjetas,F
-4,El Sistema de Disputas facilitar√° la entrada directa de datos de un caso de disputa a trav√©s de una interfaz de usuario que admite respuestas en tiempo real a los usuarios.,F
-4,El Sistema de Disputas debe proporcionar diferentes niveles de acceso con respecto a las acciones de iniciaci√≥n y seguimiento de casos de controversias,F
-4,El Sistema de Disputas proporcionar√° la capacidad de acceso a la vista para los usuarios autorizados de la aplicaci√≥n,F
-4,El Sistema de Disputas proporcionar√° la capacidad de acceso a la actualizaci√≥n para los usuarios autorizados de la aplicaci√≥n,F
-4,El Sistema de Disputas debe permitir a los usuarios seleccionar transacciones disputables (seg√∫n la antig√ºedad de la transacci√≥n) desde una interfaz de usuario e iniciar una disputa (solicitud de recuperaci√≥n de boleto o notificaci√≥n de contracargo) en la transacci√≥n seleccionada.,F
-4,El Sistema de Disputas debe brindar al usuario la capacidad de iniciar un solo caso de disputa en m√∫ltiples transacciones que pertenecen a un solo comerciante.,F
-4,"El Sistema de Disputas proporcionar√° al usuario la capacidad de crear o iniciar una solicitud de recuperaci√≥n de tickets. Como parte del proceso de creaci√≥n de recuperaci√≥n de tickets, el sistema debe solicitar al usuario que ingrese toda la informaci√≥n necesaria para crear la solicitud de recuperaci√≥n de tickets. La solicitud de recuperaci√≥n de boleto es un documento que se env√≠a al comerciante para consultar la validez de una transacci√≥n.",F
-4,"El Sistema de Disputas debe permitir al usuario crear tres tipos √∫nicos de solicitudes de recuperaci√≥n de tickets. Los tres tipos de solicitudes de recuperaci√≥n de boletos son (1) Solicitud de recibo original (2) Solicitud de una copia del recibo o (3) Solicitud de un portafolio. Un portafolio consiste en documentaci√≥n que proporcionar√≠a prueba de una compra, como la documentaci√≥n que se recibe de una agencia de alquiler de autom√≥viles que es m√°s que un recibo de venta.",F
-4,El Sistema de Disputas debe evitar que los usuarios externos soliciten recibos originales. Las solicitudes de recibos originales est√°n restringidas a usuarios internos.,F
-4,El Sistema de Disputas debe proporcionar una confirmaci√≥n al usuario sobre la creaci√≥n de una solicitud de recuperaci√≥n de boletos que contenga la siguiente informaci√≥n; el n√∫mero de caso de disputa el tipo de recuperaci√≥n solicitada (copia original o cartera) y la fecha en que vence la respuesta del comerciante.,F
-4,El Sistema de Disputas permitir√° al usuario crear o iniciar una solicitud de devoluci√≥n de cargo. El sistema debe solicitar al usuario que ingrese la informaci√≥n requerida para iniciar una solicitud de devoluci√≥n de cargo. La solicitud de devoluci√≥n de cargo da como resultado una notificaci√≥n de devoluci√≥n de cargo impresa que se env√≠a al comerciante indicando que se realizar√° el cargo en su cuenta si no se proporciona prueba de que la transacci√≥n en disputa es v√°lida.,F
-4,El Sistema de Disputas debe proporcionar una confirmaci√≥n al usuario sobre la creaci√≥n de una solicitud de devoluci√≥n de cargo. La confirmaci√≥n debe contener la siguiente informaci√≥n: el n√∫mero de caso de disputa el tipo de contracargo solicitado (pendiente o inmediato) y la fecha en que vence la respuesta del comerciante.,F
-4,El Sistema de Disputas evitar√° la creaci√≥n de solicitudes de disputas duplicadas el 100% del tiempo,F
-4,El Sistema de Disputas proporcionar√° con precisi√≥n una lista de posibles c√≥digos de motivo para una transacci√≥n determinada. La lista de posibles c√≥digos de motivo debe derivarse en funci√≥n del tipo de transacci√≥n y la industria a la que pertenece el comerciante de acuerdo con las reglas comerciales definidas para el Sistema de disputas.,F
+4,El Sistema de Disputas facilitar· la entrada directa de datos de un caso de disputa a travÈs de una interfaz de usuario que admite respuestas en tiempo real a los usuarios.,F
+4,El Sistema de Disputas debe proporcionar diferentes niveles de acceso con respecto a las acciones de iniciaciÛn y seguimiento de casos de controversias,F
+4,El Sistema de Disputas proporcionar· la capacidad de acceso a la vista para los usuarios autorizados de la aplicaciÛn,F
+4,El Sistema de Disputas proporcionar· la capacidad de acceso a la actualizaciÛn para los usuarios autorizados de la aplicaciÛn,F
+4,El Sistema de Disputas debe permitir a los usuarios seleccionar transacciones disputables (seg˙n la antig¸edad de la transacciÛn) desde una interfaz de usuario e iniciar una disputa (solicitud de recuperaciÛn de boleto o notificaciÛn de contracargo) en la transacciÛn seleccionada.,F
+4,El Sistema de Disputas debe brindar al usuario la capacidad de iniciar un solo caso de disputa en m˙ltiples transacciones que pertenecen a un solo comerciante.,F
+4,"El Sistema de Disputas proporcionar· al usuario la capacidad de crear o iniciar una solicitud de recuperaciÛn de tickets. Como parte del proceso de creaciÛn de recuperaciÛn de tickets, el sistema debe solicitar al usuario que ingrese toda la informaciÛn necesaria para crear la solicitud de recuperaciÛn de tickets. La solicitud de recuperaciÛn de boleto es un documento que se envÌa al comerciante para consultar la validez de una transacciÛn.",F
+4,"El Sistema de Disputas debe permitir al usuario crear tres tipos ˙nicos de solicitudes de recuperaciÛn de tickets. Los tres tipos de solicitudes de recuperaciÛn de boletos son (1) Solicitud de recibo original (2) Solicitud de una copia del recibo o (3) Solicitud de un portafolio. Un portafolio consiste en documentaciÛn que proporcionarÌa prueba de una compra, como la documentaciÛn que se recibe de una agencia de alquiler de automÛviles que es m·s que un recibo de venta.",F
+4,El Sistema de Disputas debe evitar que los usuarios externos soliciten recibos originales. Las solicitudes de recibos originales est·n restringidas a usuarios internos.,F
+4,El Sistema de Disputas debe proporcionar una confirmaciÛn al usuario sobre la creaciÛn de una solicitud de recuperaciÛn de boletos que contenga la siguiente informaciÛn; el n˙mero de caso de disputa el tipo de recuperaciÛn solicitada (copia original o cartera) y la fecha en que vence la respuesta del comerciante.,F
+4,El Sistema de Disputas permitir· al usuario crear o iniciar una solicitud de devoluciÛn de cargo. El sistema debe solicitar al usuario que ingrese la informaciÛn requerida para iniciar una solicitud de devoluciÛn de cargo. La solicitud de devoluciÛn de cargo da como resultado una notificaciÛn de devoluciÛn de cargo impresa que se envÌa al comerciante indicando que se realizar· el cargo en su cuenta si no se proporciona prueba de que la transacciÛn en disputa es v·lida.,F
+4,El Sistema de Disputas debe proporcionar una confirmaciÛn al usuario sobre la creaciÛn de una solicitud de devoluciÛn de cargo. La confirmaciÛn debe contener la siguiente informaciÛn: el n˙mero de caso de disputa el tipo de contracargo solicitado (pendiente o inmediato) y la fecha en que vence la respuesta del comerciante.,F
+4,El Sistema de Disputas evitar· la creaciÛn de solicitudes de disputas duplicadas el 100% del tiempo,F
+4,El Sistema de Disputas proporcionar· con precisiÛn una lista de posibles cÛdigos de motivo para una transacciÛn determinada. La lista de posibles cÛdigos de motivo debe derivarse en funciÛn del tipo de transacciÛn y la industria a la que pertenece el comerciante de acuerdo con las reglas comerciales definidas para el Sistema de disputas.,F
 4,El Sistema de Disputas debe proporcionar la capacidad de ver los casos de disputa existentes,F
-4,"El Sistema de Disputas debe proporcionar funcionalidad de b√∫squeda. El m√©todo de b√∫squeda debe incluir la capacidad de buscar por (1) el n√∫mero de caso de disputa (2) el n√∫mero de cuenta del comerciante (3) el n√∫mero de cuenta del titular de la tarjeta y (4) el n√∫mero de emisor. Adem√°s de los criterios anteriores, la funci√≥n de b√∫squeda debe permitir al usuario limitar los resultados de la b√∫squeda por un rango de fechas, el tipo de disputa (solicitud de recuperaci√≥n de ticket o notificaci√≥n de contracargo), el estado del caso (abierto cerrado o todo) y el motivo de la disputa.",F
-4,"Se debe proporcionar al usuario una lista de todos los casos de disputas que cumplan con los criterios de b√∫squeda ingresados. La lista de casos debe diferenciar el tipo y/o el estado del caso codificando con colores el elemento de l√≠nea de la lista. Por ejemplo, todos los casos abiertos ser√°n amarillos y todos los casos cerrados ser√°n grises.",F
-4,El Sistema de Disputas proporcionar√° a los usuarios la capacidad de ver el historial de todas las actividades que han ocurrido en el caso de disputa,F
-4,El Sistema de Disputas proporcionar√° a los usuarios la capacidad de dar seguimiento a un caso de disputa a trav√©s de acciones de seguimiento. La lista de acciones de seguimiento disponibles para un caso de disputa determinado debe filtrarse por el estado del caso y el nivel de acceso del usuario.,F
-4,"El Sistema de Disputas registrar√° el nombre del usuario y la fecha de cualquier actividad que cree o modifique el caso de disputas en el sistema. Se debe mantener un historial detallado de las acciones tomadas en el caso, incluida la fecha y el usuario que realiz√≥ la acci√≥n, para fines de auditor√≠a.",F
-4,"Para cualquier acci√≥n sistem√°tica (no iniciada por el usuario) que ocurra en un caso como el proceso de envejecimiento de disputas, se generar√° una actividad de caso. En el siguiente inicio de sesi√≥n, se debe notificar al usuario que inici√≥ el caso de disputa que se ha producido una acci√≥n sistem√°tica en el caso de disputa.",F
+4,"El Sistema de Disputas debe proporcionar funcionalidad de b˙squeda. El mÈtodo de b˙squeda debe incluir la capacidad de buscar por (1) el n˙mero de caso de disputa (2) el n˙mero de cuenta del comerciante (3) el n˙mero de cuenta del titular de la tarjeta y (4) el n˙mero de emisor. Adem·s de los criterios anteriores, la funciÛn de b˙squeda debe permitir al usuario limitar los resultados de la b˙squeda por un rango de fechas, el tipo de disputa (solicitud de recuperaciÛn de ticket o notificaciÛn de contracargo), el estado del caso (abierto cerrado o todo) y el motivo de la disputa.",F
+4,"Se debe proporcionar al usuario una lista de todos los casos de disputas que cumplan con los criterios de b˙squeda ingresados. La lista de casos debe diferenciar el tipo y/o el estado del caso codificando con colores el elemento de lÌnea de la lista. Por ejemplo, todos los casos abiertos ser·n amarillos y todos los casos cerrados ser·n grises.",F
+4,El Sistema de Disputas proporcionar· a los usuarios la capacidad de ver el historial de todas las actividades que han ocurrido en el caso de disputa,F
+4,El Sistema de Disputas proporcionar· a los usuarios la capacidad de dar seguimiento a un caso de disputa a travÈs de acciones de seguimiento. La lista de acciones de seguimiento disponibles para un caso de disputa determinado debe filtrarse por el estado del caso y el nivel de acceso del usuario.,F
+4,"El Sistema de Disputas registrar· el nombre del usuario y la fecha de cualquier actividad que cree o modifique el caso de disputas en el sistema. Se debe mantener un historial detallado de las acciones tomadas en el caso, incluida la fecha y el usuario que realizÛ la acciÛn, para fines de auditorÌa.",F
+4,"Para cualquier acciÛn sistem·tica (no iniciada por el usuario) que ocurra en un caso como el proceso de envejecimiento de disputas, se generar· una actividad de caso. En el siguiente inicio de sesiÛn, se debe notificar al usuario que iniciÛ el caso de disputa que se ha producido una acciÛn sistem·tica en el caso de disputa.",F
 4,Todas las solicitudes de cartas deben formatearse de acuerdo con las pautas especificadas por el sistema Print Letter Utility.,F
-4,Cualquier caso de disputas que se haya cerrado durante m√°s de 6 meses debe eliminarse de la base de datos de disputas en l√≠nea,F
+4,Cualquier caso de disputas que se haya cerrado durante m·s de 6 meses debe eliminarse de la base de datos de disputas en lÌnea,F
 5,El producto debe ser compatible con Internet Explorer 5.5 y superior,O
 5,El producto debe ser compatible con Mozilla Firefox 1.0 y superior,O
-5,El producto debe interactuar con el sistema Choice Parts. Esto proporciona la alimentaci√≥n de datos de piezas recicladas.,O
-5,El producto se ejecutar√° en el hardware existente para todos los entornos.,O
-5,El producto se adherir√° a las pautas de arquitectura corporativa,O
+5,El producto debe interactuar con el sistema Choice Parts. Esto proporciona la alimentaciÛn de datos de piezas recicladas.,O
+5,El producto se ejecutar· en el hardware existente para todos los entornos.,O
+5,El producto se adherir· a las pautas de arquitectura corporativa,O
 5,El producto debe cumplir con las Directrices corporativas de interfaz de usuario,LF
-5,El producto deber√° cumplir con el esquema de color corporativo,LF
+5,El producto deber· cumplir con el esquema de color corporativo,LF
 5,La apariencia del producto debe parecer profesional,LF
-5,El producto ser√° f√°cil de usar por Ajustadores y Estimadores de Colisiones. El 95% de los Ajustadores y Estimadores de Colisiones encontrar√°n el producto f√°cil de usar.,US
-5,El producto aumentar√° la productividad de los estimadores de colisiones. El 80% de los estimadores de colisiones estar√°n de acuerdo en que su productividad ha aumentado dentro de 1 mes de usar el producto.,US
-5,Los usuarios se sentir√°n satisfechos con el producto. El 85% de todos los usuarios estar√°n satisfechos con el producto.,US
-5,El producto ser√° f√°cil de aprender por los ajustadores y estimadores de colisiones. El producto se aprender√° con dos d√≠as de formaci√≥n in situ,US
-5,El usuario localizar√° f√°cilmente las instrucciones mientras usa el producto. La ayuda al usuario se puede encontrar dentro del 90% del sistema.,US
-5,La b√∫squeda de piezas recicladas no tardar√° m√°s de 15 segundos. Los resultados de la b√∫squeda se devolver√°n en menos de 15 segundos.,PE
-5,La b√∫squeda de la instalaci√≥n de reparaci√≥n preferida no llevar√° m√°s de 8 segundos. La instalaci√≥n de reparaci√≥n preferida se devuelve en 8 segundos,PE
-5,El informe de auditor√≠a de piezas recicladas se devolver√° al usuario en un plazo de 10 segundos. El informe de auditor√≠a se devolver√° en un plazo de diez segundos.,PE
-5,Las calificaciones de las instalaciones de reparaci√≥n preferidas se guardar√°n en 5 segundos. El guardado se producir√° en 5 segundos.,PE
-5,El producto se adherir√° al programa de disponibilidad en l√≠nea de la empresa. La aplicaci√≥n se desactiva solo dentro del 98% de las interrupciones programadas seg√∫n el programa de disponibilidad.,A
-5,El producto alcanzar√° un tiempo de actividad del 98%. El producto no fallar√° m√°s del 2% del tiempo disponible en l√≠nea.,A
-5,El producto podr√° manejar hasta 1500 usuarios simult√°neos. El sistema funcionar√° con 1500 usuarios por tiempo.,SC
-5,El n√∫mero medio de registros de piezas recicladas por d√≠a ser√° de 50000,SC
-5,El producto podr√° manejar 10000 usuarios simult√°neos dentro de los 2 a√±os posteriores al lanzamiento inicial,SC
-5,"Para los estimadores, el producto debe poder ser operado en una instalaci√≥n de reparaci√≥n durante condiciones sucias y ruidosas.",O
-5,El producto debe interactuar con el sistema ChoiceParts una vez al d√≠a aproximadamente a la 1:00 a.m.,O
-5,El mantenimiento del producto se incluir√° dentro de las ventanas de mantenimiento corporativas establecidas,O
+5,El producto ser· f·cil de usar por Ajustadores y Estimadores de Colisiones. El 95% de los Ajustadores y Estimadores de Colisiones encontrar·n el producto f·cil de usar.,US
+5,El producto aumentar· la productividad de los estimadores de colisiones. El 80% de los estimadores de colisiones estar·n de acuerdo en que su productividad ha aumentado dentro de 1 mes de usar el producto.,US
+5,Los usuarios se sentir·n satisfechos con el producto. El 85% de todos los usuarios estar·n satisfechos con el producto.,US
+5,El producto ser· f·cil de aprender por los ajustadores y estimadores de colisiones. El producto se aprender· con dos dÌas de formaciÛn in situ,US
+5,El usuario localizar· f·cilmente las instrucciones mientras usa el producto. La ayuda al usuario se puede encontrar dentro del 90% del sistema.,US
+5,La b˙squeda de piezas recicladas no tardar· m·s de 15 segundos. Los resultados de la b˙squeda se devolver·n en menos de 15 segundos.,PE
+5,La b˙squeda de la instalaciÛn de reparaciÛn preferida no llevar· m·s de 8 segundos. La instalaciÛn de reparaciÛn preferida se devuelve en 8 segundos,PE
+5,El informe de auditorÌa de piezas recicladas se devolver· al usuario en un plazo de 10 segundos. El informe de auditorÌa se devolver· en un plazo de diez segundos.,PE
+5,Las calificaciones de las instalaciones de reparaciÛn preferidas se guardar·n en 5 segundos. El guardado se producir· en 5 segundos.,PE
+5,El producto se adherir· al programa de disponibilidad en lÌnea de la empresa. La aplicaciÛn se desactiva solo dentro del 98% de las interrupciones programadas seg˙n el programa de disponibilidad.,A
+5,El producto alcanzar· un tiempo de actividad del 98%. El producto no fallar· m·s del 2% del tiempo disponible en lÌnea.,A
+5,El producto podr· manejar hasta 1500 usuarios simult·neos. El sistema funcionar· con 1500 usuarios por tiempo.,SC
+5,El n˙mero medio de registros de piezas recicladas por dÌa ser· de 50000,SC
+5,El producto podr· manejar 10000 usuarios simult·neos dentro de los 2 aÒos posteriores al lanzamiento inicial,SC
+5,"Para los estimadores, el producto debe poder ser operado en una instalaciÛn de reparaciÛn durante condiciones sucias y ruidosas.",O
+5,El producto debe interactuar con el sistema ChoiceParts una vez al dÌa aproximadamente a la 1:00 a.m.,O
+5,El mantenimiento del producto se incluir· dentro de las ventanas de mantenimiento corporativas establecidas,O
 5,El producto debe recibir soporte mediante el centro de soporte corporativo,O
-5,Las instalaciones y actualizaciones de productos ser√°n manejadas por el equipo de tecnolog√≠a de middleware dentro de los plazos de lanzamiento establecidos,O
-5,Solo los ajustadores pueden solicitar informes de auditor√≠a de piezas recicladas. Ning√∫n usuario sin una funci√≥n de ajustador deber√° solicitar auditor√≠as de piezas recicladas.,SE
-5,Solo los ajustadores con un rol de supervisor pueden actualizar las calificaciones de las instalaciones de reparaci√≥n preferidas. Los usuarios sin el rol de supervisor no pueden acceder a las calificaciones de las instalaciones de reparaci√≥n. ,SE
-5,Solo los estimadores de colisiones deben buscar piezas recicladas. Los usuarios sin la funci√≥n de estimador de colisiones no tendr√°n acceso a la b√∫squeda de piezas recicladas. ,SE
-5,Solo se introducir√°n en el sistema datos v√°lidos. No se introducir√°n datos inv√°lidos en el sistema.,SE
-5,Una compa√±√≠a de seguros no podr√° ver los datos de reclamaci√≥n de otra compa√±√≠a de seguros,SE
-5,El producto estar√° libre de virus inform√°ticos,SE
-5,"El sistema evitar√° ataques maliciosos, incluida la denegaci√≥n de servicio",SE
+5,Las instalaciones y actualizaciones de productos ser·n manejadas por el equipo de tecnologÌa de middleware dentro de los plazos de lanzamiento establecidos,O
+5,Solo los ajustadores pueden solicitar informes de auditorÌa de piezas recicladas. Ning˙n usuario sin una funciÛn de ajustador deber· solicitar auditorÌas de piezas recicladas.,SE
+5,Solo los ajustadores con un rol de supervisor pueden actualizar las calificaciones de las instalaciones de reparaciÛn preferidas. Los usuarios sin el rol de supervisor no pueden acceder a las calificaciones de las instalaciones de reparaciÛn. ,SE
+5,Solo los estimadores de colisiones deben buscar piezas recicladas. Los usuarios sin la funciÛn de estimador de colisiones no tendr·n acceso a la b˙squeda de piezas recicladas. ,SE
+5,Solo se introducir·n en el sistema datos v·lidos. No se introducir·n datos inv·lidos en el sistema.,SE
+5,Una compaÒÌa de seguros no podr· ver los datos de reclamaciÛn de otra compaÒÌa de seguros,SE
+5,El producto estar· libre de virus inform·ticos,SE
+5,"El sistema evitar· ataques maliciosos, incluida la denegaciÛn de servicio",SE
 5,El producto debe cumplir con la ley Sarbanes-Oxley.,L
-5,El producto deber√° cumplir con las leyes de estimaciones relacionadas con el uso de piezas recicladas.,L
-5,El producto deber√° cumplir con las regulaciones de seguros con respecto al procesamiento de reclamaciones.,L
-5,El usuario deber√° buscar la instalaci√≥n de reparaci√≥n preferida utilizando la ubicaci√≥n del veh√≠culo y el radio en millas,F
-5,Los datos del veh√≠culo incluir√°n la marca y el modelo del a√±o del veh√≠culo,F
-5,"La ubicaci√≥n del veh√≠culo incluir√° la direcci√≥n de la calle, el estado y el c√≥digo postal",F
-5,"El sistema resolver√° el c√≥digo postal para la direcci√≥n de la calle, ciudad y estado si se desconoce el c√≥digo postal.",F
-5,El radio de b√∫squeda debe estar entre 1 y 30 millas,F
-5,El sistema debe ubicar la instalaci√≥n de reparaci√≥n preferida con las calificaciones m√°s altas para los criterios de entrada,F
-5,El ajustador deber√° ingresar a la instalaci√≥n de reparaci√≥n preferida en la asignaci√≥n de presupuesto.,F
-5,El ajustador podr√° anular la facilidad de reparaci√≥n preferida en la asignaci√≥n de presupuesto,F
-5,La instalaci√≥n de reparaci√≥n preferida se devolver√° al usuario.,F
-5,El sistema devolver√° una lista de las instalaciones de reparaci√≥n dentro del radio si no se puede determinar la instalaci√≥n de reparaci√≥n preferida,F
-5,El estimador debe buscar piezas recicladas disponibles utilizando informaci√≥n sobre piezas de veh√≠culos envejecidas.,F
-5,El estimador buscar√° piezas recicladas disponibles utilizando una lista de proveedores de piezas preferidos,F
-5,El sistema buscar√° piezas recicladas disponibles para las piezas y los proveedores del veh√≠culo suministrados.,F
-5,El estimador buscar√° por c√≥digo postal con un radio de 30 millas si no se encuentran partes para los proveedores de partes preferidos,F
-5,El sistema conservar√° las piezas recicladas disponibles y los proveedores devueltos de la b√∫squeda,F
-5,La informaci√≥n disponible sobre piezas recicladas y sus proveedores se devolver√°n al usuario,F
-5,El estimador aplicar√° las piezas recicladas seleccionadas a la estimaci√≥n de colisi√≥n,F
-5,El estimador no aplicar√° piezas recicladas a la estimaci√≥n de colisi√≥n si no se devuelven piezas disponibles,F
-5,El ajustador revisar√° la estimaci√≥n de colisi√≥n,F
-5,El ajustador solicitar√° una auditor√≠a de las piezas recicladas de la estimaci√≥n de colisi√≥n,F
-5,El sistema recuperar√° los resultados de la b√∫squeda de piezas recicladas proporcionados al estimador,F
-5,El sistema generar√° un informe de auditor√≠a basado en las piezas recicladas disponibles y la estimaci√≥n de colisi√≥n,F
-5,El informe de auditor√≠a incluir√° el n√∫mero total de piezas recicladas utilizadas en la estimaci√≥n,F
-5,El informe de auditor√≠a incluir√° el n√∫mero de piezas recicladas disponibles a partir de los resultados de b√∫squeda originales,F
-5,El informe de auditor√≠a incluir√° el porcentaje de piezas recicladas disponibles utilizadas en la estimaci√≥n,F
-5,El informe de auditor√≠a incluir√° la puntuaci√≥n total de la auditor√≠a que suma las partidas individuales,F
-5,El informe de auditor√≠a se mostrar√° al usuario,F
-5,El informe de auditor√≠a estar√° disponible para otros ajustadores en momentos posteriores.,F
-5,El usuario deber√° seleccionar para ver las calificaciones de la instalaci√≥n de reparaci√≥n preferida.,F
-5,Se mostrar√°n al usuario las calificaciones actuales de las instalaciones de reparaci√≥n.,F
-5,El sistema mostrar√° un conjunto de calificaciones en blanco si a√∫n no hay calificaciones definidas,F
-5,El usuario deber√° ingresar nuevas calificaciones basadas en el informe de auditor√≠a,F
-5,Las calificaciones ser√°n de una escala de 1 a 10,F
-5,Las clasificaciones deben incluir categor√≠as para el intento de uso de piezas recicladas y el uso real de piezas recicladas,F
-5,El usuario debe seleccionar guardar las calificaciones de la instalaci√≥n de reparaci√≥n preferida,F
-5,El sistema guardar√° las calificaciones de las instalaciones de reparaci√≥n preferidas,F
-6,"El producto debe funcionar con la mayor√≠a de los sistemas de gesti√≥n de bases de datos (DBMS) del mercado, ya sea que el DBMS est√© ubicado con el producto en la misma m√°quina o en una m√°quina diferente en la red inform√°tica",O
-6,El producto funcionar√° junto con el software del servidor en cualquier sistema operativo donde se pueda instalar el Java runtime,O
-6,El producto requerir√° la colaboraci√≥n con un sistema de gesti√≥n de bases de datos (DBMS). El DBMS puede estar ubicado en la misma m√°quina que el producto o en una m√°quina separada que resida en la misma red inform√°tica.,O
-6,El producto debe hacer uso de tecnolog√≠a de servidores web/de aplicaciones. Los ejemplos de c√≥digo abierto incluyen el servidor web Apache Tomcat y el servidor de aplicaciones JBoss.,O
-6,"Ser√° necesario integrar con el producto un sistema de gesti√≥n de bases de datos como Oracle DB2, MySql o HSQL.",O
-6,"El aspecto y la sensaci√≥n del producto deben poder incorporar aspectos de la organizaci√≥n del cliente, como la marca y la identidad del logotipo",LF
-6,El producto deber√° tener un aspecto conservador y profesional,LF
-6,El producto har√° que los usuarios quieran usarlo. El 80% de los usuarios encuestados informan que est√°n usando el producto con regularidad despu√©s de las primeras 2 semanas posteriores al lanzamiento.,US
-6,El producto debe ser f√°cil de usar. El 90% de los usuarios podr√°n reservar con √©xito una sala de conferencias dentro de los 5 minutos posteriores al uso del producto.,US
-6,El producto proporcionar√° feedback a los usuarios cuando sea necesario. El 80% de los usuarios encuestados informa que el producto confirma con precisi√≥n sus acciones.,US
-6,El producto permitir√° al usuario seleccionar un idioma elegido de uno de los pa√≠ses del mercado de destino,US
-6,El producto permitir√° la personalizaci√≥n de la p√°gina de inicio y las preferencias de visualizaci√≥n,US
-6,"Un empleado podr√° utilizar con √©xito el producto en unos pocos minutos. Despu√©s de navegar informalmente por el producto durante menos de 15 minutos, los usuarios podr√°n organizar reuniones y reservar salas de conferencias con √©xito.",US
-6,El producto utilizar√° un men√∫ de navegaci√≥n est√°ndar familiar para la mayor√≠a de los usuarios de la web.,US
-6,El producto permitir√° la b√∫squeda intuitiva de las salas de conferencias disponibles,US
+5,El producto deber· cumplir con las leyes de estimaciones relacionadas con el uso de piezas recicladas.,L
+5,El producto deber· cumplir con las regulaciones de seguros con respecto al procesamiento de reclamaciones.,L
+5,El usuario deber· buscar la instalaciÛn de reparaciÛn preferida utilizando la ubicaciÛn del vehÌculo y el radio en millas,F
+5,Los datos del vehÌculo incluir·n la marca y el modelo del aÒo del vehÌculo,F
+5,"La ubicaciÛn del vehÌculo incluir· la direcciÛn de la calle, el estado y el cÛdigo postal",F
+5,"El sistema resolver· el cÛdigo postal para la direcciÛn de la calle, ciudad y estado si se desconoce el cÛdigo postal.",F
+5,El radio de b˙squeda debe estar entre 1 y 30 millas,F
+5,El sistema debe ubicar la instalaciÛn de reparaciÛn preferida con las calificaciones m·s altas para los criterios de entrada,F
+5,El ajustador deber· ingresar a la instalaciÛn de reparaciÛn preferida en la asignaciÛn de presupuesto.,F
+5,El ajustador podr· anular la facilidad de reparaciÛn preferida en la asignaciÛn de presupuesto,F
+5,La instalaciÛn de reparaciÛn preferida se devolver· al usuario.,F
+5,El sistema devolver· una lista de las instalaciones de reparaciÛn dentro del radio si no se puede determinar la instalaciÛn de reparaciÛn preferida,F
+5,El estimador debe buscar piezas recicladas disponibles utilizando informaciÛn sobre piezas de vehÌculos envejecidas.,F
+5,El estimador buscar· piezas recicladas disponibles utilizando una lista de proveedores de piezas preferidos,F
+5,El sistema buscar· piezas recicladas disponibles para las piezas y los proveedores del vehÌculo suministrados.,F
+5,El estimador buscar· por cÛdigo postal con un radio de 30 millas si no se encuentran partes para los proveedores de partes preferidos,F
+5,El sistema conservar· las piezas recicladas disponibles y los proveedores devueltos de la b˙squeda,F
+5,La informaciÛn disponible sobre piezas recicladas y sus proveedores se devolver·n al usuario,F
+5,El estimador aplicar· las piezas recicladas seleccionadas a la estimaciÛn de colisiÛn,F
+5,El estimador no aplicar· piezas recicladas a la estimaciÛn de colisiÛn si no se devuelven piezas disponibles,F
+5,El ajustador revisar· la estimaciÛn de colisiÛn,F
+5,El ajustador solicitar· una auditorÌa de las piezas recicladas de la estimaciÛn de colisiÛn,F
+5,El sistema recuperar· los resultados de la b˙squeda de piezas recicladas proporcionados al estimador,F
+5,El sistema generar· un informe de auditorÌa basado en las piezas recicladas disponibles y la estimaciÛn de colisiÛn,F
+5,El informe de auditorÌa incluir· el n˙mero total de piezas recicladas utilizadas en la estimaciÛn,F
+5,El informe de auditorÌa incluir· el n˙mero de piezas recicladas disponibles a partir de los resultados de b˙squeda originales,F
+5,El informe de auditorÌa incluir· el porcentaje de piezas recicladas disponibles utilizadas en la estimaciÛn,F
+5,El informe de auditorÌa incluir· la puntuaciÛn total de la auditorÌa que suma las partidas individuales,F
+5,El informe de auditorÌa se mostrar· al usuario,F
+5,El informe de auditorÌa estar· disponible para otros ajustadores en momentos posteriores.,F
+5,El usuario deber· seleccionar para ver las calificaciones de la instalaciÛn de reparaciÛn preferida.,F
+5,Se mostrar·n al usuario las calificaciones actuales de las instalaciones de reparaciÛn.,F
+5,El sistema mostrar· un conjunto de calificaciones en blanco si a˙n no hay calificaciones definidas,F
+5,El usuario deber· ingresar nuevas calificaciones basadas en el informe de auditorÌa,F
+5,Las calificaciones ser·n de una escala de 1 a 10,F
+5,Las clasificaciones deben incluir categorÌas para el intento de uso de piezas recicladas y el uso real de piezas recicladas,F
+5,El usuario debe seleccionar guardar las calificaciones de la instalaciÛn de reparaciÛn preferida,F
+5,El sistema guardar· las calificaciones de las instalaciones de reparaciÛn preferidas,F
+6,"El producto debe funcionar con la mayorÌa de los sistemas de gestiÛn de bases de datos (DBMS) del mercado, ya sea que el DBMS estÈ ubicado con el producto en la misma m·quina o en una m·quina diferente en la red inform·tica",O
+6,El producto funcionar· junto con el software del servidor en cualquier sistema operativo donde se pueda instalar el Java runtime,O
+6,El producto requerir· la colaboraciÛn con un sistema de gestiÛn de bases de datos (DBMS). El DBMS puede estar ubicado en la misma m·quina que el producto o en una m·quina separada que resida en la misma red inform·tica.,O
+6,El producto debe hacer uso de tecnologÌa de servidores web/de aplicaciones. Los ejemplos de cÛdigo abierto incluyen el servidor web Apache Tomcat y el servidor de aplicaciones JBoss.,O
+6,"Ser· necesario integrar con el producto un sistema de gestiÛn de bases de datos como Oracle DB2, MySql o HSQL.",O
+6,"El aspecto y la sensaciÛn del producto deben poder incorporar aspectos de la organizaciÛn del cliente, como la marca y la identidad del logotipo",LF
+6,El producto deber· tener un aspecto conservador y profesional,LF
+6,El producto har· que los usuarios quieran usarlo. El 80% de los usuarios encuestados informan que est·n usando el producto con regularidad despuÈs de las primeras 2 semanas posteriores al lanzamiento.,US
+6,El producto debe ser f·cil de usar. El 90% de los usuarios podr·n reservar con Èxito una sala de conferencias dentro de los 5 minutos posteriores al uso del producto.,US
+6,El producto proporcionar· feedback a los usuarios cuando sea necesario. El 80% de los usuarios encuestados informa que el producto confirma con precisiÛn sus acciones.,US
+6,El producto permitir· al usuario seleccionar un idioma elegido de uno de los paÌses del mercado de destino,US
+6,El producto permitir· la personalizaciÛn de la p·gina de inicio y las preferencias de visualizaciÛn,US
+6,"Un empleado podr· utilizar con Èxito el producto en unos pocos minutos. DespuÈs de navegar informalmente por el producto durante menos de 15 minutos, los usuarios podr·n organizar reuniones y reservar salas de conferencias con Èxito.",US
+6,El producto utilizar· un men˙ de navegaciÛn est·ndar familiar para la mayorÌa de los usuarios de la web.,US
+6,El producto permitir· la b˙squeda intuitiva de las salas de conferencias disponibles,US
 6,El producto debe cumplir con la Ley para Estadounidenses con Discapacidades (ADA),US
-6,La respuesta debe ser lo suficientemente r√°pida para evitar interrumpir el flujo de pensamiento del usuario. El 90% de las tareas se completar√°n en 5 segundos. El 98% de las tareas se completar√°n en 8 segundos.,PE
-6,"Aparte de la falla del servidor, el producto de software alcanzar√° el 99,99% de tiempo de actividad",A
-6,El producto crear√° un registro de excepciones de los problemas encontrados dentro del producto para su transmisi√≥n a nuestra empresa para su an√°lisis y resoluci√≥n,FT
-6,"El producto deber√° ser capaz de gestionar hasta 1000 solicitudes simult√°neas. Este n√∫mero aumentar√° a 2000 para la versi√≥n 2. La capacidad de simultaneidad debe poder manejar las horas pico de programaci√≥n, como las primeras horas de la ma√±ana y las √∫ltimas de la tarde.",SC
-6,El producto podr√° procesar 10000 transacciones por hora dentro de los dos a√±os siguientes a su lanzamiento. Este n√∫mero aumentar√° a 20000 en la versi√≥n 2.,SC
-6,Se espera que el producto funcione durante al menos 5 a√±os para cada instalaci√≥n del cliente,SC
-6,El producto se utilizar√° en entornos de oficina.,O
-6,El producto debe poder interactuar con cualquier navegador HTML. El producto transmitir√° datos entre el usuario y el producto sin problemas. El producto mostrar√° HTML correctamente en el 80% de todos los navegadores HTML probados (el m√≠nimo es probar 8 navegadores).,O
-6,El producto debe poder interactuar con varios sistemas de gesti√≥n de bases de datos. El producto se comunicar√° satisfactoriamente con el sistema de gesti√≥n de la base de datos en el 100% de todas las transacciones.,O
-6,El producto debe poder interactuar con varios servidores de correo electr√≥nico. El producto podr√° enviar correo electr√≥nico. ,O
-6,El producto estar√° disponible para su distribuci√≥n a trav√©s de Internet como un archivo binario o ZIP,O
-6,El producto estar√° disponible para su distribuci√≥n como un CD empaquetado.,O
-6,"El producto estar√° disponible para licenciamiento como una licencia para un servidor, dos a cinco servidores o cinco o m√°s servidores.",O
-6,Se debe poder agregar un nuevo usuario al sistema en 10 minutos. El 90% de los nuevos usuarios pueden iniciar sesi√≥n en el sistema en 10 minutos.,US
-6,El producto debe dise√±arse utilizando patrones de dise√±o y las mejores pr√°cticas de codificaci√≥n. El 90% de los desarrolladores de software de mantenimiento pueden integrar nuevas funciones en el producto en 2 d√≠as h√°biles.,MN
-6,El producto debe ser altamente configurable para su uso con varios sistemas de administraci√≥n de bases de datos para los usuarios finales. El 80% de los usuarios finales pueden integrar nuevos sistemas de gesti√≥n de bases de datos con el producto sin cambiar el c√≥digo de software del producto.,MN
-6,Las versiones de mantenimiento se ofrecer√°n a los clientes una vez al a√±o. Los lanzamientos no deben tardar m√°s de 5 minutos para que el 80% de la base de clientes se instale.,MN
-6,Cada usuario registrado tendr√° acceso al sitio de soporte del producto a trav√©s de Internet. El 70% de los usuarios registrados encontrar√°n una soluci√≥n a su problema dentro de los 5 minutos posteriores al uso del sitio de soporte.,US
-6,El cliente podr√° integrar f√°cilmente nuevos mapas de construcci√≥n con el producto a lo largo del ciclo de vida del producto. La integraci√≥n de nuevos mapas con el producto ser√° posible con poco o ning√∫n apoyo del personal de soporte del producto.,MN
-6,"El producto se traducir√° a idiomas extranjeros distintos de los idiomas de los pa√≠ses del mercado de destino en versiones futuras. Para cada mercado objetivo emergente, no se necesitar√°n m√°s de 5 d√≠as para configurar el producto para el idioma de ese mercado.",US
-6,"Se espera que el producto se integre con m√∫ltiples sistemas de administraci√≥n de bases de datos. El producto funcionar√° con Oracle SQL Server, DB2, MySQL, HSQL y MS Access.",O
-6,El producto podr√° instalarse en cualquier entorno operativo en un plazo de 2 d√≠as,O
-6,El producto debe garantizar que solo los empleados de la empresa o los usuarios externos con ID de usuario aprobados por la empresa puedan tener acceso al producto. El 100% de todos los inicios de sesi√≥n ser√°n realizados por empleados de la empresa o usuarios externos con ID de usuario aprobados por la empresa.,SE
-6,Solo los administradores pueden realizar queries para reservas por usuario. El 100% de todos los queries de reservas por usuario proceder√° de inicios de sesi√≥n de solo inicios de sesi√≥n de administradores,SE
-6,El producto debe garantizar que los datos de la base de datos se correspondan con los datos introducidos por el usuario. Cada reserva de sala de conferencias en el sistema contendr√° la misma informaci√≥n que ingres√≥ el usuario.,SE
-6,El producto evitar√° la entrada de datos maliciosos. Los datos del producto y/o de los sistemas de hardware/software adyacentes permanecer√°n 100% intactos cada vez que se ingresen datos maliciosos en el producto.,SE
-6,El producto y/o las bases de datos/sistemas de archivos dependientes permanecer√°n operativos como resultado de la entrada de datos maliciosos. El producto y/o las bases de datos/sistemas de archivos dependientes no se bloquear√°n el 100% del tiempo que se ingresen datos maliciosos en el producto.,FT
-6,El producto deber√° tener la capacidad de recibir actualizaciones de software autom√°ticas a medida que surjan nuevas amenazas. El 100% de los clientes podr√°n recibir actualizaciones de software autom√°ticas transmitidas al producto instalado.,SE
-6,El idioma del producto se adaptar√° a todos los pa√≠ses del mercado de destino. El 90% de los encuestados de cada pa√≠s del mercado de destino encontrar√°n que el idioma del producto es aceptable.,SC
-6,El producto podr√° mostrar fechas y horas del calendario de acuerdo con la configuraci√≥n regional del usuario. El 90% de los encuestados de cada pa√≠s de mercado objetivo encontrar√°n que el formato de fecha y hora del producto es correcto.,US
-6,El producto debe desarrollarse con las bibliotecas de lenguaje de programaci√≥n J2SE/J2EE,O
-6,El producto deber√° registrar las entradas de las reuniones,F
-6,El producto notificar√° a los empleados sobre las invitaciones a reuniones,F
-6,El producto deber√° tener la capacidad de enviar recordatorios de reuniones a los empleados,F
-6,El producto asignar√° la informaci√≥n de contacto de los organizadores a cada reuni√≥n que creen,F
-6,El producto registrar√° los reconocimientos de reuniones,F
-6,El producto almacenar√° nuevas salas de conferencias.,F
-6,El producto actualizar√° las salas de conferencias existentes.,F
-6,El producto podr√° eliminar salas de conferencias.,F
-6,El producto podr√° almacenar nuevos equipos de sala,F
-6,El producto actualizar√° el equipamiento de la sala existente.,F
-6,El producto podr√° eliminar el equipo de la sala,F
-6,El producto permitir√° que un organizador invite a otros empleados a las reuniones,F
-6,"Cada vez que se reserve una sala de conferencias, el horario de la sala de conferencias se actualizar√° para reflejar la fecha y la hora de la reserva",F
-6,El producto registrar√° el estado de transporte del equipo reservado,F
-6,El producto deber√° mostrar un mapa del edificio de la empresa que muestre la ubicaci√≥n de las salas de conferencias,F
-6,El producto registrar√° agendas de reuniones actualizadas,F
-6,"El producto enviar√° una confirmaci√≥n de la reuni√≥n al organizador de la reuni√≥n.",F
-6,"El producto mostrar√° el equipo de la sala de acuerdo con los par√°metros de b√∫squeda",F
-6,"El producto mostrar√° salas de conferencias de acuerdo con los par√°metros de b√∫squeda",F
-6,"El producto registrar√° diferentes tipos de reuniones",F
-6,El producto registrar√° todos los equipos que se hayan reservado,F
-6,El producto notificar√° al personal del desarrollo las solicitudes de transporte de equipos,F
-6,El producto permitir√° a los usuarios privilegiados ver los horarios de las reuniones en m√∫ltiples vistas de informes.,F
-6,El producto podr√° enviar notificaciones de reuniones a trav√©s de diferentes tipos de m√©todos especificados por el usuario final,F
-6,El producto debe tener un aspecto y una sensaci√≥n personalizables,F
+6,La respuesta debe ser lo suficientemente r·pida para evitar interrumpir el flujo de pensamiento del usuario. El 90% de las tareas se completar·n en 5 segundos. El 98% de las tareas se completar·n en 8 segundos.,PE
+6,"Aparte de la falla del servidor, el producto de software alcanzar· el 99,99% de tiempo de actividad",A
+6,El producto crear· un registro de excepciones de los problemas encontrados dentro del producto para su transmisiÛn a nuestra empresa para su an·lisis y resoluciÛn,FT
+6,"El producto deber· ser capaz de gestionar hasta 1000 solicitudes simult·neas. Este n˙mero aumentar· a 2000 para la versiÛn 2. La capacidad de simultaneidad debe poder manejar las horas pico de programaciÛn, como las primeras horas de la maÒana y las ˙ltimas de la tarde.",SC
+6,El producto podr· procesar 10000 transacciones por hora dentro de los dos aÒos siguientes a su lanzamiento. Este n˙mero aumentar· a 20000 en la versiÛn 2.,SC
+6,Se espera que el producto funcione durante al menos 5 aÒos para cada instalaciÛn del cliente,SC
+6,El producto se utilizar· en entornos de oficina.,O
+6,El producto debe poder interactuar con cualquier navegador HTML. El producto transmitir· datos entre el usuario y el producto sin problemas. El producto mostrar· HTML correctamente en el 80% de todos los navegadores HTML probados (el mÌnimo es probar 8 navegadores).,O
+6,El producto debe poder interactuar con varios sistemas de gestiÛn de bases de datos. El producto se comunicar· satisfactoriamente con el sistema de gestiÛn de la base de datos en el 100% de todas las transacciones.,O
+6,El producto debe poder interactuar con varios servidores de correo electrÛnico. El producto podr· enviar correo electrÛnico. ,O
+6,El producto estar· disponible para su distribuciÛn a travÈs de Internet como un archivo binario o ZIP,O
+6,El producto estar· disponible para su distribuciÛn como un CD empaquetado.,O
+6,"El producto estar· disponible para licenciamiento como una licencia para un servidor, dos a cinco servidores o cinco o m·s servidores.",O
+6,Se debe poder agregar un nuevo usuario al sistema en 10 minutos. El 90% de los nuevos usuarios pueden iniciar sesiÛn en el sistema en 10 minutos.,US
+6,El producto debe diseÒarse utilizando patrones de diseÒo y las mejores pr·cticas de codificaciÛn. El 90% de los desarrolladores de software de mantenimiento pueden integrar nuevas funciones en el producto en 2 dÌas h·biles.,MN
+6,El producto debe ser altamente configurable para su uso con varios sistemas de administraciÛn de bases de datos para los usuarios finales. El 80% de los usuarios finales pueden integrar nuevos sistemas de gestiÛn de bases de datos con el producto sin cambiar el cÛdigo de software del producto.,MN
+6,Las versiones de mantenimiento se ofrecer·n a los clientes una vez al aÒo. Los lanzamientos no deben tardar m·s de 5 minutos para que el 80% de la base de clientes se instale.,MN
+6,Cada usuario registrado tendr· acceso al sitio de soporte del producto a travÈs de Internet. El 70% de los usuarios registrados encontrar·n una soluciÛn a su problema dentro de los 5 minutos posteriores al uso del sitio de soporte.,US
+6,El cliente podr· integrar f·cilmente nuevos mapas de construcciÛn con el producto a lo largo del ciclo de vida del producto. La integraciÛn de nuevos mapas con el producto ser· posible con poco o ning˙n apoyo del personal de soporte del producto.,MN
+6,"El producto se traducir· a idiomas extranjeros distintos de los idiomas de los paÌses del mercado de destino en versiones futuras. Para cada mercado objetivo emergente, no se necesitar·n m·s de 5 dÌas para configurar el producto para el idioma de ese mercado.",US
+6,"Se espera que el producto se integre con m˙ltiples sistemas de administraciÛn de bases de datos. El producto funcionar· con Oracle SQL Server, DB2, MySQL, HSQL y MS Access.",O
+6,El producto podr· instalarse en cualquier entorno operativo en un plazo de 2 dÌas,O
+6,El producto debe garantizar que solo los empleados de la empresa o los usuarios externos con ID de usuario aprobados por la empresa puedan tener acceso al producto. El 100% de todos los inicios de sesiÛn ser·n realizados por empleados de la empresa o usuarios externos con ID de usuario aprobados por la empresa.,SE
+6,Solo los administradores pueden realizar queries para reservas por usuario. El 100% de todos los queries de reservas por usuario proceder· de inicios de sesiÛn de solo inicios de sesiÛn de administradores,SE
+6,El producto debe garantizar que los datos de la base de datos se correspondan con los datos introducidos por el usuario. Cada reserva de sala de conferencias en el sistema contendr· la misma informaciÛn que ingresÛ el usuario.,SE
+6,El producto evitar· la entrada de datos maliciosos. Los datos del producto y/o de los sistemas de hardware/software adyacentes permanecer·n 100% intactos cada vez que se ingresen datos maliciosos en el producto.,SE
+6,El producto y/o las bases de datos/sistemas de archivos dependientes permanecer·n operativos como resultado de la entrada de datos maliciosos. El producto y/o las bases de datos/sistemas de archivos dependientes no se bloquear·n el 100% del tiempo que se ingresen datos maliciosos en el producto.,FT
+6,El producto deber· tener la capacidad de recibir actualizaciones de software autom·ticas a medida que surjan nuevas amenazas. El 100% de los clientes podr·n recibir actualizaciones de software autom·ticas transmitidas al producto instalado.,SE
+6,El idioma del producto se adaptar· a todos los paÌses del mercado de destino. El 90% de los encuestados de cada paÌs del mercado de destino encontrar·n que el idioma del producto es aceptable.,SC
+6,El producto podr· mostrar fechas y horas del calendario de acuerdo con la configuraciÛn regional del usuario. El 90% de los encuestados de cada paÌs de mercado objetivo encontrar·n que el formato de fecha y hora del producto es correcto.,US
+6,El producto debe desarrollarse con las bibliotecas de lenguaje de programaciÛn J2SE/J2EE,O
+6,El producto deber· registrar las entradas de las reuniones,F
+6,El producto notificar· a los empleados sobre las invitaciones a reuniones,F
+6,El producto deber· tener la capacidad de enviar recordatorios de reuniones a los empleados,F
+6,El producto asignar· la informaciÛn de contacto de los organizadores a cada reuniÛn que creen,F
+6,El producto registrar· los reconocimientos de reuniones,F
+6,El producto almacenar· nuevas salas de conferencias.,F
+6,El producto actualizar· las salas de conferencias existentes.,F
+6,El producto podr· eliminar salas de conferencias.,F
+6,El producto podr· almacenar nuevos equipos de sala,F
+6,El producto actualizar· el equipamiento de la sala existente.,F
+6,El producto podr· eliminar el equipo de la sala,F
+6,El producto permitir· que un organizador invite a otros empleados a las reuniones,F
+6,"Cada vez que se reserve una sala de conferencias, el horario de la sala de conferencias se actualizar· para reflejar la fecha y la hora de la reserva",F
+6,El producto registrar· el estado de transporte del equipo reservado,F
+6,El producto deber· mostrar un mapa del edificio de la empresa que muestre la ubicaciÛn de las salas de conferencias,F
+6,El producto registrar· agendas de reuniones actualizadas,F
+6,"El producto enviar· una confirmaciÛn de la reuniÛn al organizador de la reuniÛn.",F
+6,"El producto mostrar· el equipo de la sala de acuerdo con los par·metros de b˙squeda",F
+6,"El producto mostrar· salas de conferencias de acuerdo con los par·metros de b˙squeda",F
+6,"El producto registrar· diferentes tipos de reuniones",F
+6,El producto registrar· todos los equipos que se hayan reservado,F
+6,El producto notificar· al personal del desarrollo las solicitudes de transporte de equipos,F
+6,El producto permitir· a los usuarios privilegiados ver los horarios de las reuniones en m˙ltiples vistas de informes.,F
+6,El producto podr· enviar notificaciones de reuniones a travÈs de diferentes tipos de mÈtodos especificados por el usuario final,F
+6,El producto debe tener un aspecto y una sensaciÛn personalizables,F
 6,El producto debe tener una interfaz de usuario intuitiva,F
-6,El producto mostrar√° un estado disponible para las salas de conferencias no reservadas.,F
-7,La recreaci√≥n del ajuste de la cantidad de inventario para el per√≠odo de los 30 d√≠as anteriores no tomar√° m√°s de 30 minutos,PE
-7,El sistema permitir√° que trabajen al mismo tiempo un m√≠nimo de 6 usuarios,PE
-7,El sistema utilizar√° equipos propios inform√°ticos actualizados,O
-7,El sistema podr√° realizar copias de seguridad autom√°ticas de los datos comerciales y restaurarlos a pedido,O
-7,El sistema mantendr√° una seguridad constante. Cualquier cambio en las contrase√±as y/o permisos de los usuarios deber√≠a tener efecto en todas las partes del Sistema.,SE
-7,El sistema controlar√° de forma granular los derechos de acceso a todos los subsistemas principales. Deber√≠a ser posible asignar derechos de acceso a todos los subsistemas de forma independiente.,SE
-7,El Sistema deber√° cumplir con todas las normas contables aplicables. La versi√≥n final del Sistema debe pasar con √©xito una auditor√≠a independiente realizada por un auditor certificado.,L
-7,El Sistema no requerir√° licencias adicionales de terceros que resulten en tarifas de regal√≠as.,O
-7,El sistema permitir√° la generaci√≥n de documentos de ajuste de cantidad de inventario a pedido,F
-7,El sistema permitir√° la generaci√≥n a pedido de todos los documentos de ajuste de cantidad de inventario desde cierto momento,F
-7,El subsistema IQA tendr√° en cuenta el estado actual del inventario y ajustar√° el inventario de ingredientes sustitutivos en consecuencia,F
-7,"El Sistema permitir√° ingresar, almacenar y modificar f√≥rmulas de producto.",F
-7,Las f√≥rmulas de los productos permitir√°n el uso de semiproductos que tengan f√≥rmulas propias,F
-7,Los ingredientes de la f√≥rmula del producto permitir√°n definir los ingredientes sustitutivos,F
-7,El subsistema PFE introducir√° autom√°ticamente los ingredientes sustitutivos de la f√≥rmula del producto,F
-7,Los ingredientes sustitutivos de la f√≥rmula se mantendr√°n en orden persistente,F
-7,"El producto permitir√° ingresar, almacenar y modificar los men√∫s de productos utilizados por los terminales POS.",F
-7,El subsistema PME permitir√° crear men√∫s de productos basados en la lista de productos que se mantiene en el sistema contable,F
-7,El subsistema PME permitir√° mantener submen√∫s dentro de men√∫s y productos dentro de submen√∫s en un orden administrado y persistente,F
-7,El subsistema PME permitir√° que un producto exista en m√°s de un submen√∫,F
-7,El sistema RMS tendr√° el aspecto y la sensaci√≥n de Windows XP y utilizar√° futuras GUI para que su uso sea intuitivo,F
-7,El sistema generar√° un documento de ajuste de cantidad de inventario basado en los datos de ventas diarias del producto y las f√≥rmulas del producto.,F
-7,El sistema generar√° un documento de ajuste de cantidad de inventario autom√°ticamente cuando los datos diarios de ventas de productos est√©n disponibles,F
-8,El administrador podr√° activar una tarjeta prepaga a trav√©s de la secci√≥n Administraci√≥n en menos de 5 segundos,PE
-8,El cliente podr√° verificar el estado de su tarjeta prepaga ingresando el n√∫mero PIN en menos de 5 segundos.,PE
-8,"El sistema permitir√° que los clientes se registren en el sitio web como un usuario de pago por uso en menos de 5 minutos.",PE
-8,El sistema permitir√° que los clientes se registren en el sitio web como un usuario de suscriptor de pel√≠culas ilimitado en menos de 10 minutos.,PE
-8,"El sistema permitir√° que los clientes existentes inicien sesi√≥n en el sitio web con su direcci√≥n de correo electr√≥nico y contrase√±a en menos de 5 segundos",PE
-8,"El sistema permitir√° que los clientes cancelen su cuenta. El proceso no llevar√° m√°s de 2 minutos. La base de datos marcar√° la cuenta como inactiva y el usuario no podr√° iniciar sesi√≥n en el sitio web.",PE
-8,El sistema permitir√° al administrador desactivar una cuenta de cliente en menos de 1 minuto. El cliente ya no podr√° acceder al sitio web.,PE
-8,El sistema permitir√° al administrador agregar/eliminar pel√≠culas en el sitio web en menos de 5 minutos. La informaci√≥n de la pel√≠cula ingresada se almacenar√° en la base de datos y ahora estar√° disponible en el sitio web.,PE
-8,El sistema permitir√° que el administrador agregue/elimine categor√≠as en el sitio web en menos de 5 minutos,PE
-8,El sistema permitir√° que Izogn Manager acceda a las estad√≠sticas de uso y ventas en menos de 2 minutos,PE
-8,El sistema permitir√° a los administradores generar pines prepagos √∫nicos en menos de 2 minutos y generar un archivo de Excel con los PIN generados.,PE
-8,El sitio web ser√° atractivo para todos los p√∫blicos. El sitio web debe parecer divertido y los colores deben ser brillantes y vibrantes.,LF
-8,"El sitio web debe tener un toque africano, pero no debe alienar a los no africanos. El sitio web debe utilizar animaciones en las p√°ginas que describen los servicios para captar la atenci√≥n de los usuarios y animarlos a registrarse.",LF
-8,"El dise√±o del sitio web debe ser moderno, limpio y conciso",LF
-8,El producto deber√≠a poder ser utilizado por el 90% de los usuarios novatos en Internet,US
-8,Los usuarios solo deben tener que navegar por un m√°ximo de 4 p√°ginas para crear una cuenta en el sitio web,US
-8,Los usuarios deber√≠an poder acceder a sus pel√≠culas en streaming en menos de 2 clics despu√©s de iniciar sesi√≥n en el sitio web,US
-8,Una encuesta an√≥nima mostrar√° que el 70% de los clientes se sienten c√≥modos comprando pel√≠culas en streaming despu√©s de 2 semanas usando el sitio web,US
-8,Una encuesta an√≥nima mostrar√° que el 95% de los clientes se sienten c√≥modos usando y comprando tarjetas prepagas despu√©s de un mes de usar el sistema,US
-8,El producto conservar√° la informaci√≥n y las preferencias de compra del cliente,US
-8,El producto ser√° f√°cil para los clientes principiantes en Internet para comprar y ver pel√≠culas en tiempo real. Los clientes deber√≠an poder comprar y ver una pel√≠cula predeterminada en menos de 3 minutos.,US
-8,El producto utilizar√° s√≠mbolos y palabras que los usuarios familiarizados con los sitios web puedan comprender de forma natural,US
-8,El sitio web utilizar√° las convenciones est√°ndar de Internet al interactuar con el usuario,US
-8,"Cualquier interfaz entre un usuario y el sistema automatizado tendr√° un tiempo de respuesta m√°ximo de 5 segundos, a menos que se indique una excepci√≥n a continuaci√≥n",PE
-8,"Al comprar una pel√≠cula en streaming o una tarjeta prepaga mediante tarjeta de cr√©dito, el tiempo de procesamiento debe tener un tiempo de respuesta m√°ximo de 15 segundos",PE
-8,"Cuando se transmite una pel√≠cula, el tiempo de almacenamiento en b√∫fer no debe ser superior a 10 segundos (m√°s cualquier latencia en la conexi√≥n del usuario)",PE
-8,"Mientras se transmite una pel√≠cula, el almacenamiento en b√∫fer solo debe ocurrir si hay latencia en la conexi√≥n del usuario",PE
-8,Toda la informaci√≥n de la tarjeta de cr√©dito estar√° protegida en el servidor y solo podr√°n acceder a ella los administradores autorizados de Izogn. La informaci√≥n se cifrar√° en la base de datos.,SE
-8,"El sitio web estar√° disponible para su uso las 24 horas del d√≠a, los 365 d√≠as del a√±o",A
-8,"El sitio web alcanzar√° el 99,5% de tiempo de actividad",A
-8,Todas las pel√≠culas se transmitir√°n a pedido en cualquier momento del d√≠a,A
-8,El sitio web seguir√° funcionando si el servidor de transmisi√≥n deja de funcionar,FT
-8,El sitio web seguir√° funcionando si la pasarela de pago deja de funcionar,FT
-8,El servidor de transmisi√≥n admitir√° 50 conexiones de transmisi√≥n simult√°neas,SC
-8,El servidor de transmisi√≥n admitir√° un m√°ximo de 700 pel√≠culas; se pueden agregar nuevos servidores para admitir m√°s pel√≠culas.,SC
-8,El servidor admitir√° un m√°ximo de 1000 usuarios simult√°neos,SC
-8,El sitio web deber√° tener capacidad para 100000 clientes,SC
-8,Se espera que el producto funcione dentro del presupuesto m√°ximo de mantenimiento durante un m√≠nimo de 2 a√±os,MN
-8,Se podr√° acceder a todos los aspectos del sitio web mediante un navegador web a trav√©s de Internet,O
-8,Se utilizar√° el mismo hardware compatible con el sitio web actual para admitir el nuevo sistema,O
+6,El producto mostrar· un estado disponible para las salas de conferencias no reservadas.,F
+7,La recreaciÛn del ajuste de la cantidad de inventario para el perÌodo de los 30 dÌas anteriores no tomar· m·s de 30 minutos,PE
+7,El sistema permitir· que trabajen al mismo tiempo un mÌnimo de 6 usuarios,PE
+7,El sistema utilizar· equipos propios inform·ticos actualizados,O
+7,El sistema podr· realizar copias de seguridad autom·ticas de los datos comerciales y restaurarlos a pedido,O
+7,El sistema mantendr· una seguridad constante. Cualquier cambio en las contraseÒas y/o permisos de los usuarios deberÌa tener efecto en todas las partes del Sistema.,SE
+7,El sistema controlar· de forma granular los derechos de acceso a todos los subsistemas principales. DeberÌa ser posible asignar derechos de acceso a todos los subsistemas de forma independiente.,SE
+7,El Sistema deber· cumplir con todas las normas contables aplicables. La versiÛn final del Sistema debe pasar con Èxito una auditorÌa independiente realizada por un auditor certificado.,L
+7,El Sistema no requerir· licencias adicionales de terceros que resulten en tarifas de regalÌas.,O
+7,El sistema permitir· la generaciÛn de documentos de ajuste de cantidad de inventario a pedido,F
+7,El sistema permitir· la generaciÛn a pedido de todos los documentos de ajuste de cantidad de inventario desde cierto momento,F
+7,El subsistema IQA tendr· en cuenta el estado actual del inventario y ajustar· el inventario de ingredientes sustitutivos en consecuencia,F
+7,"El Sistema permitir· ingresar, almacenar y modificar fÛrmulas de producto.",F
+7,Las fÛrmulas de los productos permitir·n el uso de semiproductos que tengan fÛrmulas propias,F
+7,Los ingredientes de la fÛrmula del producto permitir·n definir los ingredientes sustitutivos,F
+7,El subsistema PFE introducir· autom·ticamente los ingredientes sustitutivos de la fÛrmula del producto,F
+7,Los ingredientes sustitutivos de la fÛrmula se mantendr·n en orden persistente,F
+7,"El producto permitir· ingresar, almacenar y modificar los men˙s de productos utilizados por los terminales POS.",F
+7,El subsistema PME permitir· crear men˙s de productos basados en la lista de productos que se mantiene en el sistema contable,F
+7,El subsistema PME permitir· mantener submen˙s dentro de men˙s y productos dentro de submen˙s en un orden administrado y persistente,F
+7,El subsistema PME permitir· que un producto exista en m·s de un submen˙,F
+7,El sistema RMS tendr· el aspecto y la sensaciÛn de Windows XP y utilizar· futuras GUI para que su uso sea intuitivo,F
+7,El sistema generar· un documento de ajuste de cantidad de inventario basado en los datos de ventas diarias del producto y las fÛrmulas del producto.,F
+7,El sistema generar· un documento de ajuste de cantidad de inventario autom·ticamente cuando los datos diarios de ventas de productos estÈn disponibles,F
+8,El administrador podr· activar una tarjeta prepaga a travÈs de la secciÛn AdministraciÛn en menos de 5 segundos,PE
+8,El cliente podr· verificar el estado de su tarjeta prepaga ingresando el n˙mero PIN en menos de 5 segundos.,PE
+8,"El sistema permitir· que los clientes se registren en el sitio web como un usuario de pago por uso en menos de 5 minutos.",PE
+8,El sistema permitir· que los clientes se registren en el sitio web como un usuario de suscriptor de pelÌculas ilimitado en menos de 10 minutos.,PE
+8,"El sistema permitir· que los clientes existentes inicien sesiÛn en el sitio web con su direcciÛn de correo electrÛnico y contraseÒa en menos de 5 segundos",PE
+8,"El sistema permitir· que los clientes cancelen su cuenta. El proceso no llevar· m·s de 2 minutos. La base de datos marcar· la cuenta como inactiva y el usuario no podr· iniciar sesiÛn en el sitio web.",PE
+8,El sistema permitir· al administrador desactivar una cuenta de cliente en menos de 1 minuto. El cliente ya no podr· acceder al sitio web.,PE
+8,El sistema permitir· al administrador agregar/eliminar pelÌculas en el sitio web en menos de 5 minutos. La informaciÛn de la pelÌcula ingresada se almacenar· en la base de datos y ahora estar· disponible en el sitio web.,PE
+8,El sistema permitir· que el administrador agregue/elimine categorÌas en el sitio web en menos de 5 minutos,PE
+8,El sistema permitir· que Izogn Manager acceda a las estadÌsticas de uso y ventas en menos de 2 minutos,PE
+8,El sistema permitir· a los administradores generar pines prepagos ˙nicos en menos de 2 minutos y generar un archivo de Excel con los PIN generados.,PE
+8,El sitio web ser· atractivo para todos los p˙blicos. El sitio web debe parecer divertido y los colores deben ser brillantes y vibrantes.,LF
+8,"El sitio web debe tener un toque africano, pero no debe alienar a los no africanos. El sitio web debe utilizar animaciones en las p·ginas que describen los servicios para captar la atenciÛn de los usuarios y animarlos a registrarse.",LF
+8,"El diseÒo del sitio web debe ser moderno, limpio y conciso",LF
+8,El producto deberÌa poder ser utilizado por el 90% de los usuarios novatos en Internet,US
+8,Los usuarios solo deben tener que navegar por un m·ximo de 4 p·ginas para crear una cuenta en el sitio web,US
+8,Los usuarios deberÌan poder acceder a sus pelÌculas en streaming en menos de 2 clics despuÈs de iniciar sesiÛn en el sitio web,US
+8,Una encuesta anÛnima mostrar· que el 70% de los clientes se sienten cÛmodos comprando pelÌculas en streaming despuÈs de 2 semanas usando el sitio web,US
+8,Una encuesta anÛnima mostrar· que el 95% de los clientes se sienten cÛmodos usando y comprando tarjetas prepagas despuÈs de un mes de usar el sistema,US
+8,El producto conservar· la informaciÛn y las preferencias de compra del cliente,US
+8,El producto ser· f·cil para los clientes principiantes en Internet para comprar y ver pelÌculas en tiempo real. Los clientes deberÌan poder comprar y ver una pelÌcula predeterminada en menos de 3 minutos.,US
+8,El producto utilizar· sÌmbolos y palabras que los usuarios familiarizados con los sitios web puedan comprender de forma natural,US
+8,El sitio web utilizar· las convenciones est·ndar de Internet al interactuar con el usuario,US
+8,"Cualquier interfaz entre un usuario y el sistema automatizado tendr· un tiempo de respuesta m·ximo de 5 segundos, a menos que se indique una excepciÛn a continuaciÛn",PE
+8,"Al comprar una pelÌcula en streaming o una tarjeta prepaga mediante tarjeta de crÈdito, el tiempo de procesamiento debe tener un tiempo de respuesta m·ximo de 15 segundos",PE
+8,"Cuando se transmite una pelÌcula, el tiempo de almacenamiento en b˙fer no debe ser superior a 10 segundos (m·s cualquier latencia en la conexiÛn del usuario)",PE
+8,"Mientras se transmite una pelÌcula, el almacenamiento en b˙fer solo debe ocurrir si hay latencia en la conexiÛn del usuario",PE
+8,Toda la informaciÛn de la tarjeta de crÈdito estar· protegida en el servidor y solo podr·n acceder a ella los administradores autorizados de Izogn. La informaciÛn se cifrar· en la base de datos.,SE
+8,"El sitio web estar· disponible para su uso las 24 horas del dÌa, los 365 dÌas del aÒo",A
+8,"El sitio web alcanzar· el 99,5% de tiempo de actividad",A
+8,Todas las pelÌculas se transmitir·n a pedido en cualquier momento del dÌa,A
+8,El sitio web seguir· funcionando si el servidor de transmisiÛn deja de funcionar,FT
+8,El sitio web seguir· funcionando si la pasarela de pago deja de funcionar,FT
+8,El servidor de transmisiÛn admitir· 50 conexiones de transmisiÛn simult·neas,SC
+8,El servidor de transmisiÛn admitir· un m·ximo de 700 pelÌculas; se pueden agregar nuevos servidores para admitir m·s pelÌculas.,SC
+8,El servidor admitir· un m·ximo de 1000 usuarios simult·neos,SC
+8,El sitio web deber· tener capacidad para 100000 clientes,SC
+8,Se espera que el producto funcione dentro del presupuesto m·ximo de mantenimiento durante un mÌnimo de 2 aÒos,MN
+8,Se podr· acceder a todos los aspectos del sitio web mediante un navegador web a travÈs de Internet,O
+8,Se utilizar· el mismo hardware compatible con el sitio web actual para admitir el nuevo sistema,O
 8,"Debemos poder interactuar con los siguientes navegadores: IE 5.X 6.0, Netscape 6.x 7.x 8.x y Firefox 1.0.",O
-8,El sitio web debe interactuar con la API CyberSource para procesar transacciones con tarjeta de cr√©dito,O
+8,El sitio web debe interactuar con la API CyberSource para procesar transacciones con tarjeta de crÈdito,O
 8,El sitio web debe estar en pleno funcionamiento con MSN TV2.,O
-8,Las pel√≠culas se codificar√°n y transmitir√°n a trav√©s de Windows Media Player 9.0.,O
-8,Las pel√≠culas se codificar√°n para transmisiones de 56k y 256k.,O
-8,Las actualizaciones promocionales del sitio web deber√≠an tardar un d√≠a en actualizarse,MN
-8,El administrador de Izogn debe poder actualizar los listados de categor√≠as en el sitio web en 2 minutos,PE
+8,Las pelÌculas se codificar·n y transmitir·n a travÈs de Windows Media Player 9.0.,O
+8,Las pelÌculas se codificar·n para transmisiones de 56k y 256k.,O
+8,Las actualizaciones promocionales del sitio web deberÌan tardar un dÌa en actualizarse,MN
+8,El administrador de Izogn debe poder actualizar los listados de categorÌas en el sitio web en 2 minutos,PE
 8,Izogn Administrator debe poder agregar nuevos productos al sitio web en 2 minutos,PE
-8,El sistema proporcionar√° un n√∫mero gratuito 800 las 24 horas para brindar asistencia a sus clientes,A
-8,El sitio web proporcionar√° una secci√≥n de ayuda con respuestas y soluciones a problemas comunes,US
-8,El personal de Velkat estar√° disponible para soporte telef√≥nico entre las 7 am y las 7 pm de lunes a viernes para brindar soporte t√©cnico a los administradores de Izogn.,A
-8,El producto debe poder instalarse en el entorno especificado dentro de 1 d√≠a h√°bil.,O
-8,Solo los clientes registrados pueden comprar pel√≠culas en streaming,SE
-8,Un cliente solo puede transmitir una pel√≠cula si la compr√≥ y est√° dentro del per√≠odo de visualizaci√≥n de 2 d√≠as,SE
+8,El sistema proporcionar· un n˙mero gratuito 800 las 24 horas para brindar asistencia a sus clientes,A
+8,El sitio web proporcionar· una secciÛn de ayuda con respuestas y soluciones a problemas comunes,US
+8,El personal de Velkat estar· disponible para soporte telefÛnico entre las 7 am y las 7 pm de lunes a viernes para brindar soporte tÈcnico a los administradores de Izogn.,A
+8,El producto debe poder instalarse en el entorno especificado dentro de 1 dÌa h·bil.,O
+8,Solo los clientes registrados pueden comprar pelÌculas en streaming,SE
+8,Un cliente solo puede transmitir una pelÌcula si la comprÛ y est· dentro del perÌodo de visualizaciÛn de 2 dÌas,SE
 8,Solo el personal autorizado puede acceder a los registros de los clientes en la base de datos,SE
 8,Solo los administradores pueden activar una tarjeta prepago,SE
-8,Solo el personal autorizado puede acceder a la informaci√≥n de ventas,SE
-8,El sitio web evitar√° que sus datos se corrompan cuando se ingresan datos incorrectos,SE
-8,El sitio web se proteger√° a s√≠ mismo de abusos intencionales y notificar√° al administrador en todos los casos,SE
-8,Se ejecutar√°n scripts de integridad de datos semanalmente para verificar la integridad de la base de datos,SE
-8,El sitio web debe informar a sus usuarios de sus pr√°cticas de informaci√≥n antes de recopilar datos de ellos a trav√©s de una Pol√≠tica de privacidad accesible en todas las p√°ginas del sitio web.,SE
-8,El sistema notificar√° a los clientes los cambios en su pol√≠tica de informaci√≥n.,SE
-8,El sistema revelar√° informaci√≥n privada solo de conformidad con la pol√≠tica de informaci√≥n de la organizaci√≥n,SE
-8,Toda la informaci√≥n del cliente se almacenar√° en una base de datos segura accesible solo para el personal autorizado,SE
-8,Toda la informaci√≥n de la tarjeta de cr√©dito se cifrar√° en la base de datos,SE
-8,El servidor de transmisi√≥n tendr√° un software antivirus para evitar la infecci√≥n de virus maliciosos,SE
+8,Solo el personal autorizado puede acceder a la informaciÛn de ventas,SE
+8,El sitio web evitar· que sus datos se corrompan cuando se ingresan datos incorrectos,SE
+8,El sitio web se proteger· a sÌ mismo de abusos intencionales y notificar· al administrador en todos los casos,SE
+8,Se ejecutar·n scripts de integridad de datos semanalmente para verificar la integridad de la base de datos,SE
+8,El sitio web debe informar a sus usuarios de sus pr·cticas de informaciÛn antes de recopilar datos de ellos a travÈs de una PolÌtica de privacidad accesible en todas las p·ginas del sitio web.,SE
+8,El sistema notificar· a los clientes los cambios en su polÌtica de informaciÛn.,SE
+8,El sistema revelar· informaciÛn privada solo de conformidad con la polÌtica de informaciÛn de la organizaciÛn,SE
+8,Toda la informaciÛn del cliente se almacenar· en una base de datos segura accesible solo para el personal autorizado,SE
+8,Toda la informaciÛn de la tarjeta de crÈdito se cifrar· en la base de datos,SE
+8,El servidor de transmisiÛn tendr· un software antivirus para evitar la infecciÛn de virus maliciosos,SE
 8,El sitio web debe atender a todas las tribus de Nigeria,LF
-8,El sitio web no debe ser ofensivo para grupos religiosos o √©tnicos,LF
-8,"El sitio web deber√≠a atraer a todos los africanos, no solo a los nigerianos",LF
-8,El sitio web debe usar Flash para proporcionar animaci√≥n en la p√°gina de inicio.,O
-8,IzognMovies deber√° cumplir con los requisitos de licencia establecidos por las organizaciones apropiadas para transmitir pel√≠culas africanas,L
-8,El sitio web cumplir√° con los est√°ndares W3C.,L
-8,El c√≥digo PHP cumplir√° con los est√°ndares PEAR.,L
-8,El sitio web permitir√° a los clientes buscar pel√≠culas por actor o director,F
-8,"Al ver los detalles de una pel√≠cula, el sitio web mostrar√° la descripci√≥n de las pel√≠culas que el actor y el director ingresaron por el administrador.",F
-8,El sitio web deber√° solicitar y autorizar el pago con tarjeta de cr√©dito antes de permitir que un usuario transmita una pel√≠cula,F
-8,Se podr√° transmitir la pel√≠cula comprada a trav√©s de Windows Media Player hasta 2 d√≠as despu√©s de la fecha de compra,F
-8,El sitio web permitir√° a los clientes buscar pel√≠culas por categor√≠as ingresadas por el administrador de izogn.,F
-8,El sitio web permitir√° a los clientes ver rese√±as de pel√≠culas seleccionadas por otros clientes,F
-8,El sitio web permitir√° a los clientes agregar su propia rese√±a de pel√≠cula para una pel√≠cula seleccionada,F
-8,El sitio web permitir√° al administrador de Izogn aprobar una revisi√≥n publicada por un cliente,F
-8,El sistema permitir√° a los clientes pagar por una pel√≠cula en streaming con una tarjeta prepaga,F
-8,"El sitio web permitir√° a los clientes comprar tarjetas prepagas por valor de $5, $10 o $20, ya sea mediante tarjeta de cr√©dito o mediante la opci√≥n de pago por correo",F
-8,El sistema actualizar√° autom√°ticamente la p√°gina principal del sitio web todos los viernes y mostrar√° las 4 √∫ltimas pel√≠culas que se han agregado al sitio web,F
-8,"El sistema permitir√° a los usuarios actualizar su informaci√≥n de facturaci√≥n y contacto a trav√©s de la secci√≥n Mi cuenta del sitio web.",F
-8,Las tarjetas prepagas se distribuir√°n por correo electr√≥nico o mediante una tarjeta de papel impresa,F
-8,Solo los clientes registrados pueden comprar pel√≠culas en streaming,F
-8,Las pel√≠culas solo se pueden transmitir si el cliente ha comprado una pel√≠cula y est√° dentro del per√≠odo de 2 d√≠as para transmitir la pel√≠cula,F
-8,El sitio web debe poder admitir per√≠odos de prueba gratuitos con varios par√°metros establecidos por Izogn Manager,F
-8,Todas las ventas de pel√≠culas en streaming se registrar√°n en la base de datos y el administrador podr√° acceder a ellas,F
-8,Toda la informaci√≥n del cliente registrado se almacenar√° y mantendr√° en la base de datos incluso despu√©s de que el cliente cancele su cuenta,F
-8,Las estad√≠sticas de uso diario deben estar registradas y ser accesibles por el administrador,F
-8,El propietario tendr√° acceso gratuito a todas las pel√≠culas en streaming,F
-9,El tiempo total del ciclo de clientes potenciales debe completarse en 5 minutos para el 90% del volumen de clientes potenciales entre las horas h√°biles de 8AM CST a 8PM CST; luego 3 minutos para el 99% del volumen de clientes potenciales fuera del horario comercial.,PE
-9,Ninguna evaluaci√≥n de clientes potenciales se completar√° en un per√≠odo de tiempo superior a 25 segundos para el 97% de todos los clientes potenciales procesados,PE
-9,"Para clientes potenciales que procesan m√°s de 25 segundos, el sistema registrar√° el evento y la duraci√≥n",PE
-9,El proceso debe ajustarse a las condiciones de tiempo de procesamiento establecidas por el proceso de asignaci√≥n autom√°tica de representantes en el que se asigna un cliente potencial dentro de los 3 minutos del ciclo de vida total,PE
-9,El proceso de lavado de plomo operar√° dentro de la estructura de servicio web f√≠sica establecida,O
+8,El sitio web no debe ser ofensivo para grupos religiosos o Ètnicos,LF
+8,"El sitio web deberÌa atraer a todos los africanos, no solo a los nigerianos",LF
+8,El sitio web debe usar Flash para proporcionar animaciÛn en la p·gina de inicio.,O
+8,IzognMovies deber· cumplir con los requisitos de licencia establecidos por las organizaciones apropiadas para transmitir pelÌculas africanas,L
+8,El sitio web cumplir· con los est·ndares W3C.,L
+8,El cÛdigo PHP cumplir· con los est·ndares PEAR.,L
+8,El sitio web permitir· a los clientes buscar pelÌculas por actor o director,F
+8,"Al ver los detalles de una pelÌcula, el sitio web mostrar· la descripciÛn de las pelÌculas que el actor y el director ingresaron por el administrador.",F
+8,El sitio web deber· solicitar y autorizar el pago con tarjeta de crÈdito antes de permitir que un usuario transmita una pelÌcula,F
+8,Se podr· transmitir la pelÌcula comprada a travÈs de Windows Media Player hasta 2 dÌas despuÈs de la fecha de compra,F
+8,El sitio web permitir· a los clientes buscar pelÌculas por categorÌas ingresadas por el administrador de izogn.,F
+8,El sitio web permitir· a los clientes ver reseÒas de pelÌculas seleccionadas por otros clientes,F
+8,El sitio web permitir· a los clientes agregar su propia reseÒa de pelÌcula para una pelÌcula seleccionada,F
+8,El sitio web permitir· al administrador de Izogn aprobar una revisiÛn publicada por un cliente,F
+8,El sistema permitir· a los clientes pagar por una pelÌcula en streaming con una tarjeta prepaga,F
+8,"El sitio web permitir· a los clientes comprar tarjetas prepagas por valor de $5, $10 o $20, ya sea mediante tarjeta de crÈdito o mediante la opciÛn de pago por correo",F
+8,El sistema actualizar· autom·ticamente la p·gina principal del sitio web todos los viernes y mostrar· las 4 ˙ltimas pelÌculas que se han agregado al sitio web,F
+8,"El sistema permitir· a los usuarios actualizar su informaciÛn de facturaciÛn y contacto a travÈs de la secciÛn Mi cuenta del sitio web.",F
+8,Las tarjetas prepagas se distribuir·n por correo electrÛnico o mediante una tarjeta de papel impresa,F
+8,Solo los clientes registrados pueden comprar pelÌculas en streaming,F
+8,Las pelÌculas solo se pueden transmitir si el cliente ha comprado una pelÌcula y est· dentro del perÌodo de 2 dÌas para transmitir la pelÌcula,F
+8,El sitio web debe poder admitir perÌodos de prueba gratuitos con varios par·metros establecidos por Izogn Manager,F
+8,Todas las ventas de pelÌculas en streaming se registrar·n en la base de datos y el administrador podr· acceder a ellas,F
+8,Toda la informaciÛn del cliente registrado se almacenar· y mantendr· en la base de datos incluso despuÈs de que el cliente cancele su cuenta,F
+8,Las estadÌsticas de uso diario deben estar registradas y ser accesibles por el administrador,F
+8,El propietario tendr· acceso gratuito a todas las pelÌculas en streaming,F
+9,El tiempo total del ciclo de clientes potenciales debe completarse en 5 minutos para el 90% del volumen de clientes potenciales entre las horas h·biles de 8AM CST a 8PM CST; luego 3 minutos para el 99% del volumen de clientes potenciales fuera del horario comercial.,PE
+9,Ninguna evaluaciÛn de clientes potenciales se completar· en un perÌodo de tiempo superior a 25 segundos para el 97% de todos los clientes potenciales procesados,PE
+9,"Para clientes potenciales que procesan m·s de 25 segundos, el sistema registrar· el evento y la duraciÛn",PE
+9,El proceso debe ajustarse a las condiciones de tiempo de procesamiento establecidas por el proceso de asignaciÛn autom·tica de representantes en el que se asigna un cliente potencial dentro de los 3 minutos del ciclo de vida total,PE
+9,El proceso de lavado de plomo operar· dentro de la estructura de servicio web fÌsica establecida,O
 9,"El proceso de lavado debe utilizar un formato de datos neutral no vinculante, como xml, al recibir y procesar datos de clientes potenciales.",O
-9,"Los informes de defectos estar√°n disponibles para las unidades t√©cnicas las 24 horas del d√≠a, los 7 d√≠as de la semana",A
-9,Los par√°metros de lavado se actualizar√°n durante las horas de mantenimiento programadas,MN
-9,El proveedor verificar√° el cliente potencial no v√°lido,F
-9,El proveedor enviar√° un registro de validaci√≥n de cr√©dito para aplicarlo al sistema de facturaci√≥n empresarial,F
-9,"Si un cliente potencial se punt√∫a en el rango alto, el sistema proporcionar√° los datos del cliente potencial y la puntuaci√≥n al sistema empresarial",F
-9,La funci√≥n de lavado de clientes potenciales validar√° todos los clientes potenciales recibidos por el servicio web para obtener datos v√°lidos,F
-9,La funci√≥n de lavado de clientes potenciales insertar√° todos los clientes potenciales capturados por el servicio web,F
-9,"Si el puntaje de los clientes potenciales se encuentra dentro del puntaje promedio alto, entonces ser√° procesado por la funcionalidad ARA",F
-9,"Si el puntaje de los clientes potenciales se encuentra dentro del promedio medio, un coordinador de inscripciones lo establecer√° para la verificaci√≥n manual a trav√©s del sistema de eleads",F
-9,"Si la puntuaci√≥n de los clientes potenciales cae dentro del promedio bajo, se devolver√° al proveedor proveedor",F
-9,La funci√≥n de lavado de clientes potenciales recopilar√° informaci√≥n de puntuaci√≥n acad√©mica y de contacto para obtener una puntuaci√≥n total,F
-9,La funci√≥n de lavado de cables utilizar√° los par√°metros proporcionados por la empresa y las escuelas para puntuar parte del plomo.,F
-9,La funci√≥n de lavado de clientes potenciales devolver√° los datos del cliente potencial suministrados al proveedor junto con el motivo del rechazo.,F
-9,La funci√≥n de lavado de cables tendr√° una interfaz en la que se pueden mantener los par√°metros de datos de los cables,F
-9,La funci√≥n de lavado de clientes potenciales verificar√° la autenticaci√≥n y los derechos de los usuarios para realizar actualizaciones de par√°metros,F
-9,La funci√≥n de lavado de clientes potenciales almacenar√° los posibles duplicados de clientes potenciales devueltos por el sistema empresarial.,F
-9,"Antes de enviar el cliente potencial al sistema empresarial, la funci√≥n de lavado de clientes potenciales asignar√° el cliente potencial a un representante de admisiones",F
-9,La funci√≥n de lavado de clientes potenciales recibir√° una lista de per√≠odos de representantes disponibles del sistema empresarial,F
-10,El producto simular√° el aspecto de los barcos en el mar,LF
-10,El producto debe mostrar las cuadr√≠culas dentro de un c√≠rculo como una vista desde un periscopio,LF
-10,El producto mostrar√° cada tipo de barco en una cuadr√≠cula utilizando una imagen del tipo espec√≠fico de barco,LF
-10,"Cuando el jugador atacante realiza un tiro, el producto simular√° el sonido de un barco en el mar",LF
-10,"Cuando un disparo se marca como fallado, el producto simular√° el sonido de un disparo que no alcanza su objetivo",LF
-10,"Cuando un disparo se marca como un impacto, el producto simular√° el sonido de un disparo al dar en el blanco.",LF
-10,"Cuando se hunde un barco, el producto simular√° el sonido de un barco que se hunde",LF
-10,"El producto estar√° disponible las 24 horas del d√≠a, los siete d√≠as de la semana",A
-10,El producto podr√° manejar una gran cantidad de juegos simult√°neamente,PE
-10,El tiempo de respuesta ser√° lo suficientemente r√°pido para mantener el flujo del juego. El tiempo de respuesta no ser√° superior a 2 segundos para el 95% de las respuestas ni superior al 4% para el resto de respuestas.,PE
-10,El producto proteger√° la identidad de los jugadores. El producto no proporcionar√° a los jugadores acceso a informaci√≥n que pueda revelar la identidad de otro jugador.,PE
-10,El producto debe ser intuitivo y autoexplicativo. Nueve de cada diez usuarios podr√°n completar con √©xito un juego sin entrenamiento.,US
-10,"El producto estar√° disponible para jugadores que entiendan ingl√©s, espa√±ol y franc√©s. El producto permitir√° al usuario seleccionar el idioma al acceder al producto.",US
-10,El producto no proporcionar√° a los jugadores acceso a informaci√≥n que pueda revelar la identidad de otro jugador,SE
-10,El tiempo de respuesta ser√° lo suficientemente r√°pido para mantener el flujo del juego. El tiempo de respuesta no ser√° superior a 2 segundos para el 95% de las respuestas ni superior al 4% para el resto de respuestas.,PE
-10,El producto deber√° mantener una lista de jugadores.,F
-10,El producto permitir√° al usuario identificarse como jugador,F
-10,"Una vez que se ha iniciado un juego, el producto har√° que los jugadores asignados al juego no est√©n disponibles para la selecci√≥n de la lista de jugadores",F
-10,El producto permitir√° que un usuario se elimine de la lista de jugadores en cualquier momento,F
-10,El producto har√° que los jugadores inactivos no est√©n disponibles para la selecci√≥n de la lista de jugadores,F
-10,El producto eliminar√° de la lista de jugadores a los jugadores que hayan estado inactivos durante 24 horas.,F
-10,El producto permitir√° que un jugador inicie un juego seleccionando otro jugador disponible de la lista de jugadores.,F
-10,"Una vez que se inicia un juego, el producto debe mostrar una cuadr√≠cula defensiva para cada jugador",F
-10,"Una vez que se inicia un juego, el producto mostrar√° una cuadr√≠cula ofensiva para cada jugador.",F
-10,El producto evitar√° que un jugador vea las cuadr√≠culas ofensivas o defensivas del otro jugador,F
-10,"Una vez que se inicia un juego, el producto permitir√° que cada jugador coloque sus 5 barcos en sus respectivas cuadr√≠culas defensivas.",F
-10,El producto permitir√° que un jugador coloque los barcos horizontalmente en su cuadr√≠cula,F
-10,El producto permitir√° al jugador colocar los barcos verticalmente en su cuadr√≠cula.,F
-10,El producto permitir√° al jugador colocar los barcos en diagonal en su cuadr√≠cula,F
-10,El producto evitar√° que el jugador se superponga a los barcos en su cuadr√≠cula.,F
-10,"Cuando ambos jugadores hayan colocado sus 5 barcos en sus cuadr√≠culas defensivas, el producto definir√° el estado de cada jugador para el primer turno.",F
-10,"Para cada turno, el producto identificar√° a un jugador como estado ofensivo y a un jugador como estado defensivo.",F
-10,El producto mantendr√° el estatus de cada jugador durante un turno ofensivo o defensivo,F
-10,"Al comienzo de cada turno, el producto notificar√° a cada jugador su estado.",F
-10,"Para cada turno, el producto permitir√° al jugador ofensivo definir un tiro.",F
-10,"Para cada disparo, el producto examinar√° la cuadr√≠cula defensiva del jugador defensivo para determinar si el disparo fue un hit o un error.",F
-10,"Para cada disparo, el producto notificar√° a los jugadores si el disparo fue acertado o fallido",F
-10,"Para cada disparo, el producto marcar√° el disparo como un hit o un error en la cuadr√≠cula defensiva del jugador defensivo.",F
-10,"Para cada disparo, el producto marcar√° el disparo como un hit o un error en la cuadr√≠cula ofensiva del jugador ofensivo.",F
-10,"Cuando el impacto provoque el hundimiento de un barco, el producto notificar√° a los jugadores que el barco se hundi√≥.",F
-10,"Cuando el impacto provoque el hundimiento de un barco, el producto marcar√° el barco como hundido en la cuadr√≠cula defensiva del jugador defensivo.",F
-10,"Cuando el impacto provoque el hundimiento de un barco, el producto indicar√° el tipo de barco hundido en la cuadr√≠cula defensiva del jugador defensivo.",F
-10,"Cuando el impacto resulte en el hundimiento de un barco, el producto marcar√° el barco como hundido en la cuadr√≠cula ofensiva del jugador ofensivo.",F
-10,"Si el tiro fue marcado como un golpe, el producto permitir√° al jugador ofensivo definir un tiro.",F
-10,"Si el tiro fue marcado como un fallo, el producto cambiar√° el estado del jugador ofensivo a defensivo",F
-10,"Si el tiro fue marcado como un fallo, el producto cambiar√° el estado del jugador defensivo a ofensivo",F
-10,El producto continuar√° asignando turnos hasta que finalice el juego,F
-10,El producto terminar√° un juego cuando un impacto del jugador ofensivo provoque el hundimiento del √∫ltimo de los barcos del jugador defensivo que no hab√≠an sido previamente marcados como hundidos.,F
-10,El producto permitir√° a un jugador finalizar un juego en cualquier momento durante el juego.,F
-10,"Cuando finaliza un juego, el producto notificar√° a los jugadores que el juego ha terminado.",F
-10,"La notificaci√≥n del final del juego incluir√° el motivo por el que finaliz√≥ el juego (es decir, un jugador ha ganado el juego o un jugador ha terminado el juego).",F
-10,"Cuando finaliza un juego, el producto permitir√° que cada jugador se identifique como un jugador disponible en la lista de jugadores.",F
-10,"Cuando finaliza un juego, el producto permitir√° que cada jugador se elimine de la lista de jugadores.",F
-11,El sistema debe ser f√°cil de usar para las personas que llaman y los supervisores. Las personas que llaman y los supervisores deben poder realizar cualquier tarea del sistema en 2 minutos.,US
-11,El sistema ser√° f√°cil de aprender para los llamantes y supervisores. Las personas que llaman y los supervisores deben aprender a usar el sistema en 10 minutos.,US
-11,"El sistema debe tener un dise√±o responsivo. En el Centro de TeleServicios DePaul, cuando un supervisor usa el sistema para ver la programaci√≥n de las personas que llaman, el tiempo de respuesta del sistema no debe ser m√°s de 2 segundos el 90% del tiempo y no m√°s de 5 segundos el resto del tiempo.",PE
-11,"En una conexi√≥n de 56k, el tiempo de respuesta del sistema para todas las operaciones no debe ser superior a 6 segundos el 90% del tiempo",PE
-11,"En una conexi√≥n de 112k o m√°s r√°pida, el tiempo de respuesta del sistema para todas las operaciones no debe ser superior a 3 segundos el 90% del tiempo",PE
-11,El sistema tendr√° alta disponibilidad todos los d√≠as del a√±o. El sistema debe estar disponible para su uso entre las 12:00 a.m. y las 6:00 p.m. todos los d√≠as del a√±o,A
-11,El sistema debe estar disponible para su uso entre las 7:00 a.m. Y las 11:59 p.m. todos los d√≠as del a√±o,A
+9,"Los informes de defectos estar·n disponibles para las unidades tÈcnicas las 24 horas del dÌa, los 7 dÌas de la semana",A
+9,Los par·metros de lavado se actualizar·n durante las horas de mantenimiento programadas,MN
+9,El proveedor verificar· el cliente potencial no v·lido,F
+9,El proveedor enviar· un registro de validaciÛn de crÈdito para aplicarlo al sistema de facturaciÛn empresarial,F
+9,"Si un cliente potencial se punt˙a en el rango alto, el sistema proporcionar· los datos del cliente potencial y la puntuaciÛn al sistema empresarial",F
+9,La funciÛn de lavado de clientes potenciales validar· todos los clientes potenciales recibidos por el servicio web para obtener datos v·lidos,F
+9,La funciÛn de lavado de clientes potenciales insertar· todos los clientes potenciales capturados por el servicio web,F
+9,"Si el puntaje de los clientes potenciales se encuentra dentro del puntaje promedio alto, entonces ser· procesado por la funcionalidad ARA",F
+9,"Si el puntaje de los clientes potenciales se encuentra dentro del promedio medio, un coordinador de inscripciones lo establecer· para la verificaciÛn manual a travÈs del sistema de eleads",F
+9,"Si la puntuaciÛn de los clientes potenciales cae dentro del promedio bajo, se devolver· al proveedor proveedor",F
+9,La funciÛn de lavado de clientes potenciales recopilar· informaciÛn de puntuaciÛn acadÈmica y de contacto para obtener una puntuaciÛn total,F
+9,La funciÛn de lavado de cables utilizar· los par·metros proporcionados por la empresa y las escuelas para puntuar parte del plomo.,F
+9,La funciÛn de lavado de clientes potenciales devolver· los datos del cliente potencial suministrados al proveedor junto con el motivo del rechazo.,F
+9,La funciÛn de lavado de cables tendr· una interfaz en la que se pueden mantener los par·metros de datos de los cables,F
+9,La funciÛn de lavado de clientes potenciales verificar· la autenticaciÛn y los derechos de los usuarios para realizar actualizaciones de par·metros,F
+9,La funciÛn de lavado de clientes potenciales almacenar· los posibles duplicados de clientes potenciales devueltos por el sistema empresarial.,F
+9,"Antes de enviar el cliente potencial al sistema empresarial, la funciÛn de lavado de clientes potenciales asignar· el cliente potencial a un representante de admisiones",F
+9,La funciÛn de lavado de clientes potenciales recibir· una lista de perÌodos de representantes disponibles del sistema empresarial,F
+10,El producto simular· el aspecto de los barcos en el mar,LF
+10,El producto debe mostrar las cuadrÌculas dentro de un cÌrculo como una vista desde un periscopio,LF
+10,El producto mostrar· cada tipo de barco en una cuadrÌcula utilizando una imagen del tipo especÌfico de barco,LF
+10,"Cuando el jugador atacante realiza un tiro, el producto simular· el sonido de un barco en el mar",LF
+10,"Cuando un disparo se marca como fallado, el producto simular· el sonido de un disparo que no alcanza su objetivo",LF
+10,"Cuando un disparo se marca como un impacto, el producto simular· el sonido de un disparo al dar en el blanco.",LF
+10,"Cuando se hunde un barco, el producto simular· el sonido de un barco que se hunde",LF
+10,"El producto estar· disponible las 24 horas del dÌa, los siete dÌas de la semana",A
+10,El producto podr· manejar una gran cantidad de juegos simult·neamente,PE
+10,El tiempo de respuesta ser· lo suficientemente r·pido para mantener el flujo del juego. El tiempo de respuesta no ser· superior a 2 segundos para el 95% de las respuestas ni superior al 4% para el resto de respuestas.,PE
+10,El producto proteger· la identidad de los jugadores. El producto no proporcionar· a los jugadores acceso a informaciÛn que pueda revelar la identidad de otro jugador.,PE
+10,El producto debe ser intuitivo y autoexplicativo. Nueve de cada diez usuarios podr·n completar con Èxito un juego sin entrenamiento.,US
+10,"El producto estar· disponible para jugadores que entiendan inglÈs, espaÒol y francÈs. El producto permitir· al usuario seleccionar el idioma al acceder al producto.",US
+10,El producto no proporcionar· a los jugadores acceso a informaciÛn que pueda revelar la identidad de otro jugador,SE
+10,El tiempo de respuesta ser· lo suficientemente r·pido para mantener el flujo del juego. El tiempo de respuesta no ser· superior a 2 segundos para el 95% de las respuestas ni superior al 4% para el resto de respuestas.,PE
+10,El producto deber· mantener una lista de jugadores.,F
+10,El producto permitir· al usuario identificarse como jugador,F
+10,"Una vez que se ha iniciado un juego, el producto har· que los jugadores asignados al juego no estÈn disponibles para la selecciÛn de la lista de jugadores",F
+10,El producto permitir· que un usuario se elimine de la lista de jugadores en cualquier momento,F
+10,El producto har· que los jugadores inactivos no estÈn disponibles para la selecciÛn de la lista de jugadores,F
+10,El producto eliminar· de la lista de jugadores a los jugadores que hayan estado inactivos durante 24 horas.,F
+10,El producto permitir· que un jugador inicie un juego seleccionando otro jugador disponible de la lista de jugadores.,F
+10,"Una vez que se inicia un juego, el producto debe mostrar una cuadrÌcula defensiva para cada jugador",F
+10,"Una vez que se inicia un juego, el producto mostrar· una cuadrÌcula ofensiva para cada jugador.",F
+10,El producto evitar· que un jugador vea las cuadrÌculas ofensivas o defensivas del otro jugador,F
+10,"Una vez que se inicia un juego, el producto permitir· que cada jugador coloque sus 5 barcos en sus respectivas cuadrÌculas defensivas.",F
+10,El producto permitir· que un jugador coloque los barcos horizontalmente en su cuadrÌcula,F
+10,El producto permitir· al jugador colocar los barcos verticalmente en su cuadrÌcula.,F
+10,El producto permitir· al jugador colocar los barcos en diagonal en su cuadrÌcula,F
+10,El producto evitar· que el jugador se superponga a los barcos en su cuadrÌcula.,F
+10,"Cuando ambos jugadores hayan colocado sus 5 barcos en sus cuadrÌculas defensivas, el producto definir· el estado de cada jugador para el primer turno.",F
+10,"Para cada turno, el producto identificar· a un jugador como estado ofensivo y a un jugador como estado defensivo.",F
+10,El producto mantendr· el estatus de cada jugador durante un turno ofensivo o defensivo,F
+10,"Al comienzo de cada turno, el producto notificar· a cada jugador su estado.",F
+10,"Para cada turno, el producto permitir· al jugador ofensivo definir un tiro.",F
+10,"Para cada disparo, el producto examinar· la cuadrÌcula defensiva del jugador defensivo para determinar si el disparo fue un hit o un error.",F
+10,"Para cada disparo, el producto notificar· a los jugadores si el disparo fue acertado o fallido",F
+10,"Para cada disparo, el producto marcar· el disparo como un hit o un error en la cuadrÌcula defensiva del jugador defensivo.",F
+10,"Para cada disparo, el producto marcar· el disparo como un hit o un error en la cuadrÌcula ofensiva del jugador ofensivo.",F
+10,"Cuando el impacto provoque el hundimiento de un barco, el producto notificar· a los jugadores que el barco se hundiÛ.",F
+10,"Cuando el impacto provoque el hundimiento de un barco, el producto marcar· el barco como hundido en la cuadrÌcula defensiva del jugador defensivo.",F
+10,"Cuando el impacto provoque el hundimiento de un barco, el producto indicar· el tipo de barco hundido en la cuadrÌcula defensiva del jugador defensivo.",F
+10,"Cuando el impacto resulte en el hundimiento de un barco, el producto marcar· el barco como hundido en la cuadrÌcula ofensiva del jugador ofensivo.",F
+10,"Si el tiro fue marcado como un golpe, el producto permitir· al jugador ofensivo definir un tiro.",F
+10,"Si el tiro fue marcado como un fallo, el producto cambiar· el estado del jugador ofensivo a defensivo",F
+10,"Si el tiro fue marcado como un fallo, el producto cambiar· el estado del jugador defensivo a ofensivo",F
+10,El producto continuar· asignando turnos hasta que finalice el juego,F
+10,El producto terminar· un juego cuando un impacto del jugador ofensivo provoque el hundimiento del ˙ltimo de los barcos del jugador defensivo que no habÌan sido previamente marcados como hundidos.,F
+10,El producto permitir· a un jugador finalizar un juego en cualquier momento durante el juego.,F
+10,"Cuando finaliza un juego, el producto notificar· a los jugadores que el juego ha terminado.",F
+10,"La notificaciÛn del final del juego incluir· el motivo por el que finalizÛ el juego (es decir, un jugador ha ganado el juego o un jugador ha terminado el juego).",F
+10,"Cuando finaliza un juego, el producto permitir· que cada jugador se identifique como un jugador disponible en la lista de jugadores.",F
+10,"Cuando finaliza un juego, el producto permitir· que cada jugador se elimine de la lista de jugadores.",F
+11,El sistema debe ser f·cil de usar para las personas que llaman y los supervisores. Las personas que llaman y los supervisores deben poder realizar cualquier tarea del sistema en 2 minutos.,US
+11,El sistema ser· f·cil de aprender para los llamantes y supervisores. Las personas que llaman y los supervisores deben aprender a usar el sistema en 10 minutos.,US
+11,"El sistema debe tener un diseÒo responsivo. En el Centro de TeleServicios DePaul, cuando un supervisor usa el sistema para ver la programaciÛn de las personas que llaman, el tiempo de respuesta del sistema no debe ser m·s de 2 segundos el 90% del tiempo y no m·s de 5 segundos el resto del tiempo.",PE
+11,"En una conexiÛn de 56k, el tiempo de respuesta del sistema para todas las operaciones no debe ser superior a 6 segundos el 90% del tiempo",PE
+11,"En una conexiÛn de 112k o m·s r·pida, el tiempo de respuesta del sistema para todas las operaciones no debe ser superior a 3 segundos el 90% del tiempo",PE
+11,El sistema tendr· alta disponibilidad todos los dÌas del aÒo. El sistema debe estar disponible para su uso entre las 12:00 a.m. y las 6:00 p.m. todos los dÌas del aÒo,A
+11,El sistema debe estar disponible para su uso entre las 7:00 a.m. Y las 11:59 p.m. todos los dÌas del aÒo,A
 11,El producto debe ser independiente del navegador de Internet. El producto debe ejecutarse utilizando Internet Explorer y Netscape Navigator.,MN
-11,El producto debe garantizar que solo los supervisores puedan anunciar los espacios de tiempo vac√≠os. El producto debe garantizar que los supervisores puedan acceder a los espacios de tiempo vac√≠os,SE
-11,El producto debe garantizar que solo los supervisores puedan ingresar al horario de una persona que llama. El producto debe garantizar que los supervisores puedan acceder a los espacios de tiempo vac√≠os de publicidad,SE
-11,El producto debe garantizar que solo los supervisores puedan ver el horario de todas las personas que llaman. El producto debe garantizar que los supervisores puedan acceder a los espacios de tiempo vac√≠os de publicidad ,SE
+11,El producto debe garantizar que solo los supervisores puedan anunciar los espacios de tiempo vacÌos. El producto debe garantizar que los supervisores puedan acceder a los espacios de tiempo vacÌos,SE
+11,El producto debe garantizar que solo los supervisores puedan ingresar al horario de una persona que llama. El producto debe garantizar que los supervisores puedan acceder a los espacios de tiempo vacÌos de publicidad,SE
+11,El producto debe garantizar que solo los supervisores puedan ver el horario de todas las personas que llaman. El producto debe garantizar que los supervisores puedan acceder a los espacios de tiempo vacÌos de publicidad ,SE
 11,"La interfaz debe tener un aspecto simple. En la encuesta de interfaz y usabilidad, el 90% de los probadores beta deben informar que la interfaz es suficientemente simple.",LF
-11,"La interfaz ser√° atractiva para las personas que llaman y los supervisores. En la encuesta de interfaz y usabilidad, el 80% de los probadores beta deben informar que la interfaz es atractiva.",LF
-12,"El producto proporcionar√° Servicios de Monitoreo basados en GUI. Los Administradores del Sistema monitorear√°n los intercambios de mensajes, predecir√°n y determinar√°n problemas y tambi√©n brindar√°n soporte interno y externo.",LF
-12,El producto debe cumplir con el marco de la gu√≠a de desarrollo de aplicaciones de la ciudad de Chicago. El marco de desarrollo de aplicaciones proporcionar√° una interfaz gr√°fica de usuario estructurada,LF
-12,El producto proporcionar√° servicios de supervisi√≥n. El producto ser√° f√°cil de usar para los administradores del sistema y los administradores de bases de datos despu√©s de dos semanas de uso,US
-12,El producto proporcionar√° servicios de seguimiento de errores. El producto ayudar√° a los administradores del sistema y los administradores de bases de datos a resolver errores de transacci√≥n el 99% de las veces,US
-12,El producto proporcionar√° portales. El producto ayudar√° a los administradores del sistema a analizar las transacciones con informes ad-hoc y KPI (indicadores clave de rendimiento),US
-12,El producto debe proporcionar mensajer√≠a asincr√≥nica. El producto debe proporcionar mensajer√≠a asincr√≥nica para permitir el procesamiento en paralelo y reducir la sobrecarga en las comunicaciones,PE
-12,"El producto debe proporcionar subprocesos m√∫ltiples y equilibrio de carga. El producto debe proporcionar tecnolog√≠a de subprocesos m√∫ltiples, as√≠ como equilibrio de carga para superar los picos de carga de datos y el tr√°fico",PE
-12,El producto procesar√° los mensajes en 2 segundos. El producto tendr√° un tiempo m√°ximo de procesamiento de mensajes de 2 segundos,PE
-12,El producto sondear√° el sistema en busca de mensajes cada segundo. El producto debe sondear el sistema en busca de mensajes nuevos cada 1 segundo como m√°ximo,PE
-12,El producto proporcionar√° soporte de cambio din√°mico y adici√≥n de recursos transparentes. El producto admitir√° la adici√≥n de recursos transparentes y el soporte de cambio din√°mico para proporcionar escalabilidad y evitar interrupciones del servicio de m√°s de 1 d√≠a,PE
-12,"El producto estar√° disponible el 99% del tiempo. Justificaci√≥n: evitar la interrupci√≥n del servicio durante los per√≠odos de mayor actividad de atenci√≥n al cliente. El producto estar√° disponible el 99,99% del tiempo durante los d√≠as h√°biles habituales.",A
-12,El producto debe ser robusto. El producto debe tener la prevenci√≥n de fallas basado en la adopci√≥n de est√°ndares.,FT
-12,"El producto debe ser robusto con tolerancia a fallas. El producto debe tener tolerancia a fallas utilizando la t√©cnica de recuperaci√≥n, transacci√≥n compensatoria y enrutamiento alrededor de fallas",FT
-12,El producto deber√° poder procesar todas las transacciones. El producto deber√° procesar un m√≠nimo de 1 mill√≥n de transacciones por a√±o,SC
+11,"La interfaz ser· atractiva para las personas que llaman y los supervisores. En la encuesta de interfaz y usabilidad, el 80% de los probadores beta deben informar que la interfaz es atractiva.",LF
+12,"El producto proporcionar· Servicios de Monitoreo basados en GUI. Los Administradores del Sistema monitorear·n los intercambios de mensajes, predecir·n y determinar·n problemas y tambiÈn brindar·n soporte interno y externo.",LF
+12,El producto debe cumplir con el marco de la guÌa de desarrollo de aplicaciones de la ciudad de Chicago. El marco de desarrollo de aplicaciones proporcionar· una interfaz gr·fica de usuario estructurada,LF
+12,El producto proporcionar· servicios de supervisiÛn. El producto ser· f·cil de usar para los administradores del sistema y los administradores de bases de datos despuÈs de dos semanas de uso,US
+12,El producto proporcionar· servicios de seguimiento de errores. El producto ayudar· a los administradores del sistema y los administradores de bases de datos a resolver errores de transacciÛn el 99% de las veces,US
+12,El producto proporcionar· portales. El producto ayudar· a los administradores del sistema a analizar las transacciones con informes ad-hoc y KPI (indicadores clave de rendimiento),US
+12,El producto debe proporcionar mensajerÌa asincrÛnica. El producto debe proporcionar mensajerÌa asincrÛnica para permitir el procesamiento en paralelo y reducir la sobrecarga en las comunicaciones,PE
+12,"El producto debe proporcionar subprocesos m˙ltiples y equilibrio de carga. El producto debe proporcionar tecnologÌa de subprocesos m˙ltiples, asÌ como equilibrio de carga para superar los picos de carga de datos y el tr·fico",PE
+12,El producto procesar· los mensajes en 2 segundos. El producto tendr· un tiempo m·ximo de procesamiento de mensajes de 2 segundos,PE
+12,El producto sondear· el sistema en busca de mensajes cada segundo. El producto debe sondear el sistema en busca de mensajes nuevos cada 1 segundo como m·ximo,PE
+12,El producto proporcionar· soporte de cambio din·mico y adiciÛn de recursos transparentes. El producto admitir· la adiciÛn de recursos transparentes y el soporte de cambio din·mico para proporcionar escalabilidad y evitar interrupciones del servicio de m·s de 1 dÌa,PE
+12,"El producto estar· disponible el 99% del tiempo. JustificaciÛn: evitar la interrupciÛn del servicio durante los perÌodos de mayor actividad de atenciÛn al cliente. El producto estar· disponible el 99,99% del tiempo durante los dÌas h·biles habituales.",A
+12,El producto debe ser robusto. El producto debe tener la prevenciÛn de fallas basado en la adopciÛn de est·ndares.,FT
+12,"El producto debe ser robusto con tolerancia a fallas. El producto debe tener tolerancia a fallas utilizando la tÈcnica de recuperaciÛn, transacciÛn compensatoria y enrutamiento alrededor de fallas",FT
+12,El producto deber· poder procesar todas las transacciones. El producto deber· procesar un mÌnimo de 1 millÛn de transacciones por aÒo,SC
 12,El producto debe ser independiente de la plataforma. El producto debe permitir el acceso a cualquier tipo de entorno y plataforma de desarrollo,O
-12,El producto deber√° interactuar con CSR y Datastream. El producto intercambiar√° mensajes entre CSR y EAM en tiempo real sin ninguna interfaz directa entre dos sistemas.,O
-12,El producto continuar√° funcionando durante el cambio de actualizaci√≥n o la adici√≥n de nuevos recursos. El producto deber√° poder continuar funcionando sin interrupciones en el servicio debido a nuevas adiciones de recursos.,MN
-12,El producto se actualizar√° peri√≥dicamente. El producto tendr√° una nueva caracter√≠stica importante introducida cada seis meses y lanzamientos de mantenimiento trimestrales cada seis meses,MN
-12,El producto funcionar√° con todas las plataformas. El producto se adaptar√° a cualquier tecnolog√≠a nueva sin ning√∫n cambio en su arquitectura,MN
-12,El producto debe tener seguridad. El producto debe proporcionar autenticaci√≥n y autorizaci√≥n,SE
-12,El producto deber√° contar con Seguridad de la informaci√≥n. El producto permitir√° la privacidad mediante el cifrado WS-Security e Integrity Checking.,SE
-12,El producto debe tener capacidad de auditor√≠a. El producto debe almacenar mensajes durante un m√≠nimo de un a√±o para fines de auditor√≠a y seguimiento de transacciones,SE
-13,El sistema utilizar√° los est√°ndares de marca de IBM y CCR. La interfaz debe tener un logotipo de IBM y un logotipo de CCR.,LF
-13,El sistema se podr√° visualizar en cualquier computadora de trabajo que pueda tener un usuario de CCR. La interfaz del sistema se formatear√° para que se muestre con una resoluci√≥n de 800 x 600 p√≠xeles.,LF
-13,La interfaz del sistema utilizar√° la nomenclatura CCR. El sistema debe utilizar la misma nomenclatura utilizada en el sistema WCS y los informes existentes ,LF
-13,La interfaz debe resumir los datos de una manera atractiva para la gesti√≥n de CCR. Cada tipo de informe debe tener al menos un resumen de alto nivel mostrado en el panel/interfaz de resultados,LF
-13,El sistema debe utilizar una interfaz de se√±alar y hacer clic. El 100% de toda la funcionalidad de selecci√≥n y navegaci√≥n debe poder activarse/seleccionarse con un mouse o un teclado,US
-13,La interfaz debe ser f√°cil de usar. El 90% de los usuarios deber√≠an poder utilizar con √©xito el sistema para generar un informe sobre su primer uso. La interfaz debe cumplir con los est√°ndares de usabilidad de IBM.,US
-13,Reportes deben ser faciles de generar. Los reportes deben generarse con un clic en un bot√≥n y exportarse con un clic en un  bot√≥n (despu√©s de seleccionar el informe),US
-13,"Un usuario podr√° utilizar el sistema sin instrucciones despu√©s de un corto per√≠odo de tiempo. Despu√©s de un uso, el usuario debe comprender y recordar el 90% del uso y la navegaci√≥n del sistema.",US
-13,Todos los usuarios de CCR deben recibir formaci√≥n antes de que se despliegue el sistema WCS. Se llevar√° a cabo una sesi√≥n de capacitaci√≥n para el 100% de los usuarios de CCR antes de la implementaci√≥n del sistema (seg√∫n la disponibilidad de un usuario de CCR),US
-13,El sistema WCS utilizar√° la nomenclatura y la terminolog√≠a adecuadas seg√∫n lo definido por la organizaci√≥n Corporate Community Grants. Todas las interfaces e informes se someter√°n a pruebas de usabilidad por parte de los usuarios de CCR.,US
-13,El sistema WCS estar√° disponible en todo momento siempre que se pueda acceder a la intranet interna W3 de IBM. El sistema WCS estar√° disponible el 95% del tiempo que est√© disponible la intranet interna W3 de IBM.,A
-13,El sistema WCS deber√° tener la capacidad de conectar otras bases de datos WCS designadas que actualmente no est√°n incluidas en el sistema,SC
-13,El sistema WCS tendr√° la capacidad de incluir datos para regiones fuera de los Estados Unidos y los usuarios fuera de los Estados Unidos podr√°n acceder a √©l si lo aprueba la administraci√≥n de CCR.,SC
-13,El sistema WCS se ejecutar√° en un entorno Windows. Los usuarios deber√°n acceder al WCS a trav√©s de Internet en una computadora IBM que ejecute un sistema operativo Windows 2000 o superior.,O
-13,La parte Brio del sistema WCS debe poder exportar archivos en forma de hoja de c√°lculo (formatos Microsoft Excel y Lotus 1-2-3). Brio proporcionar√° botones en la interfaz de usuario que producen/exportan informes en formatos de archivo .xls o .123.,O
-13,El sistema WCS debe ejecutar consultas a las bases de datos de WCS una vez m√°s (en un d√≠a espec√≠fico) para actualizar los datos disponibles disponibles para los usuarios de CCR. Se deben realizar consultas a bases de datos externas para actualizar los datos una vez a la semana.,MN
-13,"Todos los cambios, actualizaciones y adiciones al sistema WCS se actualizar√°n en las Gu√≠as para desarrolladores y para usuarios de WCS. Cada cambio debe reflejarse en la documentaci√≥n del sistema WCS",MN
-13,Solo los empleados autorizados de Corporate Community Grants (CCR) podr√°n acceder al sistema. Los usuarios deben autenticarse utilizando su nombre de usuario y contrase√±a de la intranet de IBM.,SE
-13,El sistema WCS no permitir√° inicios de sesi√≥n autom√°ticos por parte de ning√∫n usuario. Las cookies que contienen informaci√≥n de inicio de sesi√≥n de WCS sobre un usuario no se almacenar√°n en la computadora de un usuario.,SE
-14,Cada propietario del equipo deber√° utilizar un nombre de usuario y una contrase√±a para poder ser autenticado y acceder a la p√°gina del propietario del equipo,SE
-14,El Comisionado ser√° el √∫nico usuario autorizado por liga para ajustar la configuraci√≥n de la liga,SE
-14,Cada p√°gina debe contener un men√∫ de navegaci√≥n que muestra el √≠ndice en el que se encuentra la p√°gina actual,LF
-14,Cada p√°gina debe contener un formato similar con elementos de acci√≥n en una ubicaci√≥n y botones de navegaci√≥n en una ubicaci√≥n diferente,LF
-14,El tablero de mensajes contendr√° los 5 mensajes publicados m√°s recientemente en la p√°gina de la liga. Los mensajes contendr√°n hasta los primeros 150 caracteres del mensaje.,LF
-14,Un nuevo usuario podr√° navegar a trav√©s de las p√°ginas de la liga y el equipo dentro de los 30 segundos posteriores a llegar a la p√°gina de inicio,US
-14,"Los usuarios podr√°n acceder a las p√°ginas 'add', 'drop' y 'trade player' con un clic desde la p√°gina del propietario del equipo.",US
-14,Los usuarios podr√°n ver al menos 25 estad√≠sticas y puntos de jugadores de la NFL en cada p√°gina,US
-14,La aplicaci√≥n le pedir√° al usuario que confirme la eliminaci√≥n de un jugador o el intercambio de un jugador antes de realizar la acci√≥n.,US
-14,La aplicaci√≥n podr√° completar todas las transacciones del usuario en un cuarto de segundo despu√©s de recibir la solicitud a trav√©s de la red.,PE
-14,La aplicaci√≥n tendr√° un tiempo de inactividad de como m√°ximo 10 minutos al a√±o,A
-14,La aplicaci√≥n se ejecutar√° en un servidor de aplicaciones web.,O
-14,Se utilizar√° una base de datos primaria para almacenar datos en cach√© para usuarios activos.,O
-14,Se utilizar√° una base de datos secundaria para almacenar estad√≠sticas y datos hist√≥ricos,O
-14,Las actualizaciones de la aplicaci√≥n se realizar√°n entre las 3 a.m. y las 6 a.m. CST el mi√©rcoles por la ma√±ana durante la mitad de la temporada de la NFL.,MN
-14,Los lanzamientos de la versi√≥n del nuevo sistema se lanzar√°n al comienzo de cada temporada de la NFL,MN
-15,"El sistema RFS debe estar disponible las 24 horas del d√≠a, los 7 d√≠as de la semana, especialmente durante el per√≠odo presupuestario. El sistema RFS estar√° disponible el 90% del tiempo durante todo el a√±o y el 98% durante el per√≠odo presupuestario. 2% de las veces, el sistema estar√° disponible dentro de 1 hora desde el momento en que se informa de la situaci√≥n.",A
-15,98% de las estaciones de trabajo de los usuarios deben cumplir con los requisitos m√≠nimos de hardware antes de la implementaci√≥n. Espacio m√≠nimo en disco duro: 400 MB.,O
-15,98% de las estaciones de trabajo de los usuarios deben cumplir con los requisitos m√≠nimos de software antes de la implementaci√≥n: Microsoft Internet Explorer 5.0. Microsoft .NET Framework 1.1. Controles web de Microsoft Internet Explorer,O
-15,El sistema RFS debe poder interactuar f√°cilmente con el entorno BDW para cargar los datos. Se recibir√°n 7 archivos de datos de la BDW y se cargar√°n en el sistema RFS dentro de las 3 horas un d√≠a antes del inicio del proceso de presupuestaci√≥n cada a√±o. Los datos ser√°n a fin de mes de octubre. Los archivos de prueba (7) se cargar√°n hasta 5 veces durante el a√±o desde el BDW. ,O
-15,"Los cambios en las f√≥rmulas de ingresos y gastos deben aplicarse al sistema RFS cada a√±o antes del inicio del proceso de presupuestaci√≥n. Las f√≥rmulas de ingresos y gastos se actualizar√°n dentro de una semana de su recepci√≥n, despu√©s de lo cual se asignar√°n 2 semanas para probar los c√°lculos presupuestarios que realizar√°n conjuntamente el equipo de desarrollo del proyecto y PCG Finance.",MN
-15,Las nuevas sucursales/complejos/distritos/regiones y las cuentas de ingresos/gastos agregadas al BDW deben reflejarse en el sistema RFS. El 100% de las entidades (mencionadas anteriormente) disponibles a partir de fin de mes de octubre se cargar√°n en el sistema RFS antes del proceso de inicio del presupuesto.,MN
-15,S√≥lo el usuario autorizado podr√° acceder al sistema RFS. S√ìLO los usuarios que existan en el sistema UAS con el sistema RFS asignado a su funci√≥n (s) deber√°n acceder al sistema RFS y utilizarlo.,SE
-15,El acceso de los usuarios debe limitarse a los permisos otorgados a su(s) rol(es). A cada nivel en la jerarqu√≠a del PCG se le asignar√° un rol y los usuarios ser√°n asignados a estos roles. El acceso a la funcionalidad dentro del sistema RFS depende de los privilegios/permisos asignados al rol.,SE
-15,El producto debe cumplir con los est√°ndares y requisitos de la p√°gina de intranet de ENET Securities. El grupo de Arquitectura aprobar√° el 95% de la apariencia del producto antes de la implementaci√≥n. El 5% restante se corregir√° y aprobar√° en el plazo de un mes a partir del lanzamiento del producto.,LF
-15,Las p√°ginas de la intranet deben mostrarse correctamente en todas las resoluciones desde 800x600 y superiores. La visualizaci√≥n de todas las p√°ginas ser√° correcta en el 95% de las resoluciones antes de la implementaci√≥n. El 5% restante se corregir√° en el plazo de una semana a partir de la notificaci√≥n de la visualizaci√≥n incorrecta.,LF
-15,"Los usuarios deber√≠an poder utilizar f√°cilmente el sistema para completar con √©xito sus presupuestos dentro del tiempo estipulado para su finalizaci√≥n. Con una semana de formaci√≥n previa a la implementaci√≥n del producto, el 98% de los usuarios completar√°n sus presupuestos dentro del tiempo estipulado.",US
-15,"La interfaz del producto debe ser r√°pida. El tiempo de respuesta de la interfaz del producto no debe exceder los 2 segundos el 90% del tiempo. Durante el 10% del tiempo, el tiempo de respuesta no debe ser superior a 10 segundos. No debe ser superior a 10 segundos.",PE
+12,El producto deber· interactuar con CSR y Datastream. El producto intercambiar· mensajes entre CSR y EAM en tiempo real sin ninguna interfaz directa entre dos sistemas.,O
+12,El producto continuar· funcionando durante el cambio de actualizaciÛn o la adiciÛn de nuevos recursos. El producto deber· poder continuar funcionando sin interrupciones en el servicio debido a nuevas adiciones de recursos.,MN
+12,El producto se actualizar· periÛdicamente. El producto tendr· una nueva caracterÌstica importante introducida cada seis meses y lanzamientos de mantenimiento trimestrales cada seis meses,MN
+12,El producto funcionar· con todas las plataformas. El producto se adaptar· a cualquier tecnologÌa nueva sin ning˙n cambio en su arquitectura,MN
+12,El producto debe tener seguridad. El producto debe proporcionar autenticaciÛn y autorizaciÛn,SE
+12,El producto deber· contar con Seguridad de la informaciÛn. El producto permitir· la privacidad mediante el cifrado WS-Security e Integrity Checking.,SE
+12,El producto debe tener capacidad de auditorÌa. El producto debe almacenar mensajes durante un mÌnimo de un aÒo para fines de auditorÌa y seguimiento de transacciones,SE
+13,El sistema utilizar· los est·ndares de marca de IBM y CCR. La interfaz debe tener un logotipo de IBM y un logotipo de CCR.,LF
+13,El sistema se podr· visualizar en cualquier computadora de trabajo que pueda tener un usuario de CCR. La interfaz del sistema se formatear· para que se muestre con una resoluciÛn de 800 x 600 pÌxeles.,LF
+13,La interfaz del sistema utilizar· la nomenclatura CCR. El sistema debe utilizar la misma nomenclatura utilizada en el sistema WCS y los informes existentes ,LF
+13,La interfaz debe resumir los datos de una manera atractiva para la gestiÛn de CCR. Cada tipo de informe debe tener al menos un resumen de alto nivel mostrado en el panel/interfaz de resultados,LF
+13,El sistema debe utilizar una interfaz de seÒalar y hacer clic. El 100% de toda la funcionalidad de selecciÛn y navegaciÛn debe poder activarse/seleccionarse con un mouse o un teclado,US
+13,La interfaz debe ser f·cil de usar. El 90% de los usuarios deberÌan poder utilizar con Èxito el sistema para generar un informe sobre su primer uso. La interfaz debe cumplir con los est·ndares de usabilidad de IBM.,US
+13,Reportes deben ser faciles de generar. Los reportes deben generarse con un clic en un botÛn y exportarse con un clic en un  botÛn (despuÈs de seleccionar el informe),US
+13,"Un usuario podr· utilizar el sistema sin instrucciones despuÈs de un corto perÌodo de tiempo. DespuÈs de un uso, el usuario debe comprender y recordar el 90% del uso y la navegaciÛn del sistema.",US
+13,Todos los usuarios de CCR deben recibir formaciÛn antes de que se despliegue el sistema WCS. Se llevar· a cabo una sesiÛn de capacitaciÛn para el 100% de los usuarios de CCR antes de la implementaciÛn del sistema (seg˙n la disponibilidad de un usuario de CCR),US
+13,El sistema WCS utilizar· la nomenclatura y la terminologÌa adecuadas seg˙n lo definido por la organizaciÛn Corporate Community Grants. Todas las interfaces e informes se someter·n a pruebas de usabilidad por parte de los usuarios de CCR.,US
+13,El sistema WCS estar· disponible en todo momento siempre que se pueda acceder a la intranet interna W3 de IBM. El sistema WCS estar· disponible el 95% del tiempo que estÈ disponible la intranet interna W3 de IBM.,A
+13,El sistema WCS deber· tener la capacidad de conectar otras bases de datos WCS designadas que actualmente no est·n incluidas en el sistema,SC
+13,El sistema WCS tendr· la capacidad de incluir datos para regiones fuera de los Estados Unidos y los usuarios fuera de los Estados Unidos podr·n acceder a Èl si lo aprueba la administraciÛn de CCR.,SC
+13,El sistema WCS se ejecutar· en un entorno Windows. Los usuarios deber·n acceder al WCS a travÈs de Internet en una computadora IBM que ejecute un sistema operativo Windows 2000 o superior.,O
+13,La parte Brio del sistema WCS debe poder exportar archivos en forma de hoja de c·lculo (formatos Microsoft Excel y Lotus 1-2-3). Brio proporcionar· botones en la interfaz de usuario que producen/exportan informes en formatos de archivo .xls o .123.,O
+13,El sistema WCS debe ejecutar consultas a las bases de datos de WCS una vez m·s (en un dÌa especÌfico) para actualizar los datos disponibles disponibles para los usuarios de CCR. Se deben realizar consultas a bases de datos externas para actualizar los datos una vez a la semana.,MN
+13,"Todos los cambios, actualizaciones y adiciones al sistema WCS se actualizar·n en las GuÌas para desarrolladores y para usuarios de WCS. Cada cambio debe reflejarse en la documentaciÛn del sistema WCS",MN
+13,Solo los empleados autorizados de Corporate Community Grants (CCR) podr·n acceder al sistema. Los usuarios deben autenticarse utilizando su nombre de usuario y contraseÒa de la intranet de IBM.,SE
+13,El sistema WCS no permitir· inicios de sesiÛn autom·ticos por parte de ning˙n usuario. Las cookies que contienen informaciÛn de inicio de sesiÛn de WCS sobre un usuario no se almacenar·n en la computadora de un usuario.,SE
+14,Cada propietario del equipo deber· utilizar un nombre de usuario y una contraseÒa para poder ser autenticado y acceder a la p·gina del propietario del equipo,SE
+14,El Comisionado ser· el ˙nico usuario autorizado por liga para ajustar la configuraciÛn de la liga,SE
+14,Cada p·gina debe contener un men˙ de navegaciÛn que muestra el Ìndice en el que se encuentra la p·gina actual,LF
+14,Cada p·gina debe contener un formato similar con elementos de acciÛn en una ubicaciÛn y botones de navegaciÛn en una ubicaciÛn diferente,LF
+14,El tablero de mensajes contendr· los 5 mensajes publicados m·s recientemente en la p·gina de la liga. Los mensajes contendr·n hasta los primeros 150 caracteres del mensaje.,LF
+14,Un nuevo usuario podr· navegar a travÈs de las p·ginas de la liga y el equipo dentro de los 30 segundos posteriores a llegar a la p·gina de inicio,US
+14,"Los usuarios podr·n acceder a las p·ginas 'add', 'drop' y 'trade player' con un clic desde la p·gina del propietario del equipo.",US
+14,Los usuarios podr·n ver al menos 25 estadÌsticas y puntos de jugadores de la NFL en cada p·gina,US
+14,La aplicaciÛn le pedir· al usuario que confirme la eliminaciÛn de un jugador o el intercambio de un jugador antes de realizar la acciÛn.,US
+14,La aplicaciÛn podr· completar todas las transacciones del usuario en un cuarto de segundo despuÈs de recibir la solicitud a travÈs de la red.,PE
+14,La aplicaciÛn tendr· un tiempo de inactividad de como m·ximo 10 minutos al aÒo,A
+14,La aplicaciÛn se ejecutar· en un servidor de aplicaciones web.,O
+14,Se utilizar· una base de datos primaria para almacenar datos en cachÈ para usuarios activos.,O
+14,Se utilizar· una base de datos secundaria para almacenar estadÌsticas y datos histÛricos,O
+14,Las actualizaciones de la aplicaciÛn se realizar·n entre las 3 a.m. y las 6 a.m. CST el miÈrcoles por la maÒana durante la mitad de la temporada de la NFL.,MN
+14,Los lanzamientos de la versiÛn del nuevo sistema se lanzar·n al comienzo de cada temporada de la NFL,MN
+15,"El sistema RFS debe estar disponible las 24 horas del dÌa, los 7 dÌas de la semana, especialmente durante el perÌodo presupuestario. El sistema RFS estar· disponible el 90% del tiempo durante todo el aÒo y el 98% durante el perÌodo presupuestario. 2% de las veces, el sistema estar· disponible dentro de 1 hora desde el momento en que se informa de la situaciÛn.",A
+15,98% de las estaciones de trabajo de los usuarios deben cumplir con los requisitos mÌnimos de hardware antes de la implementaciÛn. Espacio mÌnimo en disco duro: 400 MB.,O
+15,98% de las estaciones de trabajo de los usuarios deben cumplir con los requisitos mÌnimos de software antes de la implementaciÛn: Microsoft Internet Explorer 5.0. Microsoft .NET Framework 1.1. Controles web de Microsoft Internet Explorer,O
+15,El sistema RFS debe poder interactuar f·cilmente con el entorno BDW para cargar los datos. Se recibir·n 7 archivos de datos de la BDW y se cargar·n en el sistema RFS dentro de las 3 horas un dÌa antes del inicio del proceso de presupuestaciÛn cada aÒo. Los datos ser·n a fin de mes de octubre. Los archivos de prueba (7) se cargar·n hasta 5 veces durante el aÒo desde el BDW. ,O
+15,"Los cambios en las fÛrmulas de ingresos y gastos deben aplicarse al sistema RFS cada aÒo antes del inicio del proceso de presupuestaciÛn. Las fÛrmulas de ingresos y gastos se actualizar·n dentro de una semana de su recepciÛn, despuÈs de lo cual se asignar·n 2 semanas para probar los c·lculos presupuestarios que realizar·n conjuntamente el equipo de desarrollo del proyecto y PCG Finance.",MN
+15,Las nuevas sucursales/complejos/distritos/regiones y las cuentas de ingresos/gastos agregadas al BDW deben reflejarse en el sistema RFS. El 100% de las entidades (mencionadas anteriormente) disponibles a partir de fin de mes de octubre se cargar·n en el sistema RFS antes del proceso de inicio del presupuesto.,MN
+15,SÛlo el usuario autorizado podr· acceder al sistema RFS. S”LO los usuarios que existan en el sistema UAS con el sistema RFS asignado a su funciÛn (s) deber·n acceder al sistema RFS y utilizarlo.,SE
+15,El acceso de los usuarios debe limitarse a los permisos otorgados a su(s) rol(es). A cada nivel en la jerarquÌa del PCG se le asignar· un rol y los usuarios ser·n asignados a estos roles. El acceso a la funcionalidad dentro del sistema RFS depende de los privilegios/permisos asignados al rol.,SE
+15,El producto debe cumplir con los est·ndares y requisitos de la p·gina de intranet de ENET Securities. El grupo de Arquitectura aprobar· el 95% de la apariencia del producto antes de la implementaciÛn. El 5% restante se corregir· y aprobar· en el plazo de un mes a partir del lanzamiento del producto.,LF
+15,Las p·ginas de la intranet deben mostrarse correctamente en todas las resoluciones desde 800x600 y superiores. La visualizaciÛn de todas las p·ginas ser· correcta en el 95% de las resoluciones antes de la implementaciÛn. El 5% restante se corregir· en el plazo de una semana a partir de la notificaciÛn de la visualizaciÛn incorrecta.,LF
+15,"Los usuarios deberÌan poder utilizar f·cilmente el sistema para completar con Èxito sus presupuestos dentro del tiempo estipulado para su finalizaciÛn. Con una semana de formaciÛn previa a la implementaciÛn del producto, el 98% de los usuarios completar·n sus presupuestos dentro del tiempo estipulado.",US
+15,"La interfaz del producto debe ser r·pida. El tiempo de respuesta de la interfaz del producto no debe exceder los 2 segundos el 90% del tiempo. Durante el 10% del tiempo, el tiempo de respuesta no debe ser superior a 10 segundos. No debe ser superior a 10 segundos.",PE
